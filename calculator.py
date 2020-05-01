@@ -1,6 +1,6 @@
 while True:
-	number1 = input("Enter your first number (between 1 and 27): ")
-	number2 = input("Enter your second number (between 1 and 27): ")
+	number1 = input("Enter your first number (between 1 and 34): ")
+	number2 = input("Enter your second number (between 1 and 34): ")
 	operation = input("Enter the operation (*, +, -, /): ")
 	if operation == "+":
 		if number1 == "1" and number2 == "1":
@@ -57,6 +57,20 @@ while True:
 			print("1 + 26 = 27")
 		elif number1 == "1" and number2 == "27":
 			print("1 + 27 = 28")
+		elif number1 == "1" and number2 == "28":
+			print("1 + 28 = 29")
+		elif number1 == "1" and number2 == "29":
+			print("1 + 29 = 30")
+		elif number1 == "1" and number2 == "30":
+			print("1 + 30 = 31")
+		elif number1 == "1" and number2 == "31":
+			print("1 + 31 = 32")
+		elif number1 == "1" and number2 == "32":
+			print("1 + 32 = 33")
+		elif number1 == "1" and number2 == "33":
+			print("1 + 33 = 34")
+		elif number1 == "1" and number2 == "34":
+			print("1 + 34 = 35")
 		elif number1 == "2" and number2 == "1":
 			print("2 + 1 = 3")
 		elif number1 == "2" and number2 == "2":
@@ -111,6 +125,20 @@ while True:
 			print("2 + 26 = 28")
 		elif number1 == "2" and number2 == "27":
 			print("2 + 27 = 29")
+		elif number1 == "2" and number2 == "28":
+			print("2 + 28 = 30")
+		elif number1 == "2" and number2 == "29":
+			print("2 + 29 = 31")
+		elif number1 == "2" and number2 == "30":
+			print("2 + 30 = 32")
+		elif number1 == "2" and number2 == "31":
+			print("2 + 31 = 33")
+		elif number1 == "2" and number2 == "32":
+			print("2 + 32 = 34")
+		elif number1 == "2" and number2 == "33":
+			print("2 + 33 = 35")
+		elif number1 == "2" and number2 == "34":
+			print("2 + 34 = 36")
 		elif number1 == "3" and number2 == "1":
 			print("3 + 1 = 4")
 		elif number1 == "3" and number2 == "2":
@@ -165,6 +193,20 @@ while True:
 			print("3 + 26 = 29")
 		elif number1 == "3" and number2 == "27":
 			print("3 + 27 = 30")
+		elif number1 == "3" and number2 == "28":
+			print("3 + 28 = 31")
+		elif number1 == "3" and number2 == "29":
+			print("3 + 29 = 32")
+		elif number1 == "3" and number2 == "30":
+			print("3 + 30 = 33")
+		elif number1 == "3" and number2 == "31":
+			print("3 + 31 = 34")
+		elif number1 == "3" and number2 == "32":
+			print("3 + 32 = 35")
+		elif number1 == "3" and number2 == "33":
+			print("3 + 33 = 36")
+		elif number1 == "3" and number2 == "34":
+			print("3 + 34 = 37")
 		elif number1 == "4" and number2 == "1":
 			print("4 + 1 = 5")
 		elif number1 == "4" and number2 == "2":
@@ -219,6 +261,20 @@ while True:
 			print("4 + 26 = 30")
 		elif number1 == "4" and number2 == "27":
 			print("4 + 27 = 31")
+		elif number1 == "4" and number2 == "28":
+			print("4 + 28 = 32")
+		elif number1 == "4" and number2 == "29":
+			print("4 + 29 = 33")
+		elif number1 == "4" and number2 == "30":
+			print("4 + 30 = 34")
+		elif number1 == "4" and number2 == "31":
+			print("4 + 31 = 35")
+		elif number1 == "4" and number2 == "32":
+			print("4 + 32 = 36")
+		elif number1 == "4" and number2 == "33":
+			print("4 + 33 = 37")
+		elif number1 == "4" and number2 == "34":
+			print("4 + 34 = 38")
 		elif number1 == "5" and number2 == "1":
 			print("5 + 1 = 6")
 		elif number1 == "5" and number2 == "2":
@@ -273,6 +329,20 @@ while True:
 			print("5 + 26 = 31")
 		elif number1 == "5" and number2 == "27":
 			print("5 + 27 = 32")
+		elif number1 == "5" and number2 == "28":
+			print("5 + 28 = 33")
+		elif number1 == "5" and number2 == "29":
+			print("5 + 29 = 34")
+		elif number1 == "5" and number2 == "30":
+			print("5 + 30 = 35")
+		elif number1 == "5" and number2 == "31":
+			print("5 + 31 = 36")
+		elif number1 == "5" and number2 == "32":
+			print("5 + 32 = 37")
+		elif number1 == "5" and number2 == "33":
+			print("5 + 33 = 38")
+		elif number1 == "5" and number2 == "34":
+			print("5 + 34 = 39")
 		elif number1 == "6" and number2 == "1":
 			print("6 + 1 = 7")
 		elif number1 == "6" and number2 == "2":
@@ -327,6 +397,20 @@ while True:
 			print("6 + 26 = 32")
 		elif number1 == "6" and number2 == "27":
 			print("6 + 27 = 33")
+		elif number1 == "6" and number2 == "28":
+			print("6 + 28 = 34")
+		elif number1 == "6" and number2 == "29":
+			print("6 + 29 = 35")
+		elif number1 == "6" and number2 == "30":
+			print("6 + 30 = 36")
+		elif number1 == "6" and number2 == "31":
+			print("6 + 31 = 37")
+		elif number1 == "6" and number2 == "32":
+			print("6 + 32 = 38")
+		elif number1 == "6" and number2 == "33":
+			print("6 + 33 = 39")
+		elif number1 == "6" and number2 == "34":
+			print("6 + 34 = 40")
 		elif number1 == "7" and number2 == "1":
 			print("7 + 1 = 8")
 		elif number1 == "7" and number2 == "2":
@@ -381,6 +465,20 @@ while True:
 			print("7 + 26 = 33")
 		elif number1 == "7" and number2 == "27":
 			print("7 + 27 = 34")
+		elif number1 == "7" and number2 == "28":
+			print("7 + 28 = 35")
+		elif number1 == "7" and number2 == "29":
+			print("7 + 29 = 36")
+		elif number1 == "7" and number2 == "30":
+			print("7 + 30 = 37")
+		elif number1 == "7" and number2 == "31":
+			print("7 + 31 = 38")
+		elif number1 == "7" and number2 == "32":
+			print("7 + 32 = 39")
+		elif number1 == "7" and number2 == "33":
+			print("7 + 33 = 40")
+		elif number1 == "7" and number2 == "34":
+			print("7 + 34 = 41")
 		elif number1 == "8" and number2 == "1":
 			print("8 + 1 = 9")
 		elif number1 == "8" and number2 == "2":
@@ -435,6 +533,20 @@ while True:
 			print("8 + 26 = 34")
 		elif number1 == "8" and number2 == "27":
 			print("8 + 27 = 35")
+		elif number1 == "8" and number2 == "28":
+			print("8 + 28 = 36")
+		elif number1 == "8" and number2 == "29":
+			print("8 + 29 = 37")
+		elif number1 == "8" and number2 == "30":
+			print("8 + 30 = 38")
+		elif number1 == "8" and number2 == "31":
+			print("8 + 31 = 39")
+		elif number1 == "8" and number2 == "32":
+			print("8 + 32 = 40")
+		elif number1 == "8" and number2 == "33":
+			print("8 + 33 = 41")
+		elif number1 == "8" and number2 == "34":
+			print("8 + 34 = 42")
 		elif number1 == "9" and number2 == "1":
 			print("9 + 1 = 10")
 		elif number1 == "9" and number2 == "2":
@@ -489,6 +601,20 @@ while True:
 			print("9 + 26 = 35")
 		elif number1 == "9" and number2 == "27":
 			print("9 + 27 = 36")
+		elif number1 == "9" and number2 == "28":
+			print("9 + 28 = 37")
+		elif number1 == "9" and number2 == "29":
+			print("9 + 29 = 38")
+		elif number1 == "9" and number2 == "30":
+			print("9 + 30 = 39")
+		elif number1 == "9" and number2 == "31":
+			print("9 + 31 = 40")
+		elif number1 == "9" and number2 == "32":
+			print("9 + 32 = 41")
+		elif number1 == "9" and number2 == "33":
+			print("9 + 33 = 42")
+		elif number1 == "9" and number2 == "34":
+			print("9 + 34 = 43")
 		elif number1 == "10" and number2 == "1":
 			print("10 + 1 = 11")
 		elif number1 == "10" and number2 == "2":
@@ -543,6 +669,20 @@ while True:
 			print("10 + 26 = 36")
 		elif number1 == "10" and number2 == "27":
 			print("10 + 27 = 37")
+		elif number1 == "10" and number2 == "28":
+			print("10 + 28 = 38")
+		elif number1 == "10" and number2 == "29":
+			print("10 + 29 = 39")
+		elif number1 == "10" and number2 == "30":
+			print("10 + 30 = 40")
+		elif number1 == "10" and number2 == "31":
+			print("10 + 31 = 41")
+		elif number1 == "10" and number2 == "32":
+			print("10 + 32 = 42")
+		elif number1 == "10" and number2 == "33":
+			print("10 + 33 = 43")
+		elif number1 == "10" and number2 == "34":
+			print("10 + 34 = 44")
 		elif number1 == "11" and number2 == "1":
 			print("11 + 1 = 12")
 		elif number1 == "11" and number2 == "2":
@@ -597,6 +737,20 @@ while True:
 			print("11 + 26 = 37")
 		elif number1 == "11" and number2 == "27":
 			print("11 + 27 = 38")
+		elif number1 == "11" and number2 == "28":
+			print("11 + 28 = 39")
+		elif number1 == "11" and number2 == "29":
+			print("11 + 29 = 40")
+		elif number1 == "11" and number2 == "30":
+			print("11 + 30 = 41")
+		elif number1 == "11" and number2 == "31":
+			print("11 + 31 = 42")
+		elif number1 == "11" and number2 == "32":
+			print("11 + 32 = 43")
+		elif number1 == "11" and number2 == "33":
+			print("11 + 33 = 44")
+		elif number1 == "11" and number2 == "34":
+			print("11 + 34 = 45")
 		elif number1 == "12" and number2 == "1":
 			print("12 + 1 = 13")
 		elif number1 == "12" and number2 == "2":
@@ -651,6 +805,20 @@ while True:
 			print("12 + 26 = 38")
 		elif number1 == "12" and number2 == "27":
 			print("12 + 27 = 39")
+		elif number1 == "12" and number2 == "28":
+			print("12 + 28 = 40")
+		elif number1 == "12" and number2 == "29":
+			print("12 + 29 = 41")
+		elif number1 == "12" and number2 == "30":
+			print("12 + 30 = 42")
+		elif number1 == "12" and number2 == "31":
+			print("12 + 31 = 43")
+		elif number1 == "12" and number2 == "32":
+			print("12 + 32 = 44")
+		elif number1 == "12" and number2 == "33":
+			print("12 + 33 = 45")
+		elif number1 == "12" and number2 == "34":
+			print("12 + 34 = 46")
 		elif number1 == "13" and number2 == "1":
 			print("13 + 1 = 14")
 		elif number1 == "13" and number2 == "2":
@@ -705,6 +873,20 @@ while True:
 			print("13 + 26 = 39")
 		elif number1 == "13" and number2 == "27":
 			print("13 + 27 = 40")
+		elif number1 == "13" and number2 == "28":
+			print("13 + 28 = 41")
+		elif number1 == "13" and number2 == "29":
+			print("13 + 29 = 42")
+		elif number1 == "13" and number2 == "30":
+			print("13 + 30 = 43")
+		elif number1 == "13" and number2 == "31":
+			print("13 + 31 = 44")
+		elif number1 == "13" and number2 == "32":
+			print("13 + 32 = 45")
+		elif number1 == "13" and number2 == "33":
+			print("13 + 33 = 46")
+		elif number1 == "13" and number2 == "34":
+			print("13 + 34 = 47")
 		elif number1 == "14" and number2 == "1":
 			print("14 + 1 = 15")
 		elif number1 == "14" and number2 == "2":
@@ -759,6 +941,20 @@ while True:
 			print("14 + 26 = 40")
 		elif number1 == "14" and number2 == "27":
 			print("14 + 27 = 41")
+		elif number1 == "14" and number2 == "28":
+			print("14 + 28 = 42")
+		elif number1 == "14" and number2 == "29":
+			print("14 + 29 = 43")
+		elif number1 == "14" and number2 == "30":
+			print("14 + 30 = 44")
+		elif number1 == "14" and number2 == "31":
+			print("14 + 31 = 45")
+		elif number1 == "14" and number2 == "32":
+			print("14 + 32 = 46")
+		elif number1 == "14" and number2 == "33":
+			print("14 + 33 = 47")
+		elif number1 == "14" and number2 == "34":
+			print("14 + 34 = 48")
 		elif number1 == "15" and number2 == "1":
 			print("15 + 1 = 16")
 		elif number1 == "15" and number2 == "2":
@@ -813,6 +1009,20 @@ while True:
 			print("15 + 26 = 41")
 		elif number1 == "15" and number2 == "27":
 			print("15 + 27 = 42")
+		elif number1 == "15" and number2 == "28":
+			print("15 + 28 = 43")
+		elif number1 == "15" and number2 == "29":
+			print("15 + 29 = 44")
+		elif number1 == "15" and number2 == "30":
+			print("15 + 30 = 45")
+		elif number1 == "15" and number2 == "31":
+			print("15 + 31 = 46")
+		elif number1 == "15" and number2 == "32":
+			print("15 + 32 = 47")
+		elif number1 == "15" and number2 == "33":
+			print("15 + 33 = 48")
+		elif number1 == "15" and number2 == "34":
+			print("15 + 34 = 49")
 		elif number1 == "16" and number2 == "1":
 			print("16 + 1 = 17")
 		elif number1 == "16" and number2 == "2":
@@ -867,6 +1077,20 @@ while True:
 			print("16 + 26 = 42")
 		elif number1 == "16" and number2 == "27":
 			print("16 + 27 = 43")
+		elif number1 == "16" and number2 == "28":
+			print("16 + 28 = 44")
+		elif number1 == "16" and number2 == "29":
+			print("16 + 29 = 45")
+		elif number1 == "16" and number2 == "30":
+			print("16 + 30 = 46")
+		elif number1 == "16" and number2 == "31":
+			print("16 + 31 = 47")
+		elif number1 == "16" and number2 == "32":
+			print("16 + 32 = 48")
+		elif number1 == "16" and number2 == "33":
+			print("16 + 33 = 49")
+		elif number1 == "16" and number2 == "34":
+			print("16 + 34 = 50")
 		elif number1 == "17" and number2 == "1":
 			print("17 + 1 = 18")
 		elif number1 == "17" and number2 == "2":
@@ -921,6 +1145,20 @@ while True:
 			print("17 + 26 = 43")
 		elif number1 == "17" and number2 == "27":
 			print("17 + 27 = 44")
+		elif number1 == "17" and number2 == "28":
+			print("17 + 28 = 45")
+		elif number1 == "17" and number2 == "29":
+			print("17 + 29 = 46")
+		elif number1 == "17" and number2 == "30":
+			print("17 + 30 = 47")
+		elif number1 == "17" and number2 == "31":
+			print("17 + 31 = 48")
+		elif number1 == "17" and number2 == "32":
+			print("17 + 32 = 49")
+		elif number1 == "17" and number2 == "33":
+			print("17 + 33 = 50")
+		elif number1 == "17" and number2 == "34":
+			print("17 + 34 = 51")
 		elif number1 == "18" and number2 == "1":
 			print("18 + 1 = 19")
 		elif number1 == "18" and number2 == "2":
@@ -975,6 +1213,20 @@ while True:
 			print("18 + 26 = 44")
 		elif number1 == "18" and number2 == "27":
 			print("18 + 27 = 45")
+		elif number1 == "18" and number2 == "28":
+			print("18 + 28 = 46")
+		elif number1 == "18" and number2 == "29":
+			print("18 + 29 = 47")
+		elif number1 == "18" and number2 == "30":
+			print("18 + 30 = 48")
+		elif number1 == "18" and number2 == "31":
+			print("18 + 31 = 49")
+		elif number1 == "18" and number2 == "32":
+			print("18 + 32 = 50")
+		elif number1 == "18" and number2 == "33":
+			print("18 + 33 = 51")
+		elif number1 == "18" and number2 == "34":
+			print("18 + 34 = 52")
 		elif number1 == "19" and number2 == "1":
 			print("19 + 1 = 20")
 		elif number1 == "19" and number2 == "2":
@@ -1029,6 +1281,20 @@ while True:
 			print("19 + 26 = 45")
 		elif number1 == "19" and number2 == "27":
 			print("19 + 27 = 46")
+		elif number1 == "19" and number2 == "28":
+			print("19 + 28 = 47")
+		elif number1 == "19" and number2 == "29":
+			print("19 + 29 = 48")
+		elif number1 == "19" and number2 == "30":
+			print("19 + 30 = 49")
+		elif number1 == "19" and number2 == "31":
+			print("19 + 31 = 50")
+		elif number1 == "19" and number2 == "32":
+			print("19 + 32 = 51")
+		elif number1 == "19" and number2 == "33":
+			print("19 + 33 = 52")
+		elif number1 == "19" and number2 == "34":
+			print("19 + 34 = 53")
 		elif number1 == "20" and number2 == "1":
 			print("20 + 1 = 21")
 		elif number1 == "20" and number2 == "2":
@@ -1083,6 +1349,20 @@ while True:
 			print("20 + 26 = 46")
 		elif number1 == "20" and number2 == "27":
 			print("20 + 27 = 47")
+		elif number1 == "20" and number2 == "28":
+			print("20 + 28 = 48")
+		elif number1 == "20" and number2 == "29":
+			print("20 + 29 = 49")
+		elif number1 == "20" and number2 == "30":
+			print("20 + 30 = 50")
+		elif number1 == "20" and number2 == "31":
+			print("20 + 31 = 51")
+		elif number1 == "20" and number2 == "32":
+			print("20 + 32 = 52")
+		elif number1 == "20" and number2 == "33":
+			print("20 + 33 = 53")
+		elif number1 == "20" and number2 == "34":
+			print("20 + 34 = 54")
 		elif number1 == "21" and number2 == "1":
 			print("21 + 1 = 22")
 		elif number1 == "21" and number2 == "2":
@@ -1137,6 +1417,20 @@ while True:
 			print("21 + 26 = 47")
 		elif number1 == "21" and number2 == "27":
 			print("21 + 27 = 48")
+		elif number1 == "21" and number2 == "28":
+			print("21 + 28 = 49")
+		elif number1 == "21" and number2 == "29":
+			print("21 + 29 = 50")
+		elif number1 == "21" and number2 == "30":
+			print("21 + 30 = 51")
+		elif number1 == "21" and number2 == "31":
+			print("21 + 31 = 52")
+		elif number1 == "21" and number2 == "32":
+			print("21 + 32 = 53")
+		elif number1 == "21" and number2 == "33":
+			print("21 + 33 = 54")
+		elif number1 == "21" and number2 == "34":
+			print("21 + 34 = 55")
 		elif number1 == "22" and number2 == "1":
 			print("22 + 1 = 23")
 		elif number1 == "22" and number2 == "2":
@@ -1191,6 +1485,20 @@ while True:
 			print("22 + 26 = 48")
 		elif number1 == "22" and number2 == "27":
 			print("22 + 27 = 49")
+		elif number1 == "22" and number2 == "28":
+			print("22 + 28 = 50")
+		elif number1 == "22" and number2 == "29":
+			print("22 + 29 = 51")
+		elif number1 == "22" and number2 == "30":
+			print("22 + 30 = 52")
+		elif number1 == "22" and number2 == "31":
+			print("22 + 31 = 53")
+		elif number1 == "22" and number2 == "32":
+			print("22 + 32 = 54")
+		elif number1 == "22" and number2 == "33":
+			print("22 + 33 = 55")
+		elif number1 == "22" and number2 == "34":
+			print("22 + 34 = 56")
 		elif number1 == "23" and number2 == "1":
 			print("23 + 1 = 24")
 		elif number1 == "23" and number2 == "2":
@@ -1245,6 +1553,20 @@ while True:
 			print("23 + 26 = 49")
 		elif number1 == "23" and number2 == "27":
 			print("23 + 27 = 50")
+		elif number1 == "23" and number2 == "28":
+			print("23 + 28 = 51")
+		elif number1 == "23" and number2 == "29":
+			print("23 + 29 = 52")
+		elif number1 == "23" and number2 == "30":
+			print("23 + 30 = 53")
+		elif number1 == "23" and number2 == "31":
+			print("23 + 31 = 54")
+		elif number1 == "23" and number2 == "32":
+			print("23 + 32 = 55")
+		elif number1 == "23" and number2 == "33":
+			print("23 + 33 = 56")
+		elif number1 == "23" and number2 == "34":
+			print("23 + 34 = 57")
 		elif number1 == "24" and number2 == "1":
 			print("24 + 1 = 25")
 		elif number1 == "24" and number2 == "2":
@@ -1299,6 +1621,20 @@ while True:
 			print("24 + 26 = 50")
 		elif number1 == "24" and number2 == "27":
 			print("24 + 27 = 51")
+		elif number1 == "24" and number2 == "28":
+			print("24 + 28 = 52")
+		elif number1 == "24" and number2 == "29":
+			print("24 + 29 = 53")
+		elif number1 == "24" and number2 == "30":
+			print("24 + 30 = 54")
+		elif number1 == "24" and number2 == "31":
+			print("24 + 31 = 55")
+		elif number1 == "24" and number2 == "32":
+			print("24 + 32 = 56")
+		elif number1 == "24" and number2 == "33":
+			print("24 + 33 = 57")
+		elif number1 == "24" and number2 == "34":
+			print("24 + 34 = 58")
 		elif number1 == "25" and number2 == "1":
 			print("25 + 1 = 26")
 		elif number1 == "25" and number2 == "2":
@@ -1353,6 +1689,20 @@ while True:
 			print("25 + 26 = 51")
 		elif number1 == "25" and number2 == "27":
 			print("25 + 27 = 52")
+		elif number1 == "25" and number2 == "28":
+			print("25 + 28 = 53")
+		elif number1 == "25" and number2 == "29":
+			print("25 + 29 = 54")
+		elif number1 == "25" and number2 == "30":
+			print("25 + 30 = 55")
+		elif number1 == "25" and number2 == "31":
+			print("25 + 31 = 56")
+		elif number1 == "25" and number2 == "32":
+			print("25 + 32 = 57")
+		elif number1 == "25" and number2 == "33":
+			print("25 + 33 = 58")
+		elif number1 == "25" and number2 == "34":
+			print("25 + 34 = 59")
 		elif number1 == "26" and number2 == "1":
 			print("26 + 1 = 27")
 		elif number1 == "26" and number2 == "2":
@@ -1407,6 +1757,20 @@ while True:
 			print("26 + 26 = 52")
 		elif number1 == "26" and number2 == "27":
 			print("26 + 27 = 53")
+		elif number1 == "26" and number2 == "28":
+			print("26 + 28 = 54")
+		elif number1 == "26" and number2 == "29":
+			print("26 + 29 = 55")
+		elif number1 == "26" and number2 == "30":
+			print("26 + 30 = 56")
+		elif number1 == "26" and number2 == "31":
+			print("26 + 31 = 57")
+		elif number1 == "26" and number2 == "32":
+			print("26 + 32 = 58")
+		elif number1 == "26" and number2 == "33":
+			print("26 + 33 = 59")
+		elif number1 == "26" and number2 == "34":
+			print("26 + 34 = 60")
 		elif number1 == "27" and number2 == "1":
 			print("27 + 1 = 28")
 		elif number1 == "27" and number2 == "2":
@@ -1461,6 +1825,496 @@ while True:
 			print("27 + 26 = 53")
 		elif number1 == "27" and number2 == "27":
 			print("27 + 27 = 54")
+		elif number1 == "27" and number2 == "28":
+			print("27 + 28 = 55")
+		elif number1 == "27" and number2 == "29":
+			print("27 + 29 = 56")
+		elif number1 == "27" and number2 == "30":
+			print("27 + 30 = 57")
+		elif number1 == "27" and number2 == "31":
+			print("27 + 31 = 58")
+		elif number1 == "27" and number2 == "32":
+			print("27 + 32 = 59")
+		elif number1 == "27" and number2 == "33":
+			print("27 + 33 = 60")
+		elif number1 == "27" and number2 == "34":
+			print("27 + 34 = 61")
+		elif number1 == "28" and number2 == "1":
+			print("28 + 1 = 29")
+		elif number1 == "28" and number2 == "2":
+			print("28 + 2 = 30")
+		elif number1 == "28" and number2 == "3":
+			print("28 + 3 = 31")
+		elif number1 == "28" and number2 == "4":
+			print("28 + 4 = 32")
+		elif number1 == "28" and number2 == "5":
+			print("28 + 5 = 33")
+		elif number1 == "28" and number2 == "6":
+			print("28 + 6 = 34")
+		elif number1 == "28" and number2 == "7":
+			print("28 + 7 = 35")
+		elif number1 == "28" and number2 == "8":
+			print("28 + 8 = 36")
+		elif number1 == "28" and number2 == "9":
+			print("28 + 9 = 37")
+		elif number1 == "28" and number2 == "10":
+			print("28 + 10 = 38")
+		elif number1 == "28" and number2 == "11":
+			print("28 + 11 = 39")
+		elif number1 == "28" and number2 == "12":
+			print("28 + 12 = 40")
+		elif number1 == "28" and number2 == "13":
+			print("28 + 13 = 41")
+		elif number1 == "28" and number2 == "14":
+			print("28 + 14 = 42")
+		elif number1 == "28" and number2 == "15":
+			print("28 + 15 = 43")
+		elif number1 == "28" and number2 == "16":
+			print("28 + 16 = 44")
+		elif number1 == "28" and number2 == "17":
+			print("28 + 17 = 45")
+		elif number1 == "28" and number2 == "18":
+			print("28 + 18 = 46")
+		elif number1 == "28" and number2 == "19":
+			print("28 + 19 = 47")
+		elif number1 == "28" and number2 == "20":
+			print("28 + 20 = 48")
+		elif number1 == "28" and number2 == "21":
+			print("28 + 21 = 49")
+		elif number1 == "28" and number2 == "22":
+			print("28 + 22 = 50")
+		elif number1 == "28" and number2 == "23":
+			print("28 + 23 = 51")
+		elif number1 == "28" and number2 == "24":
+			print("28 + 24 = 52")
+		elif number1 == "28" and number2 == "25":
+			print("28 + 25 = 53")
+		elif number1 == "28" and number2 == "26":
+			print("28 + 26 = 54")
+		elif number1 == "28" and number2 == "27":
+			print("28 + 27 = 55")
+		elif number1 == "28" and number2 == "28":
+			print("28 + 28 = 56")
+		elif number1 == "28" and number2 == "29":
+			print("28 + 29 = 57")
+		elif number1 == "28" and number2 == "30":
+			print("28 + 30 = 58")
+		elif number1 == "28" and number2 == "31":
+			print("28 + 31 = 59")
+		elif number1 == "28" and number2 == "32":
+			print("28 + 32 = 60")
+		elif number1 == "28" and number2 == "33":
+			print("28 + 33 = 61")
+		elif number1 == "28" and number2 == "34":
+			print("28 + 34 = 62")
+		elif number1 == "29" and number2 == "1":
+			print("29 + 1 = 30")
+		elif number1 == "29" and number2 == "2":
+			print("29 + 2 = 31")
+		elif number1 == "29" and number2 == "3":
+			print("29 + 3 = 32")
+		elif number1 == "29" and number2 == "4":
+			print("29 + 4 = 33")
+		elif number1 == "29" and number2 == "5":
+			print("29 + 5 = 34")
+		elif number1 == "29" and number2 == "6":
+			print("29 + 6 = 35")
+		elif number1 == "29" and number2 == "7":
+			print("29 + 7 = 36")
+		elif number1 == "29" and number2 == "8":
+			print("29 + 8 = 37")
+		elif number1 == "29" and number2 == "9":
+			print("29 + 9 = 38")
+		elif number1 == "29" and number2 == "10":
+			print("29 + 10 = 39")
+		elif number1 == "29" and number2 == "11":
+			print("29 + 11 = 40")
+		elif number1 == "29" and number2 == "12":
+			print("29 + 12 = 41")
+		elif number1 == "29" and number2 == "13":
+			print("29 + 13 = 42")
+		elif number1 == "29" and number2 == "14":
+			print("29 + 14 = 43")
+		elif number1 == "29" and number2 == "15":
+			print("29 + 15 = 44")
+		elif number1 == "29" and number2 == "16":
+			print("29 + 16 = 45")
+		elif number1 == "29" and number2 == "17":
+			print("29 + 17 = 46")
+		elif number1 == "29" and number2 == "18":
+			print("29 + 18 = 47")
+		elif number1 == "29" and number2 == "19":
+			print("29 + 19 = 48")
+		elif number1 == "29" and number2 == "20":
+			print("29 + 20 = 49")
+		elif number1 == "29" and number2 == "21":
+			print("29 + 21 = 50")
+		elif number1 == "29" and number2 == "22":
+			print("29 + 22 = 51")
+		elif number1 == "29" and number2 == "23":
+			print("29 + 23 = 52")
+		elif number1 == "29" and number2 == "24":
+			print("29 + 24 = 53")
+		elif number1 == "29" and number2 == "25":
+			print("29 + 25 = 54")
+		elif number1 == "29" and number2 == "26":
+			print("29 + 26 = 55")
+		elif number1 == "29" and number2 == "27":
+			print("29 + 27 = 56")
+		elif number1 == "29" and number2 == "28":
+			print("29 + 28 = 57")
+		elif number1 == "29" and number2 == "29":
+			print("29 + 29 = 58")
+		elif number1 == "29" and number2 == "30":
+			print("29 + 30 = 59")
+		elif number1 == "29" and number2 == "31":
+			print("29 + 31 = 60")
+		elif number1 == "29" and number2 == "32":
+			print("29 + 32 = 61")
+		elif number1 == "29" and number2 == "33":
+			print("29 + 33 = 62")
+		elif number1 == "29" and number2 == "34":
+			print("29 + 34 = 63")
+		elif number1 == "30" and number2 == "1":
+			print("30 + 1 = 31")
+		elif number1 == "30" and number2 == "2":
+			print("30 + 2 = 32")
+		elif number1 == "30" and number2 == "3":
+			print("30 + 3 = 33")
+		elif number1 == "30" and number2 == "4":
+			print("30 + 4 = 34")
+		elif number1 == "30" and number2 == "5":
+			print("30 + 5 = 35")
+		elif number1 == "30" and number2 == "6":
+			print("30 + 6 = 36")
+		elif number1 == "30" and number2 == "7":
+			print("30 + 7 = 37")
+		elif number1 == "30" and number2 == "8":
+			print("30 + 8 = 38")
+		elif number1 == "30" and number2 == "9":
+			print("30 + 9 = 39")
+		elif number1 == "30" and number2 == "10":
+			print("30 + 10 = 40")
+		elif number1 == "30" and number2 == "11":
+			print("30 + 11 = 41")
+		elif number1 == "30" and number2 == "12":
+			print("30 + 12 = 42")
+		elif number1 == "30" and number2 == "13":
+			print("30 + 13 = 43")
+		elif number1 == "30" and number2 == "14":
+			print("30 + 14 = 44")
+		elif number1 == "30" and number2 == "15":
+			print("30 + 15 = 45")
+		elif number1 == "30" and number2 == "16":
+			print("30 + 16 = 46")
+		elif number1 == "30" and number2 == "17":
+			print("30 + 17 = 47")
+		elif number1 == "30" and number2 == "18":
+			print("30 + 18 = 48")
+		elif number1 == "30" and number2 == "19":
+			print("30 + 19 = 49")
+		elif number1 == "30" and number2 == "20":
+			print("30 + 20 = 50")
+		elif number1 == "30" and number2 == "21":
+			print("30 + 21 = 51")
+		elif number1 == "30" and number2 == "22":
+			print("30 + 22 = 52")
+		elif number1 == "30" and number2 == "23":
+			print("30 + 23 = 53")
+		elif number1 == "30" and number2 == "24":
+			print("30 + 24 = 54")
+		elif number1 == "30" and number2 == "25":
+			print("30 + 25 = 55")
+		elif number1 == "30" and number2 == "26":
+			print("30 + 26 = 56")
+		elif number1 == "30" and number2 == "27":
+			print("30 + 27 = 57")
+		elif number1 == "30" and number2 == "28":
+			print("30 + 28 = 58")
+		elif number1 == "30" and number2 == "29":
+			print("30 + 29 = 59")
+		elif number1 == "30" and number2 == "30":
+			print("30 + 30 = 60")
+		elif number1 == "30" and number2 == "31":
+			print("30 + 31 = 61")
+		elif number1 == "30" and number2 == "32":
+			print("30 + 32 = 62")
+		elif number1 == "30" and number2 == "33":
+			print("30 + 33 = 63")
+		elif number1 == "30" and number2 == "34":
+			print("30 + 34 = 64")
+		elif number1 == "31" and number2 == "1":
+			print("31 + 1 = 32")
+		elif number1 == "31" and number2 == "2":
+			print("31 + 2 = 33")
+		elif number1 == "31" and number2 == "3":
+			print("31 + 3 = 34")
+		elif number1 == "31" and number2 == "4":
+			print("31 + 4 = 35")
+		elif number1 == "31" and number2 == "5":
+			print("31 + 5 = 36")
+		elif number1 == "31" and number2 == "6":
+			print("31 + 6 = 37")
+		elif number1 == "31" and number2 == "7":
+			print("31 + 7 = 38")
+		elif number1 == "31" and number2 == "8":
+			print("31 + 8 = 39")
+		elif number1 == "31" and number2 == "9":
+			print("31 + 9 = 40")
+		elif number1 == "31" and number2 == "10":
+			print("31 + 10 = 41")
+		elif number1 == "31" and number2 == "11":
+			print("31 + 11 = 42")
+		elif number1 == "31" and number2 == "12":
+			print("31 + 12 = 43")
+		elif number1 == "31" and number2 == "13":
+			print("31 + 13 = 44")
+		elif number1 == "31" and number2 == "14":
+			print("31 + 14 = 45")
+		elif number1 == "31" and number2 == "15":
+			print("31 + 15 = 46")
+		elif number1 == "31" and number2 == "16":
+			print("31 + 16 = 47")
+		elif number1 == "31" and number2 == "17":
+			print("31 + 17 = 48")
+		elif number1 == "31" and number2 == "18":
+			print("31 + 18 = 49")
+		elif number1 == "31" and number2 == "19":
+			print("31 + 19 = 50")
+		elif number1 == "31" and number2 == "20":
+			print("31 + 20 = 51")
+		elif number1 == "31" and number2 == "21":
+			print("31 + 21 = 52")
+		elif number1 == "31" and number2 == "22":
+			print("31 + 22 = 53")
+		elif number1 == "31" and number2 == "23":
+			print("31 + 23 = 54")
+		elif number1 == "31" and number2 == "24":
+			print("31 + 24 = 55")
+		elif number1 == "31" and number2 == "25":
+			print("31 + 25 = 56")
+		elif number1 == "31" and number2 == "26":
+			print("31 + 26 = 57")
+		elif number1 == "31" and number2 == "27":
+			print("31 + 27 = 58")
+		elif number1 == "31" and number2 == "28":
+			print("31 + 28 = 59")
+		elif number1 == "31" and number2 == "29":
+			print("31 + 29 = 60")
+		elif number1 == "31" and number2 == "30":
+			print("31 + 30 = 61")
+		elif number1 == "31" and number2 == "31":
+			print("31 + 31 = 62")
+		elif number1 == "31" and number2 == "32":
+			print("31 + 32 = 63")
+		elif number1 == "31" and number2 == "33":
+			print("31 + 33 = 64")
+		elif number1 == "31" and number2 == "34":
+			print("31 + 34 = 65")
+		elif number1 == "32" and number2 == "1":
+			print("32 + 1 = 33")
+		elif number1 == "32" and number2 == "2":
+			print("32 + 2 = 34")
+		elif number1 == "32" and number2 == "3":
+			print("32 + 3 = 35")
+		elif number1 == "32" and number2 == "4":
+			print("32 + 4 = 36")
+		elif number1 == "32" and number2 == "5":
+			print("32 + 5 = 37")
+		elif number1 == "32" and number2 == "6":
+			print("32 + 6 = 38")
+		elif number1 == "32" and number2 == "7":
+			print("32 + 7 = 39")
+		elif number1 == "32" and number2 == "8":
+			print("32 + 8 = 40")
+		elif number1 == "32" and number2 == "9":
+			print("32 + 9 = 41")
+		elif number1 == "32" and number2 == "10":
+			print("32 + 10 = 42")
+		elif number1 == "32" and number2 == "11":
+			print("32 + 11 = 43")
+		elif number1 == "32" and number2 == "12":
+			print("32 + 12 = 44")
+		elif number1 == "32" and number2 == "13":
+			print("32 + 13 = 45")
+		elif number1 == "32" and number2 == "14":
+			print("32 + 14 = 46")
+		elif number1 == "32" and number2 == "15":
+			print("32 + 15 = 47")
+		elif number1 == "32" and number2 == "16":
+			print("32 + 16 = 48")
+		elif number1 == "32" and number2 == "17":
+			print("32 + 17 = 49")
+		elif number1 == "32" and number2 == "18":
+			print("32 + 18 = 50")
+		elif number1 == "32" and number2 == "19":
+			print("32 + 19 = 51")
+		elif number1 == "32" and number2 == "20":
+			print("32 + 20 = 52")
+		elif number1 == "32" and number2 == "21":
+			print("32 + 21 = 53")
+		elif number1 == "32" and number2 == "22":
+			print("32 + 22 = 54")
+		elif number1 == "32" and number2 == "23":
+			print("32 + 23 = 55")
+		elif number1 == "32" and number2 == "24":
+			print("32 + 24 = 56")
+		elif number1 == "32" and number2 == "25":
+			print("32 + 25 = 57")
+		elif number1 == "32" and number2 == "26":
+			print("32 + 26 = 58")
+		elif number1 == "32" and number2 == "27":
+			print("32 + 27 = 59")
+		elif number1 == "32" and number2 == "28":
+			print("32 + 28 = 60")
+		elif number1 == "32" and number2 == "29":
+			print("32 + 29 = 61")
+		elif number1 == "32" and number2 == "30":
+			print("32 + 30 = 62")
+		elif number1 == "32" and number2 == "31":
+			print("32 + 31 = 63")
+		elif number1 == "32" and number2 == "32":
+			print("32 + 32 = 64")
+		elif number1 == "32" and number2 == "33":
+			print("32 + 33 = 65")
+		elif number1 == "32" and number2 == "34":
+			print("32 + 34 = 66")
+		elif number1 == "33" and number2 == "1":
+			print("33 + 1 = 34")
+		elif number1 == "33" and number2 == "2":
+			print("33 + 2 = 35")
+		elif number1 == "33" and number2 == "3":
+			print("33 + 3 = 36")
+		elif number1 == "33" and number2 == "4":
+			print("33 + 4 = 37")
+		elif number1 == "33" and number2 == "5":
+			print("33 + 5 = 38")
+		elif number1 == "33" and number2 == "6":
+			print("33 + 6 = 39")
+		elif number1 == "33" and number2 == "7":
+			print("33 + 7 = 40")
+		elif number1 == "33" and number2 == "8":
+			print("33 + 8 = 41")
+		elif number1 == "33" and number2 == "9":
+			print("33 + 9 = 42")
+		elif number1 == "33" and number2 == "10":
+			print("33 + 10 = 43")
+		elif number1 == "33" and number2 == "11":
+			print("33 + 11 = 44")
+		elif number1 == "33" and number2 == "12":
+			print("33 + 12 = 45")
+		elif number1 == "33" and number2 == "13":
+			print("33 + 13 = 46")
+		elif number1 == "33" and number2 == "14":
+			print("33 + 14 = 47")
+		elif number1 == "33" and number2 == "15":
+			print("33 + 15 = 48")
+		elif number1 == "33" and number2 == "16":
+			print("33 + 16 = 49")
+		elif number1 == "33" and number2 == "17":
+			print("33 + 17 = 50")
+		elif number1 == "33" and number2 == "18":
+			print("33 + 18 = 51")
+		elif number1 == "33" and number2 == "19":
+			print("33 + 19 = 52")
+		elif number1 == "33" and number2 == "20":
+			print("33 + 20 = 53")
+		elif number1 == "33" and number2 == "21":
+			print("33 + 21 = 54")
+		elif number1 == "33" and number2 == "22":
+			print("33 + 22 = 55")
+		elif number1 == "33" and number2 == "23":
+			print("33 + 23 = 56")
+		elif number1 == "33" and number2 == "24":
+			print("33 + 24 = 57")
+		elif number1 == "33" and number2 == "25":
+			print("33 + 25 = 58")
+		elif number1 == "33" and number2 == "26":
+			print("33 + 26 = 59")
+		elif number1 == "33" and number2 == "27":
+			print("33 + 27 = 60")
+		elif number1 == "33" and number2 == "28":
+			print("33 + 28 = 61")
+		elif number1 == "33" and number2 == "29":
+			print("33 + 29 = 62")
+		elif number1 == "33" and number2 == "30":
+			print("33 + 30 = 63")
+		elif number1 == "33" and number2 == "31":
+			print("33 + 31 = 64")
+		elif number1 == "33" and number2 == "32":
+			print("33 + 32 = 65")
+		elif number1 == "33" and number2 == "33":
+			print("33 + 33 = 66")
+		elif number1 == "33" and number2 == "34":
+			print("33 + 34 = 67")
+		elif number1 == "34" and number2 == "1":
+			print("34 + 1 = 35")
+		elif number1 == "34" and number2 == "2":
+			print("34 + 2 = 36")
+		elif number1 == "34" and number2 == "3":
+			print("34 + 3 = 37")
+		elif number1 == "34" and number2 == "4":
+			print("34 + 4 = 38")
+		elif number1 == "34" and number2 == "5":
+			print("34 + 5 = 39")
+		elif number1 == "34" and number2 == "6":
+			print("34 + 6 = 40")
+		elif number1 == "34" and number2 == "7":
+			print("34 + 7 = 41")
+		elif number1 == "34" and number2 == "8":
+			print("34 + 8 = 42")
+		elif number1 == "34" and number2 == "9":
+			print("34 + 9 = 43")
+		elif number1 == "34" and number2 == "10":
+			print("34 + 10 = 44")
+		elif number1 == "34" and number2 == "11":
+			print("34 + 11 = 45")
+		elif number1 == "34" and number2 == "12":
+			print("34 + 12 = 46")
+		elif number1 == "34" and number2 == "13":
+			print("34 + 13 = 47")
+		elif number1 == "34" and number2 == "14":
+			print("34 + 14 = 48")
+		elif number1 == "34" and number2 == "15":
+			print("34 + 15 = 49")
+		elif number1 == "34" and number2 == "16":
+			print("34 + 16 = 50")
+		elif number1 == "34" and number2 == "17":
+			print("34 + 17 = 51")
+		elif number1 == "34" and number2 == "18":
+			print("34 + 18 = 52")
+		elif number1 == "34" and number2 == "19":
+			print("34 + 19 = 53")
+		elif number1 == "34" and number2 == "20":
+			print("34 + 20 = 54")
+		elif number1 == "34" and number2 == "21":
+			print("34 + 21 = 55")
+		elif number1 == "34" and number2 == "22":
+			print("34 + 22 = 56")
+		elif number1 == "34" and number2 == "23":
+			print("34 + 23 = 57")
+		elif number1 == "34" and number2 == "24":
+			print("34 + 24 = 58")
+		elif number1 == "34" and number2 == "25":
+			print("34 + 25 = 59")
+		elif number1 == "34" and number2 == "26":
+			print("34 + 26 = 60")
+		elif number1 == "34" and number2 == "27":
+			print("34 + 27 = 61")
+		elif number1 == "34" and number2 == "28":
+			print("34 + 28 = 62")
+		elif number1 == "34" and number2 == "29":
+			print("34 + 29 = 63")
+		elif number1 == "34" and number2 == "30":
+			print("34 + 30 = 64")
+		elif number1 == "34" and number2 == "31":
+			print("34 + 31 = 65")
+		elif number1 == "34" and number2 == "32":
+			print("34 + 32 = 66")
+		elif number1 == "34" and number2 == "33":
+			print("34 + 33 = 67")
+		elif number1 == "34" and number2 == "34":
+			print("34 + 34 = 68")
 	elif operation == "-":
 		if number1 == "1" and number2 == "1":
 			print("1 - 1 = 0")
@@ -1516,6 +2370,20 @@ while True:
 			print("1 - 26 = -25")
 		elif number1 == "1" and number2 == "27":
 			print("1 - 27 = -26")
+		elif number1 == "1" and number2 == "28":
+			print("1 - 28 = -27")
+		elif number1 == "1" and number2 == "29":
+			print("1 - 29 = -28")
+		elif number1 == "1" and number2 == "30":
+			print("1 - 30 = -29")
+		elif number1 == "1" and number2 == "31":
+			print("1 - 31 = -30")
+		elif number1 == "1" and number2 == "32":
+			print("1 - 32 = -31")
+		elif number1 == "1" and number2 == "33":
+			print("1 - 33 = -32")
+		elif number1 == "1" and number2 == "34":
+			print("1 - 34 = -33")
 		elif number1 == "2" and number2 == "1":
 			print("2 - 1 = 1")
 		elif number1 == "2" and number2 == "2":
@@ -1570,6 +2438,20 @@ while True:
 			print("2 - 26 = -24")
 		elif number1 == "2" and number2 == "27":
 			print("2 - 27 = -25")
+		elif number1 == "2" and number2 == "28":
+			print("2 - 28 = -26")
+		elif number1 == "2" and number2 == "29":
+			print("2 - 29 = -27")
+		elif number1 == "2" and number2 == "30":
+			print("2 - 30 = -28")
+		elif number1 == "2" and number2 == "31":
+			print("2 - 31 = -29")
+		elif number1 == "2" and number2 == "32":
+			print("2 - 32 = -30")
+		elif number1 == "2" and number2 == "33":
+			print("2 - 33 = -31")
+		elif number1 == "2" and number2 == "34":
+			print("2 - 34 = -32")
 		elif number1 == "3" and number2 == "1":
 			print("3 - 1 = 2")
 		elif number1 == "3" and number2 == "2":
@@ -1624,6 +2506,20 @@ while True:
 			print("3 - 26 = -23")
 		elif number1 == "3" and number2 == "27":
 			print("3 - 27 = -24")
+		elif number1 == "3" and number2 == "28":
+			print("3 - 28 = -25")
+		elif number1 == "3" and number2 == "29":
+			print("3 - 29 = -26")
+		elif number1 == "3" and number2 == "30":
+			print("3 - 30 = -27")
+		elif number1 == "3" and number2 == "31":
+			print("3 - 31 = -28")
+		elif number1 == "3" and number2 == "32":
+			print("3 - 32 = -29")
+		elif number1 == "3" and number2 == "33":
+			print("3 - 33 = -30")
+		elif number1 == "3" and number2 == "34":
+			print("3 - 34 = -31")
 		elif number1 == "4" and number2 == "1":
 			print("4 - 1 = 3")
 		elif number1 == "4" and number2 == "2":
@@ -1678,6 +2574,20 @@ while True:
 			print("4 - 26 = -22")
 		elif number1 == "4" and number2 == "27":
 			print("4 - 27 = -23")
+		elif number1 == "4" and number2 == "28":
+			print("4 - 28 = -24")
+		elif number1 == "4" and number2 == "29":
+			print("4 - 29 = -25")
+		elif number1 == "4" and number2 == "30":
+			print("4 - 30 = -26")
+		elif number1 == "4" and number2 == "31":
+			print("4 - 31 = -27")
+		elif number1 == "4" and number2 == "32":
+			print("4 - 32 = -28")
+		elif number1 == "4" and number2 == "33":
+			print("4 - 33 = -29")
+		elif number1 == "4" and number2 == "34":
+			print("4 - 34 = -30")
 		elif number1 == "5" and number2 == "1":
 			print("5 - 1 = 4")
 		elif number1 == "5" and number2 == "2":
@@ -1732,6 +2642,20 @@ while True:
 			print("5 - 26 = -21")
 		elif number1 == "5" and number2 == "27":
 			print("5 - 27 = -22")
+		elif number1 == "5" and number2 == "28":
+			print("5 - 28 = -23")
+		elif number1 == "5" and number2 == "29":
+			print("5 - 29 = -24")
+		elif number1 == "5" and number2 == "30":
+			print("5 - 30 = -25")
+		elif number1 == "5" and number2 == "31":
+			print("5 - 31 = -26")
+		elif number1 == "5" and number2 == "32":
+			print("5 - 32 = -27")
+		elif number1 == "5" and number2 == "33":
+			print("5 - 33 = -28")
+		elif number1 == "5" and number2 == "34":
+			print("5 - 34 = -29")
 		elif number1 == "6" and number2 == "1":
 			print("6 - 1 = 5")
 		elif number1 == "6" and number2 == "2":
@@ -1786,6 +2710,20 @@ while True:
 			print("6 - 26 = -20")
 		elif number1 == "6" and number2 == "27":
 			print("6 - 27 = -21")
+		elif number1 == "6" and number2 == "28":
+			print("6 - 28 = -22")
+		elif number1 == "6" and number2 == "29":
+			print("6 - 29 = -23")
+		elif number1 == "6" and number2 == "30":
+			print("6 - 30 = -24")
+		elif number1 == "6" and number2 == "31":
+			print("6 - 31 = -25")
+		elif number1 == "6" and number2 == "32":
+			print("6 - 32 = -26")
+		elif number1 == "6" and number2 == "33":
+			print("6 - 33 = -27")
+		elif number1 == "6" and number2 == "34":
+			print("6 - 34 = -28")
 		elif number1 == "7" and number2 == "1":
 			print("7 - 1 = 6")
 		elif number1 == "7" and number2 == "2":
@@ -1840,6 +2778,20 @@ while True:
 			print("7 - 26 = -19")
 		elif number1 == "7" and number2 == "27":
 			print("7 - 27 = -20")
+		elif number1 == "7" and number2 == "28":
+			print("7 - 28 = -21")
+		elif number1 == "7" and number2 == "29":
+			print("7 - 29 = -22")
+		elif number1 == "7" and number2 == "30":
+			print("7 - 30 = -23")
+		elif number1 == "7" and number2 == "31":
+			print("7 - 31 = -24")
+		elif number1 == "7" and number2 == "32":
+			print("7 - 32 = -25")
+		elif number1 == "7" and number2 == "33":
+			print("7 - 33 = -26")
+		elif number1 == "7" and number2 == "34":
+			print("7 - 34 = -27")
 		elif number1 == "8" and number2 == "1":
 			print("8 - 1 = 7")
 		elif number1 == "8" and number2 == "2":
@@ -1894,6 +2846,20 @@ while True:
 			print("8 - 26 = -18")
 		elif number1 == "8" and number2 == "27":
 			print("8 - 27 = -19")
+		elif number1 == "8" and number2 == "28":
+			print("8 - 28 = -20")
+		elif number1 == "8" and number2 == "29":
+			print("8 - 29 = -21")
+		elif number1 == "8" and number2 == "30":
+			print("8 - 30 = -22")
+		elif number1 == "8" and number2 == "31":
+			print("8 - 31 = -23")
+		elif number1 == "8" and number2 == "32":
+			print("8 - 32 = -24")
+		elif number1 == "8" and number2 == "33":
+			print("8 - 33 = -25")
+		elif number1 == "8" and number2 == "34":
+			print("8 - 34 = -26")
 		elif number1 == "9" and number2 == "1":
 			print("9 - 1 = 8")
 		elif number1 == "9" and number2 == "2":
@@ -1948,6 +2914,20 @@ while True:
 			print("9 - 26 = -17")
 		elif number1 == "9" and number2 == "27":
 			print("9 - 27 = -18")
+		elif number1 == "9" and number2 == "28":
+			print("9 - 28 = -19")
+		elif number1 == "9" and number2 == "29":
+			print("9 - 29 = -20")
+		elif number1 == "9" and number2 == "30":
+			print("9 - 30 = -21")
+		elif number1 == "9" and number2 == "31":
+			print("9 - 31 = -22")
+		elif number1 == "9" and number2 == "32":
+			print("9 - 32 = -23")
+		elif number1 == "9" and number2 == "33":
+			print("9 - 33 = -24")
+		elif number1 == "9" and number2 == "34":
+			print("9 - 34 = -25")
 		elif number1 == "10" and number2 == "1":
 			print("10 - 1 = 9")
 		elif number1 == "10" and number2 == "2":
@@ -2002,6 +2982,20 @@ while True:
 			print("10 - 26 = -16")
 		elif number1 == "10" and number2 == "27":
 			print("10 - 27 = -17")
+		elif number1 == "10" and number2 == "28":
+			print("10 - 28 = -18")
+		elif number1 == "10" and number2 == "29":
+			print("10 - 29 = -19")
+		elif number1 == "10" and number2 == "30":
+			print("10 - 30 = -20")
+		elif number1 == "10" and number2 == "31":
+			print("10 - 31 = -21")
+		elif number1 == "10" and number2 == "32":
+			print("10 - 32 = -22")
+		elif number1 == "10" and number2 == "33":
+			print("10 - 33 = -23")
+		elif number1 == "10" and number2 == "34":
+			print("10 - 34 = -24")
 		elif number1 == "11" and number2 == "1":
 			print("11 - 1 = 10")
 		elif number1 == "11" and number2 == "2":
@@ -2056,6 +3050,20 @@ while True:
 			print("11 - 26 = -15")
 		elif number1 == "11" and number2 == "27":
 			print("11 - 27 = -16")
+		elif number1 == "11" and number2 == "28":
+			print("11 - 28 = -17")
+		elif number1 == "11" and number2 == "29":
+			print("11 - 29 = -18")
+		elif number1 == "11" and number2 == "30":
+			print("11 - 30 = -19")
+		elif number1 == "11" and number2 == "31":
+			print("11 - 31 = -20")
+		elif number1 == "11" and number2 == "32":
+			print("11 - 32 = -21")
+		elif number1 == "11" and number2 == "33":
+			print("11 - 33 = -22")
+		elif number1 == "11" and number2 == "34":
+			print("11 - 34 = -23")
 		elif number1 == "12" and number2 == "1":
 			print("12 - 1 = 11")
 		elif number1 == "12" and number2 == "2":
@@ -2110,6 +3118,20 @@ while True:
 			print("12 - 26 = -14")
 		elif number1 == "12" and number2 == "27":
 			print("12 - 27 = -15")
+		elif number1 == "12" and number2 == "28":
+			print("12 - 28 = -16")
+		elif number1 == "12" and number2 == "29":
+			print("12 - 29 = -17")
+		elif number1 == "12" and number2 == "30":
+			print("12 - 30 = -18")
+		elif number1 == "12" and number2 == "31":
+			print("12 - 31 = -19")
+		elif number1 == "12" and number2 == "32":
+			print("12 - 32 = -20")
+		elif number1 == "12" and number2 == "33":
+			print("12 - 33 = -21")
+		elif number1 == "12" and number2 == "34":
+			print("12 - 34 = -22")
 		elif number1 == "13" and number2 == "1":
 			print("13 - 1 = 12")
 		elif number1 == "13" and number2 == "2":
@@ -2164,6 +3186,20 @@ while True:
 			print("13 - 26 = -13")
 		elif number1 == "13" and number2 == "27":
 			print("13 - 27 = -14")
+		elif number1 == "13" and number2 == "28":
+			print("13 - 28 = -15")
+		elif number1 == "13" and number2 == "29":
+			print("13 - 29 = -16")
+		elif number1 == "13" and number2 == "30":
+			print("13 - 30 = -17")
+		elif number1 == "13" and number2 == "31":
+			print("13 - 31 = -18")
+		elif number1 == "13" and number2 == "32":
+			print("13 - 32 = -19")
+		elif number1 == "13" and number2 == "33":
+			print("13 - 33 = -20")
+		elif number1 == "13" and number2 == "34":
+			print("13 - 34 = -21")
 		elif number1 == "14" and number2 == "1":
 			print("14 - 1 = 13")
 		elif number1 == "14" and number2 == "2":
@@ -2218,6 +3254,20 @@ while True:
 			print("14 - 26 = -12")
 		elif number1 == "14" and number2 == "27":
 			print("14 - 27 = -13")
+		elif number1 == "14" and number2 == "28":
+			print("14 - 28 = -14")
+		elif number1 == "14" and number2 == "29":
+			print("14 - 29 = -15")
+		elif number1 == "14" and number2 == "30":
+			print("14 - 30 = -16")
+		elif number1 == "14" and number2 == "31":
+			print("14 - 31 = -17")
+		elif number1 == "14" and number2 == "32":
+			print("14 - 32 = -18")
+		elif number1 == "14" and number2 == "33":
+			print("14 - 33 = -19")
+		elif number1 == "14" and number2 == "34":
+			print("14 - 34 = -20")
 		elif number1 == "15" and number2 == "1":
 			print("15 - 1 = 14")
 		elif number1 == "15" and number2 == "2":
@@ -2272,6 +3322,20 @@ while True:
 			print("15 - 26 = -11")
 		elif number1 == "15" and number2 == "27":
 			print("15 - 27 = -12")
+		elif number1 == "15" and number2 == "28":
+			print("15 - 28 = -13")
+		elif number1 == "15" and number2 == "29":
+			print("15 - 29 = -14")
+		elif number1 == "15" and number2 == "30":
+			print("15 - 30 = -15")
+		elif number1 == "15" and number2 == "31":
+			print("15 - 31 = -16")
+		elif number1 == "15" and number2 == "32":
+			print("15 - 32 = -17")
+		elif number1 == "15" and number2 == "33":
+			print("15 - 33 = -18")
+		elif number1 == "15" and number2 == "34":
+			print("15 - 34 = -19")
 		elif number1 == "16" and number2 == "1":
 			print("16 - 1 = 15")
 		elif number1 == "16" and number2 == "2":
@@ -2326,6 +3390,20 @@ while True:
 			print("16 - 26 = -10")
 		elif number1 == "16" and number2 == "27":
 			print("16 - 27 = -11")
+		elif number1 == "16" and number2 == "28":
+			print("16 - 28 = -12")
+		elif number1 == "16" and number2 == "29":
+			print("16 - 29 = -13")
+		elif number1 == "16" and number2 == "30":
+			print("16 - 30 = -14")
+		elif number1 == "16" and number2 == "31":
+			print("16 - 31 = -15")
+		elif number1 == "16" and number2 == "32":
+			print("16 - 32 = -16")
+		elif number1 == "16" and number2 == "33":
+			print("16 - 33 = -17")
+		elif number1 == "16" and number2 == "34":
+			print("16 - 34 = -18")
 		elif number1 == "17" and number2 == "1":
 			print("17 - 1 = 16")
 		elif number1 == "17" and number2 == "2":
@@ -2380,6 +3458,20 @@ while True:
 			print("17 - 26 = -9")
 		elif number1 == "17" and number2 == "27":
 			print("17 - 27 = -10")
+		elif number1 == "17" and number2 == "28":
+			print("17 - 28 = -11")
+		elif number1 == "17" and number2 == "29":
+			print("17 - 29 = -12")
+		elif number1 == "17" and number2 == "30":
+			print("17 - 30 = -13")
+		elif number1 == "17" and number2 == "31":
+			print("17 - 31 = -14")
+		elif number1 == "17" and number2 == "32":
+			print("17 - 32 = -15")
+		elif number1 == "17" and number2 == "33":
+			print("17 - 33 = -16")
+		elif number1 == "17" and number2 == "34":
+			print("17 - 34 = -17")
 		elif number1 == "18" and number2 == "1":
 			print("18 - 1 = 17")
 		elif number1 == "18" and number2 == "2":
@@ -2434,6 +3526,20 @@ while True:
 			print("18 - 26 = -8")
 		elif number1 == "18" and number2 == "27":
 			print("18 - 27 = -9")
+		elif number1 == "18" and number2 == "28":
+			print("18 - 28 = -10")
+		elif number1 == "18" and number2 == "29":
+			print("18 - 29 = -11")
+		elif number1 == "18" and number2 == "30":
+			print("18 - 30 = -12")
+		elif number1 == "18" and number2 == "31":
+			print("18 - 31 = -13")
+		elif number1 == "18" and number2 == "32":
+			print("18 - 32 = -14")
+		elif number1 == "18" and number2 == "33":
+			print("18 - 33 = -15")
+		elif number1 == "18" and number2 == "34":
+			print("18 - 34 = -16")
 		elif number1 == "19" and number2 == "1":
 			print("19 - 1 = 18")
 		elif number1 == "19" and number2 == "2":
@@ -2488,6 +3594,20 @@ while True:
 			print("19 - 26 = -7")
 		elif number1 == "19" and number2 == "27":
 			print("19 - 27 = -8")
+		elif number1 == "19" and number2 == "28":
+			print("19 - 28 = -9")
+		elif number1 == "19" and number2 == "29":
+			print("19 - 29 = -10")
+		elif number1 == "19" and number2 == "30":
+			print("19 - 30 = -11")
+		elif number1 == "19" and number2 == "31":
+			print("19 - 31 = -12")
+		elif number1 == "19" and number2 == "32":
+			print("19 - 32 = -13")
+		elif number1 == "19" and number2 == "33":
+			print("19 - 33 = -14")
+		elif number1 == "19" and number2 == "34":
+			print("19 - 34 = -15")
 		elif number1 == "20" and number2 == "1":
 			print("20 - 1 = 19")
 		elif number1 == "20" and number2 == "2":
@@ -2542,6 +3662,20 @@ while True:
 			print("20 - 26 = -6")
 		elif number1 == "20" and number2 == "27":
 			print("20 - 27 = -7")
+		elif number1 == "20" and number2 == "28":
+			print("20 - 28 = -8")
+		elif number1 == "20" and number2 == "29":
+			print("20 - 29 = -9")
+		elif number1 == "20" and number2 == "30":
+			print("20 - 30 = -10")
+		elif number1 == "20" and number2 == "31":
+			print("20 - 31 = -11")
+		elif number1 == "20" and number2 == "32":
+			print("20 - 32 = -12")
+		elif number1 == "20" and number2 == "33":
+			print("20 - 33 = -13")
+		elif number1 == "20" and number2 == "34":
+			print("20 - 34 = -14")
 		elif number1 == "21" and number2 == "1":
 			print("21 - 1 = 20")
 		elif number1 == "21" and number2 == "2":
@@ -2596,6 +3730,20 @@ while True:
 			print("21 - 26 = -5")
 		elif number1 == "21" and number2 == "27":
 			print("21 - 27 = -6")
+		elif number1 == "21" and number2 == "28":
+			print("21 - 28 = -7")
+		elif number1 == "21" and number2 == "29":
+			print("21 - 29 = -8")
+		elif number1 == "21" and number2 == "30":
+			print("21 - 30 = -9")
+		elif number1 == "21" and number2 == "31":
+			print("21 - 31 = -10")
+		elif number1 == "21" and number2 == "32":
+			print("21 - 32 = -11")
+		elif number1 == "21" and number2 == "33":
+			print("21 - 33 = -12")
+		elif number1 == "21" and number2 == "34":
+			print("21 - 34 = -13")
 		elif number1 == "22" and number2 == "1":
 			print("22 - 1 = 21")
 		elif number1 == "22" and number2 == "2":
@@ -2650,6 +3798,20 @@ while True:
 			print("22 - 26 = -4")
 		elif number1 == "22" and number2 == "27":
 			print("22 - 27 = -5")
+		elif number1 == "22" and number2 == "28":
+			print("22 - 28 = -6")
+		elif number1 == "22" and number2 == "29":
+			print("22 - 29 = -7")
+		elif number1 == "22" and number2 == "30":
+			print("22 - 30 = -8")
+		elif number1 == "22" and number2 == "31":
+			print("22 - 31 = -9")
+		elif number1 == "22" and number2 == "32":
+			print("22 - 32 = -10")
+		elif number1 == "22" and number2 == "33":
+			print("22 - 33 = -11")
+		elif number1 == "22" and number2 == "34":
+			print("22 - 34 = -12")
 		elif number1 == "23" and number2 == "1":
 			print("23 - 1 = 22")
 		elif number1 == "23" and number2 == "2":
@@ -2704,6 +3866,20 @@ while True:
 			print("23 - 26 = -3")
 		elif number1 == "23" and number2 == "27":
 			print("23 - 27 = -4")
+		elif number1 == "23" and number2 == "28":
+			print("23 - 28 = -5")
+		elif number1 == "23" and number2 == "29":
+			print("23 - 29 = -6")
+		elif number1 == "23" and number2 == "30":
+			print("23 - 30 = -7")
+		elif number1 == "23" and number2 == "31":
+			print("23 - 31 = -8")
+		elif number1 == "23" and number2 == "32":
+			print("23 - 32 = -9")
+		elif number1 == "23" and number2 == "33":
+			print("23 - 33 = -10")
+		elif number1 == "23" and number2 == "34":
+			print("23 - 34 = -11")
 		elif number1 == "24" and number2 == "1":
 			print("24 - 1 = 23")
 		elif number1 == "24" and number2 == "2":
@@ -2758,6 +3934,20 @@ while True:
 			print("24 - 26 = -2")
 		elif number1 == "24" and number2 == "27":
 			print("24 - 27 = -3")
+		elif number1 == "24" and number2 == "28":
+			print("24 - 28 = -4")
+		elif number1 == "24" and number2 == "29":
+			print("24 - 29 = -5")
+		elif number1 == "24" and number2 == "30":
+			print("24 - 30 = -6")
+		elif number1 == "24" and number2 == "31":
+			print("24 - 31 = -7")
+		elif number1 == "24" and number2 == "32":
+			print("24 - 32 = -8")
+		elif number1 == "24" and number2 == "33":
+			print("24 - 33 = -9")
+		elif number1 == "24" and number2 == "34":
+			print("24 - 34 = -10")
 		elif number1 == "25" and number2 == "1":
 			print("25 - 1 = 24")
 		elif number1 == "25" and number2 == "2":
@@ -2812,6 +4002,20 @@ while True:
 			print("25 - 26 = -1")
 		elif number1 == "25" and number2 == "27":
 			print("25 - 27 = -2")
+		elif number1 == "25" and number2 == "28":
+			print("25 - 28 = -3")
+		elif number1 == "25" and number2 == "29":
+			print("25 - 29 = -4")
+		elif number1 == "25" and number2 == "30":
+			print("25 - 30 = -5")
+		elif number1 == "25" and number2 == "31":
+			print("25 - 31 = -6")
+		elif number1 == "25" and number2 == "32":
+			print("25 - 32 = -7")
+		elif number1 == "25" and number2 == "33":
+			print("25 - 33 = -8")
+		elif number1 == "25" and number2 == "34":
+			print("25 - 34 = -9")
 		elif number1 == "26" and number2 == "1":
 			print("26 - 1 = 25")
 		elif number1 == "26" and number2 == "2":
@@ -2866,6 +4070,20 @@ while True:
 			print("26 - 26 = 0")
 		elif number1 == "26" and number2 == "27":
 			print("26 - 27 = -1")
+		elif number1 == "26" and number2 == "28":
+			print("26 - 28 = -2")
+		elif number1 == "26" and number2 == "29":
+			print("26 - 29 = -3")
+		elif number1 == "26" and number2 == "30":
+			print("26 - 30 = -4")
+		elif number1 == "26" and number2 == "31":
+			print("26 - 31 = -5")
+		elif number1 == "26" and number2 == "32":
+			print("26 - 32 = -6")
+		elif number1 == "26" and number2 == "33":
+			print("26 - 33 = -7")
+		elif number1 == "26" and number2 == "34":
+			print("26 - 34 = -8")
 		elif number1 == "27" and number2 == "1":
 			print("27 - 1 = 26")
 		elif number1 == "27" and number2 == "2":
@@ -2920,6 +4138,496 @@ while True:
 			print("27 - 26 = 1")
 		elif number1 == "27" and number2 == "27":
 			print("27 - 27 = 0")
+		elif number1 == "27" and number2 == "28":
+			print("27 - 28 = -1")
+		elif number1 == "27" and number2 == "29":
+			print("27 - 29 = -2")
+		elif number1 == "27" and number2 == "30":
+			print("27 - 30 = -3")
+		elif number1 == "27" and number2 == "31":
+			print("27 - 31 = -4")
+		elif number1 == "27" and number2 == "32":
+			print("27 - 32 = -5")
+		elif number1 == "27" and number2 == "33":
+			print("27 - 33 = -6")
+		elif number1 == "27" and number2 == "34":
+			print("27 - 34 = -7")
+		elif number1 == "28" and number2 == "1":
+			print("28 - 1 = 27")
+		elif number1 == "28" and number2 == "2":
+			print("28 - 2 = 26")
+		elif number1 == "28" and number2 == "3":
+			print("28 - 3 = 25")
+		elif number1 == "28" and number2 == "4":
+			print("28 - 4 = 24")
+		elif number1 == "28" and number2 == "5":
+			print("28 - 5 = 23")
+		elif number1 == "28" and number2 == "6":
+			print("28 - 6 = 22")
+		elif number1 == "28" and number2 == "7":
+			print("28 - 7 = 21")
+		elif number1 == "28" and number2 == "8":
+			print("28 - 8 = 20")
+		elif number1 == "28" and number2 == "9":
+			print("28 - 9 = 19")
+		elif number1 == "28" and number2 == "10":
+			print("28 - 10 = 18")
+		elif number1 == "28" and number2 == "11":
+			print("28 - 11 = 17")
+		elif number1 == "28" and number2 == "12":
+			print("28 - 12 = 16")
+		elif number1 == "28" and number2 == "13":
+			print("28 - 13 = 15")
+		elif number1 == "28" and number2 == "14":
+			print("28 - 14 = 14")
+		elif number1 == "28" and number2 == "15":
+			print("28 - 15 = 13")
+		elif number1 == "28" and number2 == "16":
+			print("28 - 16 = 12")
+		elif number1 == "28" and number2 == "17":
+			print("28 - 17 = 11")
+		elif number1 == "28" and number2 == "18":
+			print("28 - 18 = 10")
+		elif number1 == "28" and number2 == "19":
+			print("28 - 19 = 9")
+		elif number1 == "28" and number2 == "20":
+			print("28 - 20 = 8")
+		elif number1 == "28" and number2 == "21":
+			print("28 - 21 = 7")
+		elif number1 == "28" and number2 == "22":
+			print("28 - 22 = 6")
+		elif number1 == "28" and number2 == "23":
+			print("28 - 23 = 5")
+		elif number1 == "28" and number2 == "24":
+			print("28 - 24 = 4")
+		elif number1 == "28" and number2 == "25":
+			print("28 - 25 = 3")
+		elif number1 == "28" and number2 == "26":
+			print("28 - 26 = 2")
+		elif number1 == "28" and number2 == "27":
+			print("28 - 27 = 1")
+		elif number1 == "28" and number2 == "28":
+			print("28 - 28 = 0")
+		elif number1 == "28" and number2 == "29":
+			print("28 - 29 = -1")
+		elif number1 == "28" and number2 == "30":
+			print("28 - 30 = -2")
+		elif number1 == "28" and number2 == "31":
+			print("28 - 31 = -3")
+		elif number1 == "28" and number2 == "32":
+			print("28 - 32 = -4")
+		elif number1 == "28" and number2 == "33":
+			print("28 - 33 = -5")
+		elif number1 == "28" and number2 == "34":
+			print("28 - 34 = -6")
+		elif number1 == "29" and number2 == "1":
+			print("29 - 1 = 28")
+		elif number1 == "29" and number2 == "2":
+			print("29 - 2 = 27")
+		elif number1 == "29" and number2 == "3":
+			print("29 - 3 = 26")
+		elif number1 == "29" and number2 == "4":
+			print("29 - 4 = 25")
+		elif number1 == "29" and number2 == "5":
+			print("29 - 5 = 24")
+		elif number1 == "29" and number2 == "6":
+			print("29 - 6 = 23")
+		elif number1 == "29" and number2 == "7":
+			print("29 - 7 = 22")
+		elif number1 == "29" and number2 == "8":
+			print("29 - 8 = 21")
+		elif number1 == "29" and number2 == "9":
+			print("29 - 9 = 20")
+		elif number1 == "29" and number2 == "10":
+			print("29 - 10 = 19")
+		elif number1 == "29" and number2 == "11":
+			print("29 - 11 = 18")
+		elif number1 == "29" and number2 == "12":
+			print("29 - 12 = 17")
+		elif number1 == "29" and number2 == "13":
+			print("29 - 13 = 16")
+		elif number1 == "29" and number2 == "14":
+			print("29 - 14 = 15")
+		elif number1 == "29" and number2 == "15":
+			print("29 - 15 = 14")
+		elif number1 == "29" and number2 == "16":
+			print("29 - 16 = 13")
+		elif number1 == "29" and number2 == "17":
+			print("29 - 17 = 12")
+		elif number1 == "29" and number2 == "18":
+			print("29 - 18 = 11")
+		elif number1 == "29" and number2 == "19":
+			print("29 - 19 = 10")
+		elif number1 == "29" and number2 == "20":
+			print("29 - 20 = 9")
+		elif number1 == "29" and number2 == "21":
+			print("29 - 21 = 8")
+		elif number1 == "29" and number2 == "22":
+			print("29 - 22 = 7")
+		elif number1 == "29" and number2 == "23":
+			print("29 - 23 = 6")
+		elif number1 == "29" and number2 == "24":
+			print("29 - 24 = 5")
+		elif number1 == "29" and number2 == "25":
+			print("29 - 25 = 4")
+		elif number1 == "29" and number2 == "26":
+			print("29 - 26 = 3")
+		elif number1 == "29" and number2 == "27":
+			print("29 - 27 = 2")
+		elif number1 == "29" and number2 == "28":
+			print("29 - 28 = 1")
+		elif number1 == "29" and number2 == "29":
+			print("29 - 29 = 0")
+		elif number1 == "29" and number2 == "30":
+			print("29 - 30 = -1")
+		elif number1 == "29" and number2 == "31":
+			print("29 - 31 = -2")
+		elif number1 == "29" and number2 == "32":
+			print("29 - 32 = -3")
+		elif number1 == "29" and number2 == "33":
+			print("29 - 33 = -4")
+		elif number1 == "29" and number2 == "34":
+			print("29 - 34 = -5")
+		elif number1 == "30" and number2 == "1":
+			print("30 - 1 = 29")
+		elif number1 == "30" and number2 == "2":
+			print("30 - 2 = 28")
+		elif number1 == "30" and number2 == "3":
+			print("30 - 3 = 27")
+		elif number1 == "30" and number2 == "4":
+			print("30 - 4 = 26")
+		elif number1 == "30" and number2 == "5":
+			print("30 - 5 = 25")
+		elif number1 == "30" and number2 == "6":
+			print("30 - 6 = 24")
+		elif number1 == "30" and number2 == "7":
+			print("30 - 7 = 23")
+		elif number1 == "30" and number2 == "8":
+			print("30 - 8 = 22")
+		elif number1 == "30" and number2 == "9":
+			print("30 - 9 = 21")
+		elif number1 == "30" and number2 == "10":
+			print("30 - 10 = 20")
+		elif number1 == "30" and number2 == "11":
+			print("30 - 11 = 19")
+		elif number1 == "30" and number2 == "12":
+			print("30 - 12 = 18")
+		elif number1 == "30" and number2 == "13":
+			print("30 - 13 = 17")
+		elif number1 == "30" and number2 == "14":
+			print("30 - 14 = 16")
+		elif number1 == "30" and number2 == "15":
+			print("30 - 15 = 15")
+		elif number1 == "30" and number2 == "16":
+			print("30 - 16 = 14")
+		elif number1 == "30" and number2 == "17":
+			print("30 - 17 = 13")
+		elif number1 == "30" and number2 == "18":
+			print("30 - 18 = 12")
+		elif number1 == "30" and number2 == "19":
+			print("30 - 19 = 11")
+		elif number1 == "30" and number2 == "20":
+			print("30 - 20 = 10")
+		elif number1 == "30" and number2 == "21":
+			print("30 - 21 = 9")
+		elif number1 == "30" and number2 == "22":
+			print("30 - 22 = 8")
+		elif number1 == "30" and number2 == "23":
+			print("30 - 23 = 7")
+		elif number1 == "30" and number2 == "24":
+			print("30 - 24 = 6")
+		elif number1 == "30" and number2 == "25":
+			print("30 - 25 = 5")
+		elif number1 == "30" and number2 == "26":
+			print("30 - 26 = 4")
+		elif number1 == "30" and number2 == "27":
+			print("30 - 27 = 3")
+		elif number1 == "30" and number2 == "28":
+			print("30 - 28 = 2")
+		elif number1 == "30" and number2 == "29":
+			print("30 - 29 = 1")
+		elif number1 == "30" and number2 == "30":
+			print("30 - 30 = 0")
+		elif number1 == "30" and number2 == "31":
+			print("30 - 31 = -1")
+		elif number1 == "30" and number2 == "32":
+			print("30 - 32 = -2")
+		elif number1 == "30" and number2 == "33":
+			print("30 - 33 = -3")
+		elif number1 == "30" and number2 == "34":
+			print("30 - 34 = -4")
+		elif number1 == "31" and number2 == "1":
+			print("31 - 1 = 30")
+		elif number1 == "31" and number2 == "2":
+			print("31 - 2 = 29")
+		elif number1 == "31" and number2 == "3":
+			print("31 - 3 = 28")
+		elif number1 == "31" and number2 == "4":
+			print("31 - 4 = 27")
+		elif number1 == "31" and number2 == "5":
+			print("31 - 5 = 26")
+		elif number1 == "31" and number2 == "6":
+			print("31 - 6 = 25")
+		elif number1 == "31" and number2 == "7":
+			print("31 - 7 = 24")
+		elif number1 == "31" and number2 == "8":
+			print("31 - 8 = 23")
+		elif number1 == "31" and number2 == "9":
+			print("31 - 9 = 22")
+		elif number1 == "31" and number2 == "10":
+			print("31 - 10 = 21")
+		elif number1 == "31" and number2 == "11":
+			print("31 - 11 = 20")
+		elif number1 == "31" and number2 == "12":
+			print("31 - 12 = 19")
+		elif number1 == "31" and number2 == "13":
+			print("31 - 13 = 18")
+		elif number1 == "31" and number2 == "14":
+			print("31 - 14 = 17")
+		elif number1 == "31" and number2 == "15":
+			print("31 - 15 = 16")
+		elif number1 == "31" and number2 == "16":
+			print("31 - 16 = 15")
+		elif number1 == "31" and number2 == "17":
+			print("31 - 17 = 14")
+		elif number1 == "31" and number2 == "18":
+			print("31 - 18 = 13")
+		elif number1 == "31" and number2 == "19":
+			print("31 - 19 = 12")
+		elif number1 == "31" and number2 == "20":
+			print("31 - 20 = 11")
+		elif number1 == "31" and number2 == "21":
+			print("31 - 21 = 10")
+		elif number1 == "31" and number2 == "22":
+			print("31 - 22 = 9")
+		elif number1 == "31" and number2 == "23":
+			print("31 - 23 = 8")
+		elif number1 == "31" and number2 == "24":
+			print("31 - 24 = 7")
+		elif number1 == "31" and number2 == "25":
+			print("31 - 25 = 6")
+		elif number1 == "31" and number2 == "26":
+			print("31 - 26 = 5")
+		elif number1 == "31" and number2 == "27":
+			print("31 - 27 = 4")
+		elif number1 == "31" and number2 == "28":
+			print("31 - 28 = 3")
+		elif number1 == "31" and number2 == "29":
+			print("31 - 29 = 2")
+		elif number1 == "31" and number2 == "30":
+			print("31 - 30 = 1")
+		elif number1 == "31" and number2 == "31":
+			print("31 - 31 = 0")
+		elif number1 == "31" and number2 == "32":
+			print("31 - 32 = -1")
+		elif number1 == "31" and number2 == "33":
+			print("31 - 33 = -2")
+		elif number1 == "31" and number2 == "34":
+			print("31 - 34 = -3")
+		elif number1 == "32" and number2 == "1":
+			print("32 - 1 = 31")
+		elif number1 == "32" and number2 == "2":
+			print("32 - 2 = 30")
+		elif number1 == "32" and number2 == "3":
+			print("32 - 3 = 29")
+		elif number1 == "32" and number2 == "4":
+			print("32 - 4 = 28")
+		elif number1 == "32" and number2 == "5":
+			print("32 - 5 = 27")
+		elif number1 == "32" and number2 == "6":
+			print("32 - 6 = 26")
+		elif number1 == "32" and number2 == "7":
+			print("32 - 7 = 25")
+		elif number1 == "32" and number2 == "8":
+			print("32 - 8 = 24")
+		elif number1 == "32" and number2 == "9":
+			print("32 - 9 = 23")
+		elif number1 == "32" and number2 == "10":
+			print("32 - 10 = 22")
+		elif number1 == "32" and number2 == "11":
+			print("32 - 11 = 21")
+		elif number1 == "32" and number2 == "12":
+			print("32 - 12 = 20")
+		elif number1 == "32" and number2 == "13":
+			print("32 - 13 = 19")
+		elif number1 == "32" and number2 == "14":
+			print("32 - 14 = 18")
+		elif number1 == "32" and number2 == "15":
+			print("32 - 15 = 17")
+		elif number1 == "32" and number2 == "16":
+			print("32 - 16 = 16")
+		elif number1 == "32" and number2 == "17":
+			print("32 - 17 = 15")
+		elif number1 == "32" and number2 == "18":
+			print("32 - 18 = 14")
+		elif number1 == "32" and number2 == "19":
+			print("32 - 19 = 13")
+		elif number1 == "32" and number2 == "20":
+			print("32 - 20 = 12")
+		elif number1 == "32" and number2 == "21":
+			print("32 - 21 = 11")
+		elif number1 == "32" and number2 == "22":
+			print("32 - 22 = 10")
+		elif number1 == "32" and number2 == "23":
+			print("32 - 23 = 9")
+		elif number1 == "32" and number2 == "24":
+			print("32 - 24 = 8")
+		elif number1 == "32" and number2 == "25":
+			print("32 - 25 = 7")
+		elif number1 == "32" and number2 == "26":
+			print("32 - 26 = 6")
+		elif number1 == "32" and number2 == "27":
+			print("32 - 27 = 5")
+		elif number1 == "32" and number2 == "28":
+			print("32 - 28 = 4")
+		elif number1 == "32" and number2 == "29":
+			print("32 - 29 = 3")
+		elif number1 == "32" and number2 == "30":
+			print("32 - 30 = 2")
+		elif number1 == "32" and number2 == "31":
+			print("32 - 31 = 1")
+		elif number1 == "32" and number2 == "32":
+			print("32 - 32 = 0")
+		elif number1 == "32" and number2 == "33":
+			print("32 - 33 = -1")
+		elif number1 == "32" and number2 == "34":
+			print("32 - 34 = -2")
+		elif number1 == "33" and number2 == "1":
+			print("33 - 1 = 32")
+		elif number1 == "33" and number2 == "2":
+			print("33 - 2 = 31")
+		elif number1 == "33" and number2 == "3":
+			print("33 - 3 = 30")
+		elif number1 == "33" and number2 == "4":
+			print("33 - 4 = 29")
+		elif number1 == "33" and number2 == "5":
+			print("33 - 5 = 28")
+		elif number1 == "33" and number2 == "6":
+			print("33 - 6 = 27")
+		elif number1 == "33" and number2 == "7":
+			print("33 - 7 = 26")
+		elif number1 == "33" and number2 == "8":
+			print("33 - 8 = 25")
+		elif number1 == "33" and number2 == "9":
+			print("33 - 9 = 24")
+		elif number1 == "33" and number2 == "10":
+			print("33 - 10 = 23")
+		elif number1 == "33" and number2 == "11":
+			print("33 - 11 = 22")
+		elif number1 == "33" and number2 == "12":
+			print("33 - 12 = 21")
+		elif number1 == "33" and number2 == "13":
+			print("33 - 13 = 20")
+		elif number1 == "33" and number2 == "14":
+			print("33 - 14 = 19")
+		elif number1 == "33" and number2 == "15":
+			print("33 - 15 = 18")
+		elif number1 == "33" and number2 == "16":
+			print("33 - 16 = 17")
+		elif number1 == "33" and number2 == "17":
+			print("33 - 17 = 16")
+		elif number1 == "33" and number2 == "18":
+			print("33 - 18 = 15")
+		elif number1 == "33" and number2 == "19":
+			print("33 - 19 = 14")
+		elif number1 == "33" and number2 == "20":
+			print("33 - 20 = 13")
+		elif number1 == "33" and number2 == "21":
+			print("33 - 21 = 12")
+		elif number1 == "33" and number2 == "22":
+			print("33 - 22 = 11")
+		elif number1 == "33" and number2 == "23":
+			print("33 - 23 = 10")
+		elif number1 == "33" and number2 == "24":
+			print("33 - 24 = 9")
+		elif number1 == "33" and number2 == "25":
+			print("33 - 25 = 8")
+		elif number1 == "33" and number2 == "26":
+			print("33 - 26 = 7")
+		elif number1 == "33" and number2 == "27":
+			print("33 - 27 = 6")
+		elif number1 == "33" and number2 == "28":
+			print("33 - 28 = 5")
+		elif number1 == "33" and number2 == "29":
+			print("33 - 29 = 4")
+		elif number1 == "33" and number2 == "30":
+			print("33 - 30 = 3")
+		elif number1 == "33" and number2 == "31":
+			print("33 - 31 = 2")
+		elif number1 == "33" and number2 == "32":
+			print("33 - 32 = 1")
+		elif number1 == "33" and number2 == "33":
+			print("33 - 33 = 0")
+		elif number1 == "33" and number2 == "34":
+			print("33 - 34 = -1")
+		elif number1 == "34" and number2 == "1":
+			print("34 - 1 = 33")
+		elif number1 == "34" and number2 == "2":
+			print("34 - 2 = 32")
+		elif number1 == "34" and number2 == "3":
+			print("34 - 3 = 31")
+		elif number1 == "34" and number2 == "4":
+			print("34 - 4 = 30")
+		elif number1 == "34" and number2 == "5":
+			print("34 - 5 = 29")
+		elif number1 == "34" and number2 == "6":
+			print("34 - 6 = 28")
+		elif number1 == "34" and number2 == "7":
+			print("34 - 7 = 27")
+		elif number1 == "34" and number2 == "8":
+			print("34 - 8 = 26")
+		elif number1 == "34" and number2 == "9":
+			print("34 - 9 = 25")
+		elif number1 == "34" and number2 == "10":
+			print("34 - 10 = 24")
+		elif number1 == "34" and number2 == "11":
+			print("34 - 11 = 23")
+		elif number1 == "34" and number2 == "12":
+			print("34 - 12 = 22")
+		elif number1 == "34" and number2 == "13":
+			print("34 - 13 = 21")
+		elif number1 == "34" and number2 == "14":
+			print("34 - 14 = 20")
+		elif number1 == "34" and number2 == "15":
+			print("34 - 15 = 19")
+		elif number1 == "34" and number2 == "16":
+			print("34 - 16 = 18")
+		elif number1 == "34" and number2 == "17":
+			print("34 - 17 = 17")
+		elif number1 == "34" and number2 == "18":
+			print("34 - 18 = 16")
+		elif number1 == "34" and number2 == "19":
+			print("34 - 19 = 15")
+		elif number1 == "34" and number2 == "20":
+			print("34 - 20 = 14")
+		elif number1 == "34" and number2 == "21":
+			print("34 - 21 = 13")
+		elif number1 == "34" and number2 == "22":
+			print("34 - 22 = 12")
+		elif number1 == "34" and number2 == "23":
+			print("34 - 23 = 11")
+		elif number1 == "34" and number2 == "24":
+			print("34 - 24 = 10")
+		elif number1 == "34" and number2 == "25":
+			print("34 - 25 = 9")
+		elif number1 == "34" and number2 == "26":
+			print("34 - 26 = 8")
+		elif number1 == "34" and number2 == "27":
+			print("34 - 27 = 7")
+		elif number1 == "34" and number2 == "28":
+			print("34 - 28 = 6")
+		elif number1 == "34" and number2 == "29":
+			print("34 - 29 = 5")
+		elif number1 == "34" and number2 == "30":
+			print("34 - 30 = 4")
+		elif number1 == "34" and number2 == "31":
+			print("34 - 31 = 3")
+		elif number1 == "34" and number2 == "32":
+			print("34 - 32 = 2")
+		elif number1 == "34" and number2 == "33":
+			print("34 - 33 = 1")
+		elif number1 == "34" and number2 == "34":
+			print("34 - 34 = 0")
 	elif operation == "*":
 		if number1 == "1" and number2 == "1":
 			print("1 * 1 = 1")
@@ -2975,6 +4683,20 @@ while True:
 			print("1 * 26 = 26")
 		elif number1 == "1" and number2 == "27":
 			print("1 * 27 = 27")
+		elif number1 == "1" and number2 == "28":
+			print("1 * 28 = 28")
+		elif number1 == "1" and number2 == "29":
+			print("1 * 29 = 29")
+		elif number1 == "1" and number2 == "30":
+			print("1 * 30 = 30")
+		elif number1 == "1" and number2 == "31":
+			print("1 * 31 = 31")
+		elif number1 == "1" and number2 == "32":
+			print("1 * 32 = 32")
+		elif number1 == "1" and number2 == "33":
+			print("1 * 33 = 33")
+		elif number1 == "1" and number2 == "34":
+			print("1 * 34 = 34")
 		elif number1 == "2" and number2 == "1":
 			print("2 * 1 = 2")
 		elif number1 == "2" and number2 == "2":
@@ -3029,6 +4751,20 @@ while True:
 			print("2 * 26 = 52")
 		elif number1 == "2" and number2 == "27":
 			print("2 * 27 = 54")
+		elif number1 == "2" and number2 == "28":
+			print("2 * 28 = 56")
+		elif number1 == "2" and number2 == "29":
+			print("2 * 29 = 58")
+		elif number1 == "2" and number2 == "30":
+			print("2 * 30 = 60")
+		elif number1 == "2" and number2 == "31":
+			print("2 * 31 = 62")
+		elif number1 == "2" and number2 == "32":
+			print("2 * 32 = 64")
+		elif number1 == "2" and number2 == "33":
+			print("2 * 33 = 66")
+		elif number1 == "2" and number2 == "34":
+			print("2 * 34 = 68")
 		elif number1 == "3" and number2 == "1":
 			print("3 * 1 = 3")
 		elif number1 == "3" and number2 == "2":
@@ -3083,6 +4819,20 @@ while True:
 			print("3 * 26 = 78")
 		elif number1 == "3" and number2 == "27":
 			print("3 * 27 = 81")
+		elif number1 == "3" and number2 == "28":
+			print("3 * 28 = 84")
+		elif number1 == "3" and number2 == "29":
+			print("3 * 29 = 87")
+		elif number1 == "3" and number2 == "30":
+			print("3 * 30 = 90")
+		elif number1 == "3" and number2 == "31":
+			print("3 * 31 = 93")
+		elif number1 == "3" and number2 == "32":
+			print("3 * 32 = 96")
+		elif number1 == "3" and number2 == "33":
+			print("3 * 33 = 99")
+		elif number1 == "3" and number2 == "34":
+			print("3 * 34 = 102")
 		elif number1 == "4" and number2 == "1":
 			print("4 * 1 = 4")
 		elif number1 == "4" and number2 == "2":
@@ -3137,6 +4887,20 @@ while True:
 			print("4 * 26 = 104")
 		elif number1 == "4" and number2 == "27":
 			print("4 * 27 = 108")
+		elif number1 == "4" and number2 == "28":
+			print("4 * 28 = 112")
+		elif number1 == "4" and number2 == "29":
+			print("4 * 29 = 116")
+		elif number1 == "4" and number2 == "30":
+			print("4 * 30 = 120")
+		elif number1 == "4" and number2 == "31":
+			print("4 * 31 = 124")
+		elif number1 == "4" and number2 == "32":
+			print("4 * 32 = 128")
+		elif number1 == "4" and number2 == "33":
+			print("4 * 33 = 132")
+		elif number1 == "4" and number2 == "34":
+			print("4 * 34 = 136")
 		elif number1 == "5" and number2 == "1":
 			print("5 * 1 = 5")
 		elif number1 == "5" and number2 == "2":
@@ -3191,6 +4955,20 @@ while True:
 			print("5 * 26 = 130")
 		elif number1 == "5" and number2 == "27":
 			print("5 * 27 = 135")
+		elif number1 == "5" and number2 == "28":
+			print("5 * 28 = 140")
+		elif number1 == "5" and number2 == "29":
+			print("5 * 29 = 145")
+		elif number1 == "5" and number2 == "30":
+			print("5 * 30 = 150")
+		elif number1 == "5" and number2 == "31":
+			print("5 * 31 = 155")
+		elif number1 == "5" and number2 == "32":
+			print("5 * 32 = 160")
+		elif number1 == "5" and number2 == "33":
+			print("5 * 33 = 165")
+		elif number1 == "5" and number2 == "34":
+			print("5 * 34 = 170")
 		elif number1 == "6" and number2 == "1":
 			print("6 * 1 = 6")
 		elif number1 == "6" and number2 == "2":
@@ -3245,6 +5023,20 @@ while True:
 			print("6 * 26 = 156")
 		elif number1 == "6" and number2 == "27":
 			print("6 * 27 = 162")
+		elif number1 == "6" and number2 == "28":
+			print("6 * 28 = 168")
+		elif number1 == "6" and number2 == "29":
+			print("6 * 29 = 174")
+		elif number1 == "6" and number2 == "30":
+			print("6 * 30 = 180")
+		elif number1 == "6" and number2 == "31":
+			print("6 * 31 = 186")
+		elif number1 == "6" and number2 == "32":
+			print("6 * 32 = 192")
+		elif number1 == "6" and number2 == "33":
+			print("6 * 33 = 198")
+		elif number1 == "6" and number2 == "34":
+			print("6 * 34 = 204")
 		elif number1 == "7" and number2 == "1":
 			print("7 * 1 = 7")
 		elif number1 == "7" and number2 == "2":
@@ -3299,6 +5091,20 @@ while True:
 			print("7 * 26 = 182")
 		elif number1 == "7" and number2 == "27":
 			print("7 * 27 = 189")
+		elif number1 == "7" and number2 == "28":
+			print("7 * 28 = 196")
+		elif number1 == "7" and number2 == "29":
+			print("7 * 29 = 203")
+		elif number1 == "7" and number2 == "30":
+			print("7 * 30 = 210")
+		elif number1 == "7" and number2 == "31":
+			print("7 * 31 = 217")
+		elif number1 == "7" and number2 == "32":
+			print("7 * 32 = 224")
+		elif number1 == "7" and number2 == "33":
+			print("7 * 33 = 231")
+		elif number1 == "7" and number2 == "34":
+			print("7 * 34 = 238")
 		elif number1 == "8" and number2 == "1":
 			print("8 * 1 = 8")
 		elif number1 == "8" and number2 == "2":
@@ -3353,6 +5159,20 @@ while True:
 			print("8 * 26 = 208")
 		elif number1 == "8" and number2 == "27":
 			print("8 * 27 = 216")
+		elif number1 == "8" and number2 == "28":
+			print("8 * 28 = 224")
+		elif number1 == "8" and number2 == "29":
+			print("8 * 29 = 232")
+		elif number1 == "8" and number2 == "30":
+			print("8 * 30 = 240")
+		elif number1 == "8" and number2 == "31":
+			print("8 * 31 = 248")
+		elif number1 == "8" and number2 == "32":
+			print("8 * 32 = 256")
+		elif number1 == "8" and number2 == "33":
+			print("8 * 33 = 264")
+		elif number1 == "8" and number2 == "34":
+			print("8 * 34 = 272")
 		elif number1 == "9" and number2 == "1":
 			print("9 * 1 = 9")
 		elif number1 == "9" and number2 == "2":
@@ -3407,6 +5227,20 @@ while True:
 			print("9 * 26 = 234")
 		elif number1 == "9" and number2 == "27":
 			print("9 * 27 = 243")
+		elif number1 == "9" and number2 == "28":
+			print("9 * 28 = 252")
+		elif number1 == "9" and number2 == "29":
+			print("9 * 29 = 261")
+		elif number1 == "9" and number2 == "30":
+			print("9 * 30 = 270")
+		elif number1 == "9" and number2 == "31":
+			print("9 * 31 = 279")
+		elif number1 == "9" and number2 == "32":
+			print("9 * 32 = 288")
+		elif number1 == "9" and number2 == "33":
+			print("9 * 33 = 297")
+		elif number1 == "9" and number2 == "34":
+			print("9 * 34 = 306")
 		elif number1 == "10" and number2 == "1":
 			print("10 * 1 = 10")
 		elif number1 == "10" and number2 == "2":
@@ -3461,6 +5295,20 @@ while True:
 			print("10 * 26 = 260")
 		elif number1 == "10" and number2 == "27":
 			print("10 * 27 = 270")
+		elif number1 == "10" and number2 == "28":
+			print("10 * 28 = 280")
+		elif number1 == "10" and number2 == "29":
+			print("10 * 29 = 290")
+		elif number1 == "10" and number2 == "30":
+			print("10 * 30 = 300")
+		elif number1 == "10" and number2 == "31":
+			print("10 * 31 = 310")
+		elif number1 == "10" and number2 == "32":
+			print("10 * 32 = 320")
+		elif number1 == "10" and number2 == "33":
+			print("10 * 33 = 330")
+		elif number1 == "10" and number2 == "34":
+			print("10 * 34 = 340")
 		elif number1 == "11" and number2 == "1":
 			print("11 * 1 = 11")
 		elif number1 == "11" and number2 == "2":
@@ -3515,6 +5363,20 @@ while True:
 			print("11 * 26 = 286")
 		elif number1 == "11" and number2 == "27":
 			print("11 * 27 = 297")
+		elif number1 == "11" and number2 == "28":
+			print("11 * 28 = 308")
+		elif number1 == "11" and number2 == "29":
+			print("11 * 29 = 319")
+		elif number1 == "11" and number2 == "30":
+			print("11 * 30 = 330")
+		elif number1 == "11" and number2 == "31":
+			print("11 * 31 = 341")
+		elif number1 == "11" and number2 == "32":
+			print("11 * 32 = 352")
+		elif number1 == "11" and number2 == "33":
+			print("11 * 33 = 363")
+		elif number1 == "11" and number2 == "34":
+			print("11 * 34 = 374")
 		elif number1 == "12" and number2 == "1":
 			print("12 * 1 = 12")
 		elif number1 == "12" and number2 == "2":
@@ -3569,6 +5431,20 @@ while True:
 			print("12 * 26 = 312")
 		elif number1 == "12" and number2 == "27":
 			print("12 * 27 = 324")
+		elif number1 == "12" and number2 == "28":
+			print("12 * 28 = 336")
+		elif number1 == "12" and number2 == "29":
+			print("12 * 29 = 348")
+		elif number1 == "12" and number2 == "30":
+			print("12 * 30 = 360")
+		elif number1 == "12" and number2 == "31":
+			print("12 * 31 = 372")
+		elif number1 == "12" and number2 == "32":
+			print("12 * 32 = 384")
+		elif number1 == "12" and number2 == "33":
+			print("12 * 33 = 396")
+		elif number1 == "12" and number2 == "34":
+			print("12 * 34 = 408")
 		elif number1 == "13" and number2 == "1":
 			print("13 * 1 = 13")
 		elif number1 == "13" and number2 == "2":
@@ -3623,6 +5499,20 @@ while True:
 			print("13 * 26 = 338")
 		elif number1 == "13" and number2 == "27":
 			print("13 * 27 = 351")
+		elif number1 == "13" and number2 == "28":
+			print("13 * 28 = 364")
+		elif number1 == "13" and number2 == "29":
+			print("13 * 29 = 377")
+		elif number1 == "13" and number2 == "30":
+			print("13 * 30 = 390")
+		elif number1 == "13" and number2 == "31":
+			print("13 * 31 = 403")
+		elif number1 == "13" and number2 == "32":
+			print("13 * 32 = 416")
+		elif number1 == "13" and number2 == "33":
+			print("13 * 33 = 429")
+		elif number1 == "13" and number2 == "34":
+			print("13 * 34 = 442")
 		elif number1 == "14" and number2 == "1":
 			print("14 * 1 = 14")
 		elif number1 == "14" and number2 == "2":
@@ -3677,6 +5567,20 @@ while True:
 			print("14 * 26 = 364")
 		elif number1 == "14" and number2 == "27":
 			print("14 * 27 = 378")
+		elif number1 == "14" and number2 == "28":
+			print("14 * 28 = 392")
+		elif number1 == "14" and number2 == "29":
+			print("14 * 29 = 406")
+		elif number1 == "14" and number2 == "30":
+			print("14 * 30 = 420")
+		elif number1 == "14" and number2 == "31":
+			print("14 * 31 = 434")
+		elif number1 == "14" and number2 == "32":
+			print("14 * 32 = 448")
+		elif number1 == "14" and number2 == "33":
+			print("14 * 33 = 462")
+		elif number1 == "14" and number2 == "34":
+			print("14 * 34 = 476")
 		elif number1 == "15" and number2 == "1":
 			print("15 * 1 = 15")
 		elif number1 == "15" and number2 == "2":
@@ -3731,6 +5635,20 @@ while True:
 			print("15 * 26 = 390")
 		elif number1 == "15" and number2 == "27":
 			print("15 * 27 = 405")
+		elif number1 == "15" and number2 == "28":
+			print("15 * 28 = 420")
+		elif number1 == "15" and number2 == "29":
+			print("15 * 29 = 435")
+		elif number1 == "15" and number2 == "30":
+			print("15 * 30 = 450")
+		elif number1 == "15" and number2 == "31":
+			print("15 * 31 = 465")
+		elif number1 == "15" and number2 == "32":
+			print("15 * 32 = 480")
+		elif number1 == "15" and number2 == "33":
+			print("15 * 33 = 495")
+		elif number1 == "15" and number2 == "34":
+			print("15 * 34 = 510")
 		elif number1 == "16" and number2 == "1":
 			print("16 * 1 = 16")
 		elif number1 == "16" and number2 == "2":
@@ -3785,6 +5703,20 @@ while True:
 			print("16 * 26 = 416")
 		elif number1 == "16" and number2 == "27":
 			print("16 * 27 = 432")
+		elif number1 == "16" and number2 == "28":
+			print("16 * 28 = 448")
+		elif number1 == "16" and number2 == "29":
+			print("16 * 29 = 464")
+		elif number1 == "16" and number2 == "30":
+			print("16 * 30 = 480")
+		elif number1 == "16" and number2 == "31":
+			print("16 * 31 = 496")
+		elif number1 == "16" and number2 == "32":
+			print("16 * 32 = 512")
+		elif number1 == "16" and number2 == "33":
+			print("16 * 33 = 528")
+		elif number1 == "16" and number2 == "34":
+			print("16 * 34 = 544")
 		elif number1 == "17" and number2 == "1":
 			print("17 * 1 = 17")
 		elif number1 == "17" and number2 == "2":
@@ -3839,6 +5771,20 @@ while True:
 			print("17 * 26 = 442")
 		elif number1 == "17" and number2 == "27":
 			print("17 * 27 = 459")
+		elif number1 == "17" and number2 == "28":
+			print("17 * 28 = 476")
+		elif number1 == "17" and number2 == "29":
+			print("17 * 29 = 493")
+		elif number1 == "17" and number2 == "30":
+			print("17 * 30 = 510")
+		elif number1 == "17" and number2 == "31":
+			print("17 * 31 = 527")
+		elif number1 == "17" and number2 == "32":
+			print("17 * 32 = 544")
+		elif number1 == "17" and number2 == "33":
+			print("17 * 33 = 561")
+		elif number1 == "17" and number2 == "34":
+			print("17 * 34 = 578")
 		elif number1 == "18" and number2 == "1":
 			print("18 * 1 = 18")
 		elif number1 == "18" and number2 == "2":
@@ -3893,6 +5839,20 @@ while True:
 			print("18 * 26 = 468")
 		elif number1 == "18" and number2 == "27":
 			print("18 * 27 = 486")
+		elif number1 == "18" and number2 == "28":
+			print("18 * 28 = 504")
+		elif number1 == "18" and number2 == "29":
+			print("18 * 29 = 522")
+		elif number1 == "18" and number2 == "30":
+			print("18 * 30 = 540")
+		elif number1 == "18" and number2 == "31":
+			print("18 * 31 = 558")
+		elif number1 == "18" and number2 == "32":
+			print("18 * 32 = 576")
+		elif number1 == "18" and number2 == "33":
+			print("18 * 33 = 594")
+		elif number1 == "18" and number2 == "34":
+			print("18 * 34 = 612")
 		elif number1 == "19" and number2 == "1":
 			print("19 * 1 = 19")
 		elif number1 == "19" and number2 == "2":
@@ -3947,6 +5907,20 @@ while True:
 			print("19 * 26 = 494")
 		elif number1 == "19" and number2 == "27":
 			print("19 * 27 = 513")
+		elif number1 == "19" and number2 == "28":
+			print("19 * 28 = 532")
+		elif number1 == "19" and number2 == "29":
+			print("19 * 29 = 551")
+		elif number1 == "19" and number2 == "30":
+			print("19 * 30 = 570")
+		elif number1 == "19" and number2 == "31":
+			print("19 * 31 = 589")
+		elif number1 == "19" and number2 == "32":
+			print("19 * 32 = 608")
+		elif number1 == "19" and number2 == "33":
+			print("19 * 33 = 627")
+		elif number1 == "19" and number2 == "34":
+			print("19 * 34 = 646")
 		elif number1 == "20" and number2 == "1":
 			print("20 * 1 = 20")
 		elif number1 == "20" and number2 == "2":
@@ -4001,6 +5975,20 @@ while True:
 			print("20 * 26 = 520")
 		elif number1 == "20" and number2 == "27":
 			print("20 * 27 = 540")
+		elif number1 == "20" and number2 == "28":
+			print("20 * 28 = 560")
+		elif number1 == "20" and number2 == "29":
+			print("20 * 29 = 580")
+		elif number1 == "20" and number2 == "30":
+			print("20 * 30 = 600")
+		elif number1 == "20" and number2 == "31":
+			print("20 * 31 = 620")
+		elif number1 == "20" and number2 == "32":
+			print("20 * 32 = 640")
+		elif number1 == "20" and number2 == "33":
+			print("20 * 33 = 660")
+		elif number1 == "20" and number2 == "34":
+			print("20 * 34 = 680")
 		elif number1 == "21" and number2 == "1":
 			print("21 * 1 = 21")
 		elif number1 == "21" and number2 == "2":
@@ -4055,6 +6043,20 @@ while True:
 			print("21 * 26 = 546")
 		elif number1 == "21" and number2 == "27":
 			print("21 * 27 = 567")
+		elif number1 == "21" and number2 == "28":
+			print("21 * 28 = 588")
+		elif number1 == "21" and number2 == "29":
+			print("21 * 29 = 609")
+		elif number1 == "21" and number2 == "30":
+			print("21 * 30 = 630")
+		elif number1 == "21" and number2 == "31":
+			print("21 * 31 = 651")
+		elif number1 == "21" and number2 == "32":
+			print("21 * 32 = 672")
+		elif number1 == "21" and number2 == "33":
+			print("21 * 33 = 693")
+		elif number1 == "21" and number2 == "34":
+			print("21 * 34 = 714")
 		elif number1 == "22" and number2 == "1":
 			print("22 * 1 = 22")
 		elif number1 == "22" and number2 == "2":
@@ -4109,6 +6111,20 @@ while True:
 			print("22 * 26 = 572")
 		elif number1 == "22" and number2 == "27":
 			print("22 * 27 = 594")
+		elif number1 == "22" and number2 == "28":
+			print("22 * 28 = 616")
+		elif number1 == "22" and number2 == "29":
+			print("22 * 29 = 638")
+		elif number1 == "22" and number2 == "30":
+			print("22 * 30 = 660")
+		elif number1 == "22" and number2 == "31":
+			print("22 * 31 = 682")
+		elif number1 == "22" and number2 == "32":
+			print("22 * 32 = 704")
+		elif number1 == "22" and number2 == "33":
+			print("22 * 33 = 726")
+		elif number1 == "22" and number2 == "34":
+			print("22 * 34 = 748")
 		elif number1 == "23" and number2 == "1":
 			print("23 * 1 = 23")
 		elif number1 == "23" and number2 == "2":
@@ -4163,6 +6179,20 @@ while True:
 			print("23 * 26 = 598")
 		elif number1 == "23" and number2 == "27":
 			print("23 * 27 = 621")
+		elif number1 == "23" and number2 == "28":
+			print("23 * 28 = 644")
+		elif number1 == "23" and number2 == "29":
+			print("23 * 29 = 667")
+		elif number1 == "23" and number2 == "30":
+			print("23 * 30 = 690")
+		elif number1 == "23" and number2 == "31":
+			print("23 * 31 = 713")
+		elif number1 == "23" and number2 == "32":
+			print("23 * 32 = 736")
+		elif number1 == "23" and number2 == "33":
+			print("23 * 33 = 759")
+		elif number1 == "23" and number2 == "34":
+			print("23 * 34 = 782")
 		elif number1 == "24" and number2 == "1":
 			print("24 * 1 = 24")
 		elif number1 == "24" and number2 == "2":
@@ -4217,6 +6247,20 @@ while True:
 			print("24 * 26 = 624")
 		elif number1 == "24" and number2 == "27":
 			print("24 * 27 = 648")
+		elif number1 == "24" and number2 == "28":
+			print("24 * 28 = 672")
+		elif number1 == "24" and number2 == "29":
+			print("24 * 29 = 696")
+		elif number1 == "24" and number2 == "30":
+			print("24 * 30 = 720")
+		elif number1 == "24" and number2 == "31":
+			print("24 * 31 = 744")
+		elif number1 == "24" and number2 == "32":
+			print("24 * 32 = 768")
+		elif number1 == "24" and number2 == "33":
+			print("24 * 33 = 792")
+		elif number1 == "24" and number2 == "34":
+			print("24 * 34 = 816")
 		elif number1 == "25" and number2 == "1":
 			print("25 * 1 = 25")
 		elif number1 == "25" and number2 == "2":
@@ -4271,6 +6315,20 @@ while True:
 			print("25 * 26 = 650")
 		elif number1 == "25" and number2 == "27":
 			print("25 * 27 = 675")
+		elif number1 == "25" and number2 == "28":
+			print("25 * 28 = 700")
+		elif number1 == "25" and number2 == "29":
+			print("25 * 29 = 725")
+		elif number1 == "25" and number2 == "30":
+			print("25 * 30 = 750")
+		elif number1 == "25" and number2 == "31":
+			print("25 * 31 = 775")
+		elif number1 == "25" and number2 == "32":
+			print("25 * 32 = 800")
+		elif number1 == "25" and number2 == "33":
+			print("25 * 33 = 825")
+		elif number1 == "25" and number2 == "34":
+			print("25 * 34 = 850")
 		elif number1 == "26" and number2 == "1":
 			print("26 * 1 = 26")
 		elif number1 == "26" and number2 == "2":
@@ -4325,6 +6383,20 @@ while True:
 			print("26 * 26 = 676")
 		elif number1 == "26" and number2 == "27":
 			print("26 * 27 = 702")
+		elif number1 == "26" and number2 == "28":
+			print("26 * 28 = 728")
+		elif number1 == "26" and number2 == "29":
+			print("26 * 29 = 754")
+		elif number1 == "26" and number2 == "30":
+			print("26 * 30 = 780")
+		elif number1 == "26" and number2 == "31":
+			print("26 * 31 = 806")
+		elif number1 == "26" and number2 == "32":
+			print("26 * 32 = 832")
+		elif number1 == "26" and number2 == "33":
+			print("26 * 33 = 858")
+		elif number1 == "26" and number2 == "34":
+			print("26 * 34 = 884")
 		elif number1 == "27" and number2 == "1":
 			print("27 * 1 = 27")
 		elif number1 == "27" and number2 == "2":
@@ -4379,6 +6451,496 @@ while True:
 			print("27 * 26 = 702")
 		elif number1 == "27" and number2 == "27":
 			print("27 * 27 = 729")
+		elif number1 == "27" and number2 == "28":
+			print("27 * 28 = 756")
+		elif number1 == "27" and number2 == "29":
+			print("27 * 29 = 783")
+		elif number1 == "27" and number2 == "30":
+			print("27 * 30 = 810")
+		elif number1 == "27" and number2 == "31":
+			print("27 * 31 = 837")
+		elif number1 == "27" and number2 == "32":
+			print("27 * 32 = 864")
+		elif number1 == "27" and number2 == "33":
+			print("27 * 33 = 891")
+		elif number1 == "27" and number2 == "34":
+			print("27 * 34 = 918")
+		elif number1 == "28" and number2 == "1":
+			print("28 * 1 = 28")
+		elif number1 == "28" and number2 == "2":
+			print("28 * 2 = 56")
+		elif number1 == "28" and number2 == "3":
+			print("28 * 3 = 84")
+		elif number1 == "28" and number2 == "4":
+			print("28 * 4 = 112")
+		elif number1 == "28" and number2 == "5":
+			print("28 * 5 = 140")
+		elif number1 == "28" and number2 == "6":
+			print("28 * 6 = 168")
+		elif number1 == "28" and number2 == "7":
+			print("28 * 7 = 196")
+		elif number1 == "28" and number2 == "8":
+			print("28 * 8 = 224")
+		elif number1 == "28" and number2 == "9":
+			print("28 * 9 = 252")
+		elif number1 == "28" and number2 == "10":
+			print("28 * 10 = 280")
+		elif number1 == "28" and number2 == "11":
+			print("28 * 11 = 308")
+		elif number1 == "28" and number2 == "12":
+			print("28 * 12 = 336")
+		elif number1 == "28" and number2 == "13":
+			print("28 * 13 = 364")
+		elif number1 == "28" and number2 == "14":
+			print("28 * 14 = 392")
+		elif number1 == "28" and number2 == "15":
+			print("28 * 15 = 420")
+		elif number1 == "28" and number2 == "16":
+			print("28 * 16 = 448")
+		elif number1 == "28" and number2 == "17":
+			print("28 * 17 = 476")
+		elif number1 == "28" and number2 == "18":
+			print("28 * 18 = 504")
+		elif number1 == "28" and number2 == "19":
+			print("28 * 19 = 532")
+		elif number1 == "28" and number2 == "20":
+			print("28 * 20 = 560")
+		elif number1 == "28" and number2 == "21":
+			print("28 * 21 = 588")
+		elif number1 == "28" and number2 == "22":
+			print("28 * 22 = 616")
+		elif number1 == "28" and number2 == "23":
+			print("28 * 23 = 644")
+		elif number1 == "28" and number2 == "24":
+			print("28 * 24 = 672")
+		elif number1 == "28" and number2 == "25":
+			print("28 * 25 = 700")
+		elif number1 == "28" and number2 == "26":
+			print("28 * 26 = 728")
+		elif number1 == "28" and number2 == "27":
+			print("28 * 27 = 756")
+		elif number1 == "28" and number2 == "28":
+			print("28 * 28 = 784")
+		elif number1 == "28" and number2 == "29":
+			print("28 * 29 = 812")
+		elif number1 == "28" and number2 == "30":
+			print("28 * 30 = 840")
+		elif number1 == "28" and number2 == "31":
+			print("28 * 31 = 868")
+		elif number1 == "28" and number2 == "32":
+			print("28 * 32 = 896")
+		elif number1 == "28" and number2 == "33":
+			print("28 * 33 = 924")
+		elif number1 == "28" and number2 == "34":
+			print("28 * 34 = 952")
+		elif number1 == "29" and number2 == "1":
+			print("29 * 1 = 29")
+		elif number1 == "29" and number2 == "2":
+			print("29 * 2 = 58")
+		elif number1 == "29" and number2 == "3":
+			print("29 * 3 = 87")
+		elif number1 == "29" and number2 == "4":
+			print("29 * 4 = 116")
+		elif number1 == "29" and number2 == "5":
+			print("29 * 5 = 145")
+		elif number1 == "29" and number2 == "6":
+			print("29 * 6 = 174")
+		elif number1 == "29" and number2 == "7":
+			print("29 * 7 = 203")
+		elif number1 == "29" and number2 == "8":
+			print("29 * 8 = 232")
+		elif number1 == "29" and number2 == "9":
+			print("29 * 9 = 261")
+		elif number1 == "29" and number2 == "10":
+			print("29 * 10 = 290")
+		elif number1 == "29" and number2 == "11":
+			print("29 * 11 = 319")
+		elif number1 == "29" and number2 == "12":
+			print("29 * 12 = 348")
+		elif number1 == "29" and number2 == "13":
+			print("29 * 13 = 377")
+		elif number1 == "29" and number2 == "14":
+			print("29 * 14 = 406")
+		elif number1 == "29" and number2 == "15":
+			print("29 * 15 = 435")
+		elif number1 == "29" and number2 == "16":
+			print("29 * 16 = 464")
+		elif number1 == "29" and number2 == "17":
+			print("29 * 17 = 493")
+		elif number1 == "29" and number2 == "18":
+			print("29 * 18 = 522")
+		elif number1 == "29" and number2 == "19":
+			print("29 * 19 = 551")
+		elif number1 == "29" and number2 == "20":
+			print("29 * 20 = 580")
+		elif number1 == "29" and number2 == "21":
+			print("29 * 21 = 609")
+		elif number1 == "29" and number2 == "22":
+			print("29 * 22 = 638")
+		elif number1 == "29" and number2 == "23":
+			print("29 * 23 = 667")
+		elif number1 == "29" and number2 == "24":
+			print("29 * 24 = 696")
+		elif number1 == "29" and number2 == "25":
+			print("29 * 25 = 725")
+		elif number1 == "29" and number2 == "26":
+			print("29 * 26 = 754")
+		elif number1 == "29" and number2 == "27":
+			print("29 * 27 = 783")
+		elif number1 == "29" and number2 == "28":
+			print("29 * 28 = 812")
+		elif number1 == "29" and number2 == "29":
+			print("29 * 29 = 841")
+		elif number1 == "29" and number2 == "30":
+			print("29 * 30 = 870")
+		elif number1 == "29" and number2 == "31":
+			print("29 * 31 = 899")
+		elif number1 == "29" and number2 == "32":
+			print("29 * 32 = 928")
+		elif number1 == "29" and number2 == "33":
+			print("29 * 33 = 957")
+		elif number1 == "29" and number2 == "34":
+			print("29 * 34 = 986")
+		elif number1 == "30" and number2 == "1":
+			print("30 * 1 = 30")
+		elif number1 == "30" and number2 == "2":
+			print("30 * 2 = 60")
+		elif number1 == "30" and number2 == "3":
+			print("30 * 3 = 90")
+		elif number1 == "30" and number2 == "4":
+			print("30 * 4 = 120")
+		elif number1 == "30" and number2 == "5":
+			print("30 * 5 = 150")
+		elif number1 == "30" and number2 == "6":
+			print("30 * 6 = 180")
+		elif number1 == "30" and number2 == "7":
+			print("30 * 7 = 210")
+		elif number1 == "30" and number2 == "8":
+			print("30 * 8 = 240")
+		elif number1 == "30" and number2 == "9":
+			print("30 * 9 = 270")
+		elif number1 == "30" and number2 == "10":
+			print("30 * 10 = 300")
+		elif number1 == "30" and number2 == "11":
+			print("30 * 11 = 330")
+		elif number1 == "30" and number2 == "12":
+			print("30 * 12 = 360")
+		elif number1 == "30" and number2 == "13":
+			print("30 * 13 = 390")
+		elif number1 == "30" and number2 == "14":
+			print("30 * 14 = 420")
+		elif number1 == "30" and number2 == "15":
+			print("30 * 15 = 450")
+		elif number1 == "30" and number2 == "16":
+			print("30 * 16 = 480")
+		elif number1 == "30" and number2 == "17":
+			print("30 * 17 = 510")
+		elif number1 == "30" and number2 == "18":
+			print("30 * 18 = 540")
+		elif number1 == "30" and number2 == "19":
+			print("30 * 19 = 570")
+		elif number1 == "30" and number2 == "20":
+			print("30 * 20 = 600")
+		elif number1 == "30" and number2 == "21":
+			print("30 * 21 = 630")
+		elif number1 == "30" and number2 == "22":
+			print("30 * 22 = 660")
+		elif number1 == "30" and number2 == "23":
+			print("30 * 23 = 690")
+		elif number1 == "30" and number2 == "24":
+			print("30 * 24 = 720")
+		elif number1 == "30" and number2 == "25":
+			print("30 * 25 = 750")
+		elif number1 == "30" and number2 == "26":
+			print("30 * 26 = 780")
+		elif number1 == "30" and number2 == "27":
+			print("30 * 27 = 810")
+		elif number1 == "30" and number2 == "28":
+			print("30 * 28 = 840")
+		elif number1 == "30" and number2 == "29":
+			print("30 * 29 = 870")
+		elif number1 == "30" and number2 == "30":
+			print("30 * 30 = 900")
+		elif number1 == "30" and number2 == "31":
+			print("30 * 31 = 930")
+		elif number1 == "30" and number2 == "32":
+			print("30 * 32 = 960")
+		elif number1 == "30" and number2 == "33":
+			print("30 * 33 = 990")
+		elif number1 == "30" and number2 == "34":
+			print("30 * 34 = 1020")
+		elif number1 == "31" and number2 == "1":
+			print("31 * 1 = 31")
+		elif number1 == "31" and number2 == "2":
+			print("31 * 2 = 62")
+		elif number1 == "31" and number2 == "3":
+			print("31 * 3 = 93")
+		elif number1 == "31" and number2 == "4":
+			print("31 * 4 = 124")
+		elif number1 == "31" and number2 == "5":
+			print("31 * 5 = 155")
+		elif number1 == "31" and number2 == "6":
+			print("31 * 6 = 186")
+		elif number1 == "31" and number2 == "7":
+			print("31 * 7 = 217")
+		elif number1 == "31" and number2 == "8":
+			print("31 * 8 = 248")
+		elif number1 == "31" and number2 == "9":
+			print("31 * 9 = 279")
+		elif number1 == "31" and number2 == "10":
+			print("31 * 10 = 310")
+		elif number1 == "31" and number2 == "11":
+			print("31 * 11 = 341")
+		elif number1 == "31" and number2 == "12":
+			print("31 * 12 = 372")
+		elif number1 == "31" and number2 == "13":
+			print("31 * 13 = 403")
+		elif number1 == "31" and number2 == "14":
+			print("31 * 14 = 434")
+		elif number1 == "31" and number2 == "15":
+			print("31 * 15 = 465")
+		elif number1 == "31" and number2 == "16":
+			print("31 * 16 = 496")
+		elif number1 == "31" and number2 == "17":
+			print("31 * 17 = 527")
+		elif number1 == "31" and number2 == "18":
+			print("31 * 18 = 558")
+		elif number1 == "31" and number2 == "19":
+			print("31 * 19 = 589")
+		elif number1 == "31" and number2 == "20":
+			print("31 * 20 = 620")
+		elif number1 == "31" and number2 == "21":
+			print("31 * 21 = 651")
+		elif number1 == "31" and number2 == "22":
+			print("31 * 22 = 682")
+		elif number1 == "31" and number2 == "23":
+			print("31 * 23 = 713")
+		elif number1 == "31" and number2 == "24":
+			print("31 * 24 = 744")
+		elif number1 == "31" and number2 == "25":
+			print("31 * 25 = 775")
+		elif number1 == "31" and number2 == "26":
+			print("31 * 26 = 806")
+		elif number1 == "31" and number2 == "27":
+			print("31 * 27 = 837")
+		elif number1 == "31" and number2 == "28":
+			print("31 * 28 = 868")
+		elif number1 == "31" and number2 == "29":
+			print("31 * 29 = 899")
+		elif number1 == "31" and number2 == "30":
+			print("31 * 30 = 930")
+		elif number1 == "31" and number2 == "31":
+			print("31 * 31 = 961")
+		elif number1 == "31" and number2 == "32":
+			print("31 * 32 = 992")
+		elif number1 == "31" and number2 == "33":
+			print("31 * 33 = 1023")
+		elif number1 == "31" and number2 == "34":
+			print("31 * 34 = 1054")
+		elif number1 == "32" and number2 == "1":
+			print("32 * 1 = 32")
+		elif number1 == "32" and number2 == "2":
+			print("32 * 2 = 64")
+		elif number1 == "32" and number2 == "3":
+			print("32 * 3 = 96")
+		elif number1 == "32" and number2 == "4":
+			print("32 * 4 = 128")
+		elif number1 == "32" and number2 == "5":
+			print("32 * 5 = 160")
+		elif number1 == "32" and number2 == "6":
+			print("32 * 6 = 192")
+		elif number1 == "32" and number2 == "7":
+			print("32 * 7 = 224")
+		elif number1 == "32" and number2 == "8":
+			print("32 * 8 = 256")
+		elif number1 == "32" and number2 == "9":
+			print("32 * 9 = 288")
+		elif number1 == "32" and number2 == "10":
+			print("32 * 10 = 320")
+		elif number1 == "32" and number2 == "11":
+			print("32 * 11 = 352")
+		elif number1 == "32" and number2 == "12":
+			print("32 * 12 = 384")
+		elif number1 == "32" and number2 == "13":
+			print("32 * 13 = 416")
+		elif number1 == "32" and number2 == "14":
+			print("32 * 14 = 448")
+		elif number1 == "32" and number2 == "15":
+			print("32 * 15 = 480")
+		elif number1 == "32" and number2 == "16":
+			print("32 * 16 = 512")
+		elif number1 == "32" and number2 == "17":
+			print("32 * 17 = 544")
+		elif number1 == "32" and number2 == "18":
+			print("32 * 18 = 576")
+		elif number1 == "32" and number2 == "19":
+			print("32 * 19 = 608")
+		elif number1 == "32" and number2 == "20":
+			print("32 * 20 = 640")
+		elif number1 == "32" and number2 == "21":
+			print("32 * 21 = 672")
+		elif number1 == "32" and number2 == "22":
+			print("32 * 22 = 704")
+		elif number1 == "32" and number2 == "23":
+			print("32 * 23 = 736")
+		elif number1 == "32" and number2 == "24":
+			print("32 * 24 = 768")
+		elif number1 == "32" and number2 == "25":
+			print("32 * 25 = 800")
+		elif number1 == "32" and number2 == "26":
+			print("32 * 26 = 832")
+		elif number1 == "32" and number2 == "27":
+			print("32 * 27 = 864")
+		elif number1 == "32" and number2 == "28":
+			print("32 * 28 = 896")
+		elif number1 == "32" and number2 == "29":
+			print("32 * 29 = 928")
+		elif number1 == "32" and number2 == "30":
+			print("32 * 30 = 960")
+		elif number1 == "32" and number2 == "31":
+			print("32 * 31 = 992")
+		elif number1 == "32" and number2 == "32":
+			print("32 * 32 = 1024")
+		elif number1 == "32" and number2 == "33":
+			print("32 * 33 = 1056")
+		elif number1 == "32" and number2 == "34":
+			print("32 * 34 = 1088")
+		elif number1 == "33" and number2 == "1":
+			print("33 * 1 = 33")
+		elif number1 == "33" and number2 == "2":
+			print("33 * 2 = 66")
+		elif number1 == "33" and number2 == "3":
+			print("33 * 3 = 99")
+		elif number1 == "33" and number2 == "4":
+			print("33 * 4 = 132")
+		elif number1 == "33" and number2 == "5":
+			print("33 * 5 = 165")
+		elif number1 == "33" and number2 == "6":
+			print("33 * 6 = 198")
+		elif number1 == "33" and number2 == "7":
+			print("33 * 7 = 231")
+		elif number1 == "33" and number2 == "8":
+			print("33 * 8 = 264")
+		elif number1 == "33" and number2 == "9":
+			print("33 * 9 = 297")
+		elif number1 == "33" and number2 == "10":
+			print("33 * 10 = 330")
+		elif number1 == "33" and number2 == "11":
+			print("33 * 11 = 363")
+		elif number1 == "33" and number2 == "12":
+			print("33 * 12 = 396")
+		elif number1 == "33" and number2 == "13":
+			print("33 * 13 = 429")
+		elif number1 == "33" and number2 == "14":
+			print("33 * 14 = 462")
+		elif number1 == "33" and number2 == "15":
+			print("33 * 15 = 495")
+		elif number1 == "33" and number2 == "16":
+			print("33 * 16 = 528")
+		elif number1 == "33" and number2 == "17":
+			print("33 * 17 = 561")
+		elif number1 == "33" and number2 == "18":
+			print("33 * 18 = 594")
+		elif number1 == "33" and number2 == "19":
+			print("33 * 19 = 627")
+		elif number1 == "33" and number2 == "20":
+			print("33 * 20 = 660")
+		elif number1 == "33" and number2 == "21":
+			print("33 * 21 = 693")
+		elif number1 == "33" and number2 == "22":
+			print("33 * 22 = 726")
+		elif number1 == "33" and number2 == "23":
+			print("33 * 23 = 759")
+		elif number1 == "33" and number2 == "24":
+			print("33 * 24 = 792")
+		elif number1 == "33" and number2 == "25":
+			print("33 * 25 = 825")
+		elif number1 == "33" and number2 == "26":
+			print("33 * 26 = 858")
+		elif number1 == "33" and number2 == "27":
+			print("33 * 27 = 891")
+		elif number1 == "33" and number2 == "28":
+			print("33 * 28 = 924")
+		elif number1 == "33" and number2 == "29":
+			print("33 * 29 = 957")
+		elif number1 == "33" and number2 == "30":
+			print("33 * 30 = 990")
+		elif number1 == "33" and number2 == "31":
+			print("33 * 31 = 1023")
+		elif number1 == "33" and number2 == "32":
+			print("33 * 32 = 1056")
+		elif number1 == "33" and number2 == "33":
+			print("33 * 33 = 1089")
+		elif number1 == "33" and number2 == "34":
+			print("33 * 34 = 1122")
+		elif number1 == "34" and number2 == "1":
+			print("34 * 1 = 34")
+		elif number1 == "34" and number2 == "2":
+			print("34 * 2 = 68")
+		elif number1 == "34" and number2 == "3":
+			print("34 * 3 = 102")
+		elif number1 == "34" and number2 == "4":
+			print("34 * 4 = 136")
+		elif number1 == "34" and number2 == "5":
+			print("34 * 5 = 170")
+		elif number1 == "34" and number2 == "6":
+			print("34 * 6 = 204")
+		elif number1 == "34" and number2 == "7":
+			print("34 * 7 = 238")
+		elif number1 == "34" and number2 == "8":
+			print("34 * 8 = 272")
+		elif number1 == "34" and number2 == "9":
+			print("34 * 9 = 306")
+		elif number1 == "34" and number2 == "10":
+			print("34 * 10 = 340")
+		elif number1 == "34" and number2 == "11":
+			print("34 * 11 = 374")
+		elif number1 == "34" and number2 == "12":
+			print("34 * 12 = 408")
+		elif number1 == "34" and number2 == "13":
+			print("34 * 13 = 442")
+		elif number1 == "34" and number2 == "14":
+			print("34 * 14 = 476")
+		elif number1 == "34" and number2 == "15":
+			print("34 * 15 = 510")
+		elif number1 == "34" and number2 == "16":
+			print("34 * 16 = 544")
+		elif number1 == "34" and number2 == "17":
+			print("34 * 17 = 578")
+		elif number1 == "34" and number2 == "18":
+			print("34 * 18 = 612")
+		elif number1 == "34" and number2 == "19":
+			print("34 * 19 = 646")
+		elif number1 == "34" and number2 == "20":
+			print("34 * 20 = 680")
+		elif number1 == "34" and number2 == "21":
+			print("34 * 21 = 714")
+		elif number1 == "34" and number2 == "22":
+			print("34 * 22 = 748")
+		elif number1 == "34" and number2 == "23":
+			print("34 * 23 = 782")
+		elif number1 == "34" and number2 == "24":
+			print("34 * 24 = 816")
+		elif number1 == "34" and number2 == "25":
+			print("34 * 25 = 850")
+		elif number1 == "34" and number2 == "26":
+			print("34 * 26 = 884")
+		elif number1 == "34" and number2 == "27":
+			print("34 * 27 = 918")
+		elif number1 == "34" and number2 == "28":
+			print("34 * 28 = 952")
+		elif number1 == "34" and number2 == "29":
+			print("34 * 29 = 986")
+		elif number1 == "34" and number2 == "30":
+			print("34 * 30 = 1020")
+		elif number1 == "34" and number2 == "31":
+			print("34 * 31 = 1054")
+		elif number1 == "34" and number2 == "32":
+			print("34 * 32 = 1088")
+		elif number1 == "34" and number2 == "33":
+			print("34 * 33 = 1122")
+		elif number1 == "34" and number2 == "34":
+			print("34 * 34 = 1156")
 	elif operation == "/":
 		if number1 == "1" and number2 == "1":
 			print("1 / 1 = 1.0")
@@ -4434,6 +6996,20 @@ while True:
 			print("1 / 26 = 0.03 and then probably more numbers idk i did it by hand...")
 		elif number1 == "1" and number2 == "27":
 			print("1 / 27 = 0.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "1" and number2 == "28":
+			print("1 / 28 = 0.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "1" and number2 == "29":
+			print("1 / 29 = 0.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "1" and number2 == "30":
+			print("1 / 30 = 0.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "1" and number2 == "31":
+			print("1 / 31 = 0.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "1" and number2 == "32":
+			print("1 / 32 = 0.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "1" and number2 == "33":
+			print("1 / 33 = 0.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "1" and number2 == "34":
+			print("1 / 34 = 0.02 and then probably more numbers idk i did it by hand...")
 		elif number1 == "2" and number2 == "1":
 			print("2 / 1 = 2.0")
 		elif number1 == "2" and number2 == "2":
@@ -4488,6 +7064,20 @@ while True:
 			print("2 / 26 = 0.07 and then probably more numbers idk i did it by hand...")
 		elif number1 == "2" and number2 == "27":
 			print("2 / 27 = 0.07 and then probably more numbers idk i did it by hand...")
+		elif number1 == "2" and number2 == "28":
+			print("2 / 28 = 0.07 and then probably more numbers idk i did it by hand...")
+		elif number1 == "2" and number2 == "29":
+			print("2 / 29 = 0.06 and then probably more numbers idk i did it by hand...")
+		elif number1 == "2" and number2 == "30":
+			print("2 / 30 = 0.06 and then probably more numbers idk i did it by hand...")
+		elif number1 == "2" and number2 == "31":
+			print("2 / 31 = 0.06 and then probably more numbers idk i did it by hand...")
+		elif number1 == "2" and number2 == "32":
+			print("2 / 32 = 0.06 and then probably more numbers idk i did it by hand...")
+		elif number1 == "2" and number2 == "33":
+			print("2 / 33 = 0.06 and then probably more numbers idk i did it by hand...")
+		elif number1 == "2" and number2 == "34":
+			print("2 / 34 = 0.05 and then probably more numbers idk i did it by hand...")
 		elif number1 == "3" and number2 == "1":
 			print("3 / 1 = 3.0")
 		elif number1 == "3" and number2 == "2":
@@ -4542,6 +7132,20 @@ while True:
 			print("3 / 26 = 0.11 and then probably more numbers idk i did it by hand...")
 		elif number1 == "3" and number2 == "27":
 			print("3 / 27 = 0.11 and then probably more numbers idk i did it by hand...")
+		elif number1 == "3" and number2 == "28":
+			print("3 / 28 = 0.10 and then probably more numbers idk i did it by hand...")
+		elif number1 == "3" and number2 == "29":
+			print("3 / 29 = 0.10 and then probably more numbers idk i did it by hand...")
+		elif number1 == "3" and number2 == "30":
+			print("3 / 30 = 0.1")
+		elif number1 == "3" and number2 == "31":
+			print("3 / 31 = 0.09 and then probably more numbers idk i did it by hand...")
+		elif number1 == "3" and number2 == "32":
+			print("3 / 32 = 0.09 and then probably more numbers idk i did it by hand...")
+		elif number1 == "3" and number2 == "33":
+			print("3 / 33 = 0.09 and then probably more numbers idk i did it by hand...")
+		elif number1 == "3" and number2 == "34":
+			print("3 / 34 = 0.08 and then probably more numbers idk i did it by hand...")
 		elif number1 == "4" and number2 == "1":
 			print("4 / 1 = 4.0")
 		elif number1 == "4" and number2 == "2":
@@ -4596,6 +7200,20 @@ while True:
 			print("4 / 26 = 0.15 and then probably more numbers idk i did it by hand...")
 		elif number1 == "4" and number2 == "27":
 			print("4 / 27 = 0.14 and then probably more numbers idk i did it by hand...")
+		elif number1 == "4" and number2 == "28":
+			print("4 / 28 = 0.14 and then probably more numbers idk i did it by hand...")
+		elif number1 == "4" and number2 == "29":
+			print("4 / 29 = 0.13 and then probably more numbers idk i did it by hand...")
+		elif number1 == "4" and number2 == "30":
+			print("4 / 30 = 0.13 and then probably more numbers idk i did it by hand...")
+		elif number1 == "4" and number2 == "31":
+			print("4 / 31 = 0.12 and then probably more numbers idk i did it by hand...")
+		elif number1 == "4" and number2 == "32":
+			print("4 / 32 = 0.12 and then probably more numbers idk i did it by hand...")
+		elif number1 == "4" and number2 == "33":
+			print("4 / 33 = 0.12 and then probably more numbers idk i did it by hand...")
+		elif number1 == "4" and number2 == "34":
+			print("4 / 34 = 0.11 and then probably more numbers idk i did it by hand...")
 		elif number1 == "5" and number2 == "1":
 			print("5 / 1 = 5.0")
 		elif number1 == "5" and number2 == "2":
@@ -4650,6 +7268,20 @@ while True:
 			print("5 / 26 = 0.19 and then probably more numbers idk i did it by hand...")
 		elif number1 == "5" and number2 == "27":
 			print("5 / 27 = 0.18 and then probably more numbers idk i did it by hand...")
+		elif number1 == "5" and number2 == "28":
+			print("5 / 28 = 0.17 and then probably more numbers idk i did it by hand...")
+		elif number1 == "5" and number2 == "29":
+			print("5 / 29 = 0.17 and then probably more numbers idk i did it by hand...")
+		elif number1 == "5" and number2 == "30":
+			print("5 / 30 = 0.16 and then probably more numbers idk i did it by hand...")
+		elif number1 == "5" and number2 == "31":
+			print("5 / 31 = 0.16 and then probably more numbers idk i did it by hand...")
+		elif number1 == "5" and number2 == "32":
+			print("5 / 32 = 0.15 and then probably more numbers idk i did it by hand...")
+		elif number1 == "5" and number2 == "33":
+			print("5 / 33 = 0.15 and then probably more numbers idk i did it by hand...")
+		elif number1 == "5" and number2 == "34":
+			print("5 / 34 = 0.14 and then probably more numbers idk i did it by hand...")
 		elif number1 == "6" and number2 == "1":
 			print("6 / 1 = 6.0")
 		elif number1 == "6" and number2 == "2":
@@ -4704,6 +7336,20 @@ while True:
 			print("6 / 26 = 0.23 and then probably more numbers idk i did it by hand...")
 		elif number1 == "6" and number2 == "27":
 			print("6 / 27 = 0.22 and then probably more numbers idk i did it by hand...")
+		elif number1 == "6" and number2 == "28":
+			print("6 / 28 = 0.21 and then probably more numbers idk i did it by hand...")
+		elif number1 == "6" and number2 == "29":
+			print("6 / 29 = 0.20 and then probably more numbers idk i did it by hand...")
+		elif number1 == "6" and number2 == "30":
+			print("6 / 30 = 0.2")
+		elif number1 == "6" and number2 == "31":
+			print("6 / 31 = 0.19 and then probably more numbers idk i did it by hand...")
+		elif number1 == "6" and number2 == "32":
+			print("6 / 32 = 0.18 and then probably more numbers idk i did it by hand...")
+		elif number1 == "6" and number2 == "33":
+			print("6 / 33 = 0.18 and then probably more numbers idk i did it by hand...")
+		elif number1 == "6" and number2 == "34":
+			print("6 / 34 = 0.17 and then probably more numbers idk i did it by hand...")
 		elif number1 == "7" and number2 == "1":
 			print("7 / 1 = 7.0")
 		elif number1 == "7" and number2 == "2":
@@ -4758,6 +7404,20 @@ while True:
 			print("7 / 26 = 0.26 and then probably more numbers idk i did it by hand...")
 		elif number1 == "7" and number2 == "27":
 			print("7 / 27 = 0.25 and then probably more numbers idk i did it by hand...")
+		elif number1 == "7" and number2 == "28":
+			print("7 / 28 = 0.25")
+		elif number1 == "7" and number2 == "29":
+			print("7 / 29 = 0.24 and then probably more numbers idk i did it by hand...")
+		elif number1 == "7" and number2 == "30":
+			print("7 / 30 = 0.23 and then probably more numbers idk i did it by hand...")
+		elif number1 == "7" and number2 == "31":
+			print("7 / 31 = 0.22 and then probably more numbers idk i did it by hand...")
+		elif number1 == "7" and number2 == "32":
+			print("7 / 32 = 0.21 and then probably more numbers idk i did it by hand...")
+		elif number1 == "7" and number2 == "33":
+			print("7 / 33 = 0.21 and then probably more numbers idk i did it by hand...")
+		elif number1 == "7" and number2 == "34":
+			print("7 / 34 = 0.20 and then probably more numbers idk i did it by hand...")
 		elif number1 == "8" and number2 == "1":
 			print("8 / 1 = 8.0")
 		elif number1 == "8" and number2 == "2":
@@ -4812,6 +7472,20 @@ while True:
 			print("8 / 26 = 0.30 and then probably more numbers idk i did it by hand...")
 		elif number1 == "8" and number2 == "27":
 			print("8 / 27 = 0.29 and then probably more numbers idk i did it by hand...")
+		elif number1 == "8" and number2 == "28":
+			print("8 / 28 = 0.28 and then probably more numbers idk i did it by hand...")
+		elif number1 == "8" and number2 == "29":
+			print("8 / 29 = 0.27 and then probably more numbers idk i did it by hand...")
+		elif number1 == "8" and number2 == "30":
+			print("8 / 30 = 0.26 and then probably more numbers idk i did it by hand...")
+		elif number1 == "8" and number2 == "31":
+			print("8 / 31 = 0.25 and then probably more numbers idk i did it by hand...")
+		elif number1 == "8" and number2 == "32":
+			print("8 / 32 = 0.25")
+		elif number1 == "8" and number2 == "33":
+			print("8 / 33 = 0.24 and then probably more numbers idk i did it by hand...")
+		elif number1 == "8" and number2 == "34":
+			print("8 / 34 = 0.23 and then probably more numbers idk i did it by hand...")
 		elif number1 == "9" and number2 == "1":
 			print("9 / 1 = 9.0")
 		elif number1 == "9" and number2 == "2":
@@ -4866,6 +7540,20 @@ while True:
 			print("9 / 26 = 0.34 and then probably more numbers idk i did it by hand...")
 		elif number1 == "9" and number2 == "27":
 			print("9 / 27 = 0.33 and then probably more numbers idk i did it by hand...")
+		elif number1 == "9" and number2 == "28":
+			print("9 / 28 = 0.32 and then probably more numbers idk i did it by hand...")
+		elif number1 == "9" and number2 == "29":
+			print("9 / 29 = 0.31 and then probably more numbers idk i did it by hand...")
+		elif number1 == "9" and number2 == "30":
+			print("9 / 30 = 0.3")
+		elif number1 == "9" and number2 == "31":
+			print("9 / 31 = 0.29 and then probably more numbers idk i did it by hand...")
+		elif number1 == "9" and number2 == "32":
+			print("9 / 32 = 0.28 and then probably more numbers idk i did it by hand...")
+		elif number1 == "9" and number2 == "33":
+			print("9 / 33 = 0.27 and then probably more numbers idk i did it by hand...")
+		elif number1 == "9" and number2 == "34":
+			print("9 / 34 = 0.26 and then probably more numbers idk i did it by hand...")
 		elif number1 == "10" and number2 == "1":
 			print("10 / 1 = 10.0")
 		elif number1 == "10" and number2 == "2":
@@ -4920,6 +7608,20 @@ while True:
 			print("10 / 26 = 0.38 and then probably more numbers idk i did it by hand...")
 		elif number1 == "10" and number2 == "27":
 			print("10 / 27 = 0.37 and then probably more numbers idk i did it by hand...")
+		elif number1 == "10" and number2 == "28":
+			print("10 / 28 = 0.35 and then probably more numbers idk i did it by hand...")
+		elif number1 == "10" and number2 == "29":
+			print("10 / 29 = 0.34 and then probably more numbers idk i did it by hand...")
+		elif number1 == "10" and number2 == "30":
+			print("10 / 30 = 0.33 and then probably more numbers idk i did it by hand...")
+		elif number1 == "10" and number2 == "31":
+			print("10 / 31 = 0.32 and then probably more numbers idk i did it by hand...")
+		elif number1 == "10" and number2 == "32":
+			print("10 / 32 = 0.31 and then probably more numbers idk i did it by hand...")
+		elif number1 == "10" and number2 == "33":
+			print("10 / 33 = 0.30 and then probably more numbers idk i did it by hand...")
+		elif number1 == "10" and number2 == "34":
+			print("10 / 34 = 0.29 and then probably more numbers idk i did it by hand...")
 		elif number1 == "11" and number2 == "1":
 			print("11 / 1 = 11.0")
 		elif number1 == "11" and number2 == "2":
@@ -4974,6 +7676,20 @@ while True:
 			print("11 / 26 = 0.42 and then probably more numbers idk i did it by hand...")
 		elif number1 == "11" and number2 == "27":
 			print("11 / 27 = 0.40 and then probably more numbers idk i did it by hand...")
+		elif number1 == "11" and number2 == "28":
+			print("11 / 28 = 0.39 and then probably more numbers idk i did it by hand...")
+		elif number1 == "11" and number2 == "29":
+			print("11 / 29 = 0.37 and then probably more numbers idk i did it by hand...")
+		elif number1 == "11" and number2 == "30":
+			print("11 / 30 = 0.36 and then probably more numbers idk i did it by hand...")
+		elif number1 == "11" and number2 == "31":
+			print("11 / 31 = 0.35 and then probably more numbers idk i did it by hand...")
+		elif number1 == "11" and number2 == "32":
+			print("11 / 32 = 0.34 and then probably more numbers idk i did it by hand...")
+		elif number1 == "11" and number2 == "33":
+			print("11 / 33 = 0.33 and then probably more numbers idk i did it by hand...")
+		elif number1 == "11" and number2 == "34":
+			print("11 / 34 = 0.32 and then probably more numbers idk i did it by hand...")
 		elif number1 == "12" and number2 == "1":
 			print("12 / 1 = 12.0")
 		elif number1 == "12" and number2 == "2":
@@ -5028,6 +7744,20 @@ while True:
 			print("12 / 26 = 0.46 and then probably more numbers idk i did it by hand...")
 		elif number1 == "12" and number2 == "27":
 			print("12 / 27 = 0.44 and then probably more numbers idk i did it by hand...")
+		elif number1 == "12" and number2 == "28":
+			print("12 / 28 = 0.42 and then probably more numbers idk i did it by hand...")
+		elif number1 == "12" and number2 == "29":
+			print("12 / 29 = 0.41 and then probably more numbers idk i did it by hand...")
+		elif number1 == "12" and number2 == "30":
+			print("12 / 30 = 0.4")
+		elif number1 == "12" and number2 == "31":
+			print("12 / 31 = 0.38 and then probably more numbers idk i did it by hand...")
+		elif number1 == "12" and number2 == "32":
+			print("12 / 32 = 0.37 and then probably more numbers idk i did it by hand...")
+		elif number1 == "12" and number2 == "33":
+			print("12 / 33 = 0.36 and then probably more numbers idk i did it by hand...")
+		elif number1 == "12" and number2 == "34":
+			print("12 / 34 = 0.35 and then probably more numbers idk i did it by hand...")
 		elif number1 == "13" and number2 == "1":
 			print("13 / 1 = 13.0")
 		elif number1 == "13" and number2 == "2":
@@ -5082,6 +7812,20 @@ while True:
 			print("13 / 26 = 0.5")
 		elif number1 == "13" and number2 == "27":
 			print("13 / 27 = 0.48 and then probably more numbers idk i did it by hand...")
+		elif number1 == "13" and number2 == "28":
+			print("13 / 28 = 0.46 and then probably more numbers idk i did it by hand...")
+		elif number1 == "13" and number2 == "29":
+			print("13 / 29 = 0.44 and then probably more numbers idk i did it by hand...")
+		elif number1 == "13" and number2 == "30":
+			print("13 / 30 = 0.43 and then probably more numbers idk i did it by hand...")
+		elif number1 == "13" and number2 == "31":
+			print("13 / 31 = 0.41 and then probably more numbers idk i did it by hand...")
+		elif number1 == "13" and number2 == "32":
+			print("13 / 32 = 0.40 and then probably more numbers idk i did it by hand...")
+		elif number1 == "13" and number2 == "33":
+			print("13 / 33 = 0.39 and then probably more numbers idk i did it by hand...")
+		elif number1 == "13" and number2 == "34":
+			print("13 / 34 = 0.38 and then probably more numbers idk i did it by hand...")
 		elif number1 == "14" and number2 == "1":
 			print("14 / 1 = 14.0")
 		elif number1 == "14" and number2 == "2":
@@ -5136,6 +7880,20 @@ while True:
 			print("14 / 26 = 0.53 and then probably more numbers idk i did it by hand...")
 		elif number1 == "14" and number2 == "27":
 			print("14 / 27 = 0.51 and then probably more numbers idk i did it by hand...")
+		elif number1 == "14" and number2 == "28":
+			print("14 / 28 = 0.5")
+		elif number1 == "14" and number2 == "29":
+			print("14 / 29 = 0.48 and then probably more numbers idk i did it by hand...")
+		elif number1 == "14" and number2 == "30":
+			print("14 / 30 = 0.46 and then probably more numbers idk i did it by hand...")
+		elif number1 == "14" and number2 == "31":
+			print("14 / 31 = 0.45 and then probably more numbers idk i did it by hand...")
+		elif number1 == "14" and number2 == "32":
+			print("14 / 32 = 0.43 and then probably more numbers idk i did it by hand...")
+		elif number1 == "14" and number2 == "33":
+			print("14 / 33 = 0.42 and then probably more numbers idk i did it by hand...")
+		elif number1 == "14" and number2 == "34":
+			print("14 / 34 = 0.41 and then probably more numbers idk i did it by hand...")
 		elif number1 == "15" and number2 == "1":
 			print("15 / 1 = 15.0")
 		elif number1 == "15" and number2 == "2":
@@ -5190,6 +7948,20 @@ while True:
 			print("15 / 26 = 0.57 and then probably more numbers idk i did it by hand...")
 		elif number1 == "15" and number2 == "27":
 			print("15 / 27 = 0.55 and then probably more numbers idk i did it by hand...")
+		elif number1 == "15" and number2 == "28":
+			print("15 / 28 = 0.53 and then probably more numbers idk i did it by hand...")
+		elif number1 == "15" and number2 == "29":
+			print("15 / 29 = 0.51 and then probably more numbers idk i did it by hand...")
+		elif number1 == "15" and number2 == "30":
+			print("15 / 30 = 0.5")
+		elif number1 == "15" and number2 == "31":
+			print("15 / 31 = 0.48 and then probably more numbers idk i did it by hand...")
+		elif number1 == "15" and number2 == "32":
+			print("15 / 32 = 0.46 and then probably more numbers idk i did it by hand...")
+		elif number1 == "15" and number2 == "33":
+			print("15 / 33 = 0.45 and then probably more numbers idk i did it by hand...")
+		elif number1 == "15" and number2 == "34":
+			print("15 / 34 = 0.44 and then probably more numbers idk i did it by hand...")
 		elif number1 == "16" and number2 == "1":
 			print("16 / 1 = 16.0")
 		elif number1 == "16" and number2 == "2":
@@ -5244,6 +8016,20 @@ while True:
 			print("16 / 26 = 0.61 and then probably more numbers idk i did it by hand...")
 		elif number1 == "16" and number2 == "27":
 			print("16 / 27 = 0.59 and then probably more numbers idk i did it by hand...")
+		elif number1 == "16" and number2 == "28":
+			print("16 / 28 = 0.57 and then probably more numbers idk i did it by hand...")
+		elif number1 == "16" and number2 == "29":
+			print("16 / 29 = 0.55 and then probably more numbers idk i did it by hand...")
+		elif number1 == "16" and number2 == "30":
+			print("16 / 30 = 0.53 and then probably more numbers idk i did it by hand...")
+		elif number1 == "16" and number2 == "31":
+			print("16 / 31 = 0.51 and then probably more numbers idk i did it by hand...")
+		elif number1 == "16" and number2 == "32":
+			print("16 / 32 = 0.5")
+		elif number1 == "16" and number2 == "33":
+			print("16 / 33 = 0.48 and then probably more numbers idk i did it by hand...")
+		elif number1 == "16" and number2 == "34":
+			print("16 / 34 = 0.47 and then probably more numbers idk i did it by hand...")
 		elif number1 == "17" and number2 == "1":
 			print("17 / 1 = 17.0")
 		elif number1 == "17" and number2 == "2":
@@ -5298,6 +8084,20 @@ while True:
 			print("17 / 26 = 0.65 and then probably more numbers idk i did it by hand...")
 		elif number1 == "17" and number2 == "27":
 			print("17 / 27 = 0.62 and then probably more numbers idk i did it by hand...")
+		elif number1 == "17" and number2 == "28":
+			print("17 / 28 = 0.60 and then probably more numbers idk i did it by hand...")
+		elif number1 == "17" and number2 == "29":
+			print("17 / 29 = 0.58 and then probably more numbers idk i did it by hand...")
+		elif number1 == "17" and number2 == "30":
+			print("17 / 30 = 0.56 and then probably more numbers idk i did it by hand...")
+		elif number1 == "17" and number2 == "31":
+			print("17 / 31 = 0.54 and then probably more numbers idk i did it by hand...")
+		elif number1 == "17" and number2 == "32":
+			print("17 / 32 = 0.53 and then probably more numbers idk i did it by hand...")
+		elif number1 == "17" and number2 == "33":
+			print("17 / 33 = 0.51 and then probably more numbers idk i did it by hand...")
+		elif number1 == "17" and number2 == "34":
+			print("17 / 34 = 0.5")
 		elif number1 == "18" and number2 == "1":
 			print("18 / 1 = 18.0")
 		elif number1 == "18" and number2 == "2":
@@ -5352,6 +8152,20 @@ while True:
 			print("18 / 26 = 0.69 and then probably more numbers idk i did it by hand...")
 		elif number1 == "18" and number2 == "27":
 			print("18 / 27 = 0.66 and then probably more numbers idk i did it by hand...")
+		elif number1 == "18" and number2 == "28":
+			print("18 / 28 = 0.64 and then probably more numbers idk i did it by hand...")
+		elif number1 == "18" and number2 == "29":
+			print("18 / 29 = 0.62 and then probably more numbers idk i did it by hand...")
+		elif number1 == "18" and number2 == "30":
+			print("18 / 30 = 0.6")
+		elif number1 == "18" and number2 == "31":
+			print("18 / 31 = 0.58 and then probably more numbers idk i did it by hand...")
+		elif number1 == "18" and number2 == "32":
+			print("18 / 32 = 0.56 and then probably more numbers idk i did it by hand...")
+		elif number1 == "18" and number2 == "33":
+			print("18 / 33 = 0.54 and then probably more numbers idk i did it by hand...")
+		elif number1 == "18" and number2 == "34":
+			print("18 / 34 = 0.52 and then probably more numbers idk i did it by hand...")
 		elif number1 == "19" and number2 == "1":
 			print("19 / 1 = 19.0")
 		elif number1 == "19" and number2 == "2":
@@ -5406,6 +8220,20 @@ while True:
 			print("19 / 26 = 0.73 and then probably more numbers idk i did it by hand...")
 		elif number1 == "19" and number2 == "27":
 			print("19 / 27 = 0.70 and then probably more numbers idk i did it by hand...")
+		elif number1 == "19" and number2 == "28":
+			print("19 / 28 = 0.67 and then probably more numbers idk i did it by hand...")
+		elif number1 == "19" and number2 == "29":
+			print("19 / 29 = 0.65 and then probably more numbers idk i did it by hand...")
+		elif number1 == "19" and number2 == "30":
+			print("19 / 30 = 0.63 and then probably more numbers idk i did it by hand...")
+		elif number1 == "19" and number2 == "31":
+			print("19 / 31 = 0.61 and then probably more numbers idk i did it by hand...")
+		elif number1 == "19" and number2 == "32":
+			print("19 / 32 = 0.59 and then probably more numbers idk i did it by hand...")
+		elif number1 == "19" and number2 == "33":
+			print("19 / 33 = 0.57 and then probably more numbers idk i did it by hand...")
+		elif number1 == "19" and number2 == "34":
+			print("19 / 34 = 0.55 and then probably more numbers idk i did it by hand...")
 		elif number1 == "20" and number2 == "1":
 			print("20 / 1 = 20.0")
 		elif number1 == "20" and number2 == "2":
@@ -5460,6 +8288,20 @@ while True:
 			print("20 / 26 = 0.76 and then probably more numbers idk i did it by hand...")
 		elif number1 == "20" and number2 == "27":
 			print("20 / 27 = 0.74 and then probably more numbers idk i did it by hand...")
+		elif number1 == "20" and number2 == "28":
+			print("20 / 28 = 0.71 and then probably more numbers idk i did it by hand...")
+		elif number1 == "20" and number2 == "29":
+			print("20 / 29 = 0.68 and then probably more numbers idk i did it by hand...")
+		elif number1 == "20" and number2 == "30":
+			print("20 / 30 = 0.66 and then probably more numbers idk i did it by hand...")
+		elif number1 == "20" and number2 == "31":
+			print("20 / 31 = 0.64 and then probably more numbers idk i did it by hand...")
+		elif number1 == "20" and number2 == "32":
+			print("20 / 32 = 0.62 and then probably more numbers idk i did it by hand...")
+		elif number1 == "20" and number2 == "33":
+			print("20 / 33 = 0.60 and then probably more numbers idk i did it by hand...")
+		elif number1 == "20" and number2 == "34":
+			print("20 / 34 = 0.58 and then probably more numbers idk i did it by hand...")
 		elif number1 == "21" and number2 == "1":
 			print("21 / 1 = 21.0")
 		elif number1 == "21" and number2 == "2":
@@ -5514,6 +8356,20 @@ while True:
 			print("21 / 26 = 0.80 and then probably more numbers idk i did it by hand...")
 		elif number1 == "21" and number2 == "27":
 			print("21 / 27 = 0.77 and then probably more numbers idk i did it by hand...")
+		elif number1 == "21" and number2 == "28":
+			print("21 / 28 = 0.75")
+		elif number1 == "21" and number2 == "29":
+			print("21 / 29 = 0.72 and then probably more numbers idk i did it by hand...")
+		elif number1 == "21" and number2 == "30":
+			print("21 / 30 = 0.7")
+		elif number1 == "21" and number2 == "31":
+			print("21 / 31 = 0.67 and then probably more numbers idk i did it by hand...")
+		elif number1 == "21" and number2 == "32":
+			print("21 / 32 = 0.65 and then probably more numbers idk i did it by hand...")
+		elif number1 == "21" and number2 == "33":
+			print("21 / 33 = 0.63 and then probably more numbers idk i did it by hand...")
+		elif number1 == "21" and number2 == "34":
+			print("21 / 34 = 0.61 and then probably more numbers idk i did it by hand...")
 		elif number1 == "22" and number2 == "1":
 			print("22 / 1 = 22.0")
 		elif number1 == "22" and number2 == "2":
@@ -5568,6 +8424,20 @@ while True:
 			print("22 / 26 = 0.84 and then probably more numbers idk i did it by hand...")
 		elif number1 == "22" and number2 == "27":
 			print("22 / 27 = 0.81 and then probably more numbers idk i did it by hand...")
+		elif number1 == "22" and number2 == "28":
+			print("22 / 28 = 0.78 and then probably more numbers idk i did it by hand...")
+		elif number1 == "22" and number2 == "29":
+			print("22 / 29 = 0.75 and then probably more numbers idk i did it by hand...")
+		elif number1 == "22" and number2 == "30":
+			print("22 / 30 = 0.73 and then probably more numbers idk i did it by hand...")
+		elif number1 == "22" and number2 == "31":
+			print("22 / 31 = 0.70 and then probably more numbers idk i did it by hand...")
+		elif number1 == "22" and number2 == "32":
+			print("22 / 32 = 0.68 and then probably more numbers idk i did it by hand...")
+		elif number1 == "22" and number2 == "33":
+			print("22 / 33 = 0.66 and then probably more numbers idk i did it by hand...")
+		elif number1 == "22" and number2 == "34":
+			print("22 / 34 = 0.64 and then probably more numbers idk i did it by hand...")
 		elif number1 == "23" and number2 == "1":
 			print("23 / 1 = 23.0")
 		elif number1 == "23" and number2 == "2":
@@ -5622,6 +8492,20 @@ while True:
 			print("23 / 26 = 0.88 and then probably more numbers idk i did it by hand...")
 		elif number1 == "23" and number2 == "27":
 			print("23 / 27 = 0.85 and then probably more numbers idk i did it by hand...")
+		elif number1 == "23" and number2 == "28":
+			print("23 / 28 = 0.82 and then probably more numbers idk i did it by hand...")
+		elif number1 == "23" and number2 == "29":
+			print("23 / 29 = 0.79 and then probably more numbers idk i did it by hand...")
+		elif number1 == "23" and number2 == "30":
+			print("23 / 30 = 0.76 and then probably more numbers idk i did it by hand...")
+		elif number1 == "23" and number2 == "31":
+			print("23 / 31 = 0.74 and then probably more numbers idk i did it by hand...")
+		elif number1 == "23" and number2 == "32":
+			print("23 / 32 = 0.71 and then probably more numbers idk i did it by hand...")
+		elif number1 == "23" and number2 == "33":
+			print("23 / 33 = 0.69 and then probably more numbers idk i did it by hand...")
+		elif number1 == "23" and number2 == "34":
+			print("23 / 34 = 0.67 and then probably more numbers idk i did it by hand...")
 		elif number1 == "24" and number2 == "1":
 			print("24 / 1 = 24.0")
 		elif number1 == "24" and number2 == "2":
@@ -5676,6 +8560,20 @@ while True:
 			print("24 / 26 = 0.92 and then probably more numbers idk i did it by hand...")
 		elif number1 == "24" and number2 == "27":
 			print("24 / 27 = 0.88 and then probably more numbers idk i did it by hand...")
+		elif number1 == "24" and number2 == "28":
+			print("24 / 28 = 0.85 and then probably more numbers idk i did it by hand...")
+		elif number1 == "24" and number2 == "29":
+			print("24 / 29 = 0.82 and then probably more numbers idk i did it by hand...")
+		elif number1 == "24" and number2 == "30":
+			print("24 / 30 = 0.8")
+		elif number1 == "24" and number2 == "31":
+			print("24 / 31 = 0.77 and then probably more numbers idk i did it by hand...")
+		elif number1 == "24" and number2 == "32":
+			print("24 / 32 = 0.75")
+		elif number1 == "24" and number2 == "33":
+			print("24 / 33 = 0.72 and then probably more numbers idk i did it by hand...")
+		elif number1 == "24" and number2 == "34":
+			print("24 / 34 = 0.70 and then probably more numbers idk i did it by hand...")
 		elif number1 == "25" and number2 == "1":
 			print("25 / 1 = 25.0")
 		elif number1 == "25" and number2 == "2":
@@ -5730,6 +8628,20 @@ while True:
 			print("25 / 26 = 0.96 and then probably more numbers idk i did it by hand...")
 		elif number1 == "25" and number2 == "27":
 			print("25 / 27 = 0.92 and then probably more numbers idk i did it by hand...")
+		elif number1 == "25" and number2 == "28":
+			print("25 / 28 = 0.89 and then probably more numbers idk i did it by hand...")
+		elif number1 == "25" and number2 == "29":
+			print("25 / 29 = 0.86 and then probably more numbers idk i did it by hand...")
+		elif number1 == "25" and number2 == "30":
+			print("25 / 30 = 0.83 and then probably more numbers idk i did it by hand...")
+		elif number1 == "25" and number2 == "31":
+			print("25 / 31 = 0.80 and then probably more numbers idk i did it by hand...")
+		elif number1 == "25" and number2 == "32":
+			print("25 / 32 = 0.78 and then probably more numbers idk i did it by hand...")
+		elif number1 == "25" and number2 == "33":
+			print("25 / 33 = 0.75 and then probably more numbers idk i did it by hand...")
+		elif number1 == "25" and number2 == "34":
+			print("25 / 34 = 0.73 and then probably more numbers idk i did it by hand...")
 		elif number1 == "26" and number2 == "1":
 			print("26 / 1 = 26.0")
 		elif number1 == "26" and number2 == "2":
@@ -5784,6 +8696,20 @@ while True:
 			print("26 / 26 = 1.0")
 		elif number1 == "26" and number2 == "27":
 			print("26 / 27 = 0.96 and then probably more numbers idk i did it by hand...")
+		elif number1 == "26" and number2 == "28":
+			print("26 / 28 = 0.92 and then probably more numbers idk i did it by hand...")
+		elif number1 == "26" and number2 == "29":
+			print("26 / 29 = 0.89 and then probably more numbers idk i did it by hand...")
+		elif number1 == "26" and number2 == "30":
+			print("26 / 30 = 0.86 and then probably more numbers idk i did it by hand...")
+		elif number1 == "26" and number2 == "31":
+			print("26 / 31 = 0.83 and then probably more numbers idk i did it by hand...")
+		elif number1 == "26" and number2 == "32":
+			print("26 / 32 = 0.81 and then probably more numbers idk i did it by hand...")
+		elif number1 == "26" and number2 == "33":
+			print("26 / 33 = 0.78 and then probably more numbers idk i did it by hand...")
+		elif number1 == "26" and number2 == "34":
+			print("26 / 34 = 0.76 and then probably more numbers idk i did it by hand...")
 		elif number1 == "27" and number2 == "1":
 			print("27 / 1 = 27.0")
 		elif number1 == "27" and number2 == "2":
@@ -5838,5 +8764,495 @@ while True:
 			print("27 / 26 = 1.03 and then probably more numbers idk i did it by hand...")
 		elif number1 == "27" and number2 == "27":
 			print("27 / 27 = 1.0")
+		elif number1 == "27" and number2 == "28":
+			print("27 / 28 = 0.96 and then probably more numbers idk i did it by hand...")
+		elif number1 == "27" and number2 == "29":
+			print("27 / 29 = 0.93 and then probably more numbers idk i did it by hand...")
+		elif number1 == "27" and number2 == "30":
+			print("27 / 30 = 0.9")
+		elif number1 == "27" and number2 == "31":
+			print("27 / 31 = 0.87 and then probably more numbers idk i did it by hand...")
+		elif number1 == "27" and number2 == "32":
+			print("27 / 32 = 0.84 and then probably more numbers idk i did it by hand...")
+		elif number1 == "27" and number2 == "33":
+			print("27 / 33 = 0.81 and then probably more numbers idk i did it by hand...")
+		elif number1 == "27" and number2 == "34":
+			print("27 / 34 = 0.79 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "1":
+			print("28 / 1 = 28.0")
+		elif number1 == "28" and number2 == "2":
+			print("28 / 2 = 14.0")
+		elif number1 == "28" and number2 == "3":
+			print("28 / 3 = 9.33 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "4":
+			print("28 / 4 = 7.0")
+		elif number1 == "28" and number2 == "5":
+			print("28 / 5 = 5.6")
+		elif number1 == "28" and number2 == "6":
+			print("28 / 6 = 4.66 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "7":
+			print("28 / 7 = 4.0")
+		elif number1 == "28" and number2 == "8":
+			print("28 / 8 = 3.5")
+		elif number1 == "28" and number2 == "9":
+			print("28 / 9 = 3.11 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "10":
+			print("28 / 10 = 2.8")
+		elif number1 == "28" and number2 == "11":
+			print("28 / 11 = 2.54 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "12":
+			print("28 / 12 = 2.33 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "13":
+			print("28 / 13 = 2.15 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "14":
+			print("28 / 14 = 2.0")
+		elif number1 == "28" and number2 == "15":
+			print("28 / 15 = 1.86 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "16":
+			print("28 / 16 = 1.75")
+		elif number1 == "28" and number2 == "17":
+			print("28 / 17 = 1.64 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "18":
+			print("28 / 18 = 1.55 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "19":
+			print("28 / 19 = 1.47 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "20":
+			print("28 / 20 = 1.4")
+		elif number1 == "28" and number2 == "21":
+			print("28 / 21 = 1.33 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "22":
+			print("28 / 22 = 1.27 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "23":
+			print("28 / 23 = 1.21 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "24":
+			print("28 / 24 = 1.16 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "25":
+			print("28 / 25 = 1.12")
+		elif number1 == "28" and number2 == "26":
+			print("28 / 26 = 1.07 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "27":
+			print("28 / 27 = 1.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "28":
+			print("28 / 28 = 1.0")
+		elif number1 == "28" and number2 == "29":
+			print("28 / 29 = 0.96 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "30":
+			print("28 / 30 = 0.93 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "31":
+			print("28 / 31 = 0.90 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "32":
+			print("28 / 32 = 0.87 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "33":
+			print("28 / 33 = 0.84 and then probably more numbers idk i did it by hand...")
+		elif number1 == "28" and number2 == "34":
+			print("28 / 34 = 0.82 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "1":
+			print("29 / 1 = 29.0")
+		elif number1 == "29" and number2 == "2":
+			print("29 / 2 = 14.5")
+		elif number1 == "29" and number2 == "3":
+			print("29 / 3 = 9.66 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "4":
+			print("29 / 4 = 7.25")
+		elif number1 == "29" and number2 == "5":
+			print("29 / 5 = 5.8")
+		elif number1 == "29" and number2 == "6":
+			print("29 / 6 = 4.83 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "7":
+			print("29 / 7 = 4.14 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "8":
+			print("29 / 8 = 3.62 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "9":
+			print("29 / 9 = 3.22 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "10":
+			print("29 / 10 = 2.9")
+		elif number1 == "29" and number2 == "11":
+			print("29 / 11 = 2.63 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "12":
+			print("29 / 12 = 2.41 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "13":
+			print("29 / 13 = 2.23 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "14":
+			print("29 / 14 = 2.07 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "15":
+			print("29 / 15 = 1.93 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "16":
+			print("29 / 16 = 1.81 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "17":
+			print("29 / 17 = 1.70 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "18":
+			print("29 / 18 = 1.61 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "19":
+			print("29 / 19 = 1.52 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "20":
+			print("29 / 20 = 1.45")
+		elif number1 == "29" and number2 == "21":
+			print("29 / 21 = 1.38 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "22":
+			print("29 / 22 = 1.31 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "23":
+			print("29 / 23 = 1.26 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "24":
+			print("29 / 24 = 1.20 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "25":
+			print("29 / 25 = 1.16")
+		elif number1 == "29" and number2 == "26":
+			print("29 / 26 = 1.11 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "27":
+			print("29 / 27 = 1.07 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "28":
+			print("29 / 28 = 1.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "29":
+			print("29 / 29 = 1.0")
+		elif number1 == "29" and number2 == "30":
+			print("29 / 30 = 0.96 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "31":
+			print("29 / 31 = 0.93 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "32":
+			print("29 / 32 = 0.90 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "33":
+			print("29 / 33 = 0.87 and then probably more numbers idk i did it by hand...")
+		elif number1 == "29" and number2 == "34":
+			print("29 / 34 = 0.85 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "1":
+			print("30 / 1 = 30.0")
+		elif number1 == "30" and number2 == "2":
+			print("30 / 2 = 15.0")
+		elif number1 == "30" and number2 == "3":
+			print("30 / 3 = 10.0")
+		elif number1 == "30" and number2 == "4":
+			print("30 / 4 = 7.5")
+		elif number1 == "30" and number2 == "5":
+			print("30 / 5 = 6.0")
+		elif number1 == "30" and number2 == "6":
+			print("30 / 6 = 5.0")
+		elif number1 == "30" and number2 == "7":
+			print("30 / 7 = 4.28 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "8":
+			print("30 / 8 = 3.75")
+		elif number1 == "30" and number2 == "9":
+			print("30 / 9 = 3.33 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "10":
+			print("30 / 10 = 3.0")
+		elif number1 == "30" and number2 == "11":
+			print("30 / 11 = 2.72 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "12":
+			print("30 / 12 = 2.5")
+		elif number1 == "30" and number2 == "13":
+			print("30 / 13 = 2.30 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "14":
+			print("30 / 14 = 2.14 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "15":
+			print("30 / 15 = 2.0")
+		elif number1 == "30" and number2 == "16":
+			print("30 / 16 = 1.87 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "17":
+			print("30 / 17 = 1.76 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "18":
+			print("30 / 18 = 1.66 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "19":
+			print("30 / 19 = 1.57 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "20":
+			print("30 / 20 = 1.5")
+		elif number1 == "30" and number2 == "21":
+			print("30 / 21 = 1.42 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "22":
+			print("30 / 22 = 1.36 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "23":
+			print("30 / 23 = 1.30 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "24":
+			print("30 / 24 = 1.25")
+		elif number1 == "30" and number2 == "25":
+			print("30 / 25 = 1.2")
+		elif number1 == "30" and number2 == "26":
+			print("30 / 26 = 1.15 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "27":
+			print("30 / 27 = 1.11 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "28":
+			print("30 / 28 = 1.07 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "29":
+			print("30 / 29 = 1.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "30":
+			print("30 / 30 = 1.0")
+		elif number1 == "30" and number2 == "31":
+			print("30 / 31 = 0.96 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "32":
+			print("30 / 32 = 0.93 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "33":
+			print("30 / 33 = 0.90 and then probably more numbers idk i did it by hand...")
+		elif number1 == "30" and number2 == "34":
+			print("30 / 34 = 0.88 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "1":
+			print("31 / 1 = 31.0")
+		elif number1 == "31" and number2 == "2":
+			print("31 / 2 = 15.5")
+		elif number1 == "31" and number2 == "3":
+			print("31 / 3 = 10.33 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "4":
+			print("31 / 4 = 7.75")
+		elif number1 == "31" and number2 == "5":
+			print("31 / 5 = 6.2")
+		elif number1 == "31" and number2 == "6":
+			print("31 / 6 = 5.16 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "7":
+			print("31 / 7 = 4.42 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "8":
+			print("31 / 8 = 3.87 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "9":
+			print("31 / 9 = 3.44 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "10":
+			print("31 / 10 = 3.1")
+		elif number1 == "31" and number2 == "11":
+			print("31 / 11 = 2.81 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "12":
+			print("31 / 12 = 2.58 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "13":
+			print("31 / 13 = 2.38 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "14":
+			print("31 / 14 = 2.21 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "15":
+			print("31 / 15 = 2.06 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "16":
+			print("31 / 16 = 1.93 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "17":
+			print("31 / 17 = 1.82 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "18":
+			print("31 / 18 = 1.72 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "19":
+			print("31 / 19 = 1.63 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "20":
+			print("31 / 20 = 1.55")
+		elif number1 == "31" and number2 == "21":
+			print("31 / 21 = 1.47 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "22":
+			print("31 / 22 = 1.40 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "23":
+			print("31 / 23 = 1.34 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "24":
+			print("31 / 24 = 1.29 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "25":
+			print("31 / 25 = 1.24")
+		elif number1 == "31" and number2 == "26":
+			print("31 / 26 = 1.19 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "27":
+			print("31 / 27 = 1.14 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "28":
+			print("31 / 28 = 1.10 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "29":
+			print("31 / 29 = 1.06 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "30":
+			print("31 / 30 = 1.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "31":
+			print("31 / 31 = 1.0")
+		elif number1 == "31" and number2 == "32":
+			print("31 / 32 = 0.96 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "33":
+			print("31 / 33 = 0.93 and then probably more numbers idk i did it by hand...")
+		elif number1 == "31" and number2 == "34":
+			print("31 / 34 = 0.91 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "1":
+			print("32 / 1 = 32.0")
+		elif number1 == "32" and number2 == "2":
+			print("32 / 2 = 16.0")
+		elif number1 == "32" and number2 == "3":
+			print("32 / 3 = 10.66 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "4":
+			print("32 / 4 = 8.0")
+		elif number1 == "32" and number2 == "5":
+			print("32 / 5 = 6.4")
+		elif number1 == "32" and number2 == "6":
+			print("32 / 6 = 5.33 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "7":
+			print("32 / 7 = 4.57 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "8":
+			print("32 / 8 = 4.0")
+		elif number1 == "32" and number2 == "9":
+			print("32 / 9 = 3.55 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "10":
+			print("32 / 10 = 3.2")
+		elif number1 == "32" and number2 == "11":
+			print("32 / 11 = 2.90 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "12":
+			print("32 / 12 = 2.66 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "13":
+			print("32 / 13 = 2.46 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "14":
+			print("32 / 14 = 2.28 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "15":
+			print("32 / 15 = 2.13 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "16":
+			print("32 / 16 = 2.0")
+		elif number1 == "32" and number2 == "17":
+			print("32 / 17 = 1.88 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "18":
+			print("32 / 18 = 1.77 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "19":
+			print("32 / 19 = 1.68 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "20":
+			print("32 / 20 = 1.6")
+		elif number1 == "32" and number2 == "21":
+			print("32 / 21 = 1.52 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "22":
+			print("32 / 22 = 1.45 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "23":
+			print("32 / 23 = 1.39 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "24":
+			print("32 / 24 = 1.33 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "25":
+			print("32 / 25 = 1.28")
+		elif number1 == "32" and number2 == "26":
+			print("32 / 26 = 1.23 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "27":
+			print("32 / 27 = 1.18 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "28":
+			print("32 / 28 = 1.14 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "29":
+			print("32 / 29 = 1.10 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "30":
+			print("32 / 30 = 1.06 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "31":
+			print("32 / 31 = 1.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "32":
+			print("32 / 32 = 1.0")
+		elif number1 == "32" and number2 == "33":
+			print("32 / 33 = 0.96 and then probably more numbers idk i did it by hand...")
+		elif number1 == "32" and number2 == "34":
+			print("32 / 34 = 0.94 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "1":
+			print("33 / 1 = 33.0")
+		elif number1 == "33" and number2 == "2":
+			print("33 / 2 = 16.5")
+		elif number1 == "33" and number2 == "3":
+			print("33 / 3 = 11.0")
+		elif number1 == "33" and number2 == "4":
+			print("33 / 4 = 8.25")
+		elif number1 == "33" and number2 == "5":
+			print("33 / 5 = 6.6")
+		elif number1 == "33" and number2 == "6":
+			print("33 / 6 = 5.5")
+		elif number1 == "33" and number2 == "7":
+			print("33 / 7 = 4.71 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "8":
+			print("33 / 8 = 4.12 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "9":
+			print("33 / 9 = 3.66 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "10":
+			print("33 / 10 = 3.3")
+		elif number1 == "33" and number2 == "11":
+			print("33 / 11 = 3.0")
+		elif number1 == "33" and number2 == "12":
+			print("33 / 12 = 2.75")
+		elif number1 == "33" and number2 == "13":
+			print("33 / 13 = 2.53 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "14":
+			print("33 / 14 = 2.35 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "15":
+			print("33 / 15 = 2.2")
+		elif number1 == "33" and number2 == "16":
+			print("33 / 16 = 2.06 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "17":
+			print("33 / 17 = 1.94 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "18":
+			print("33 / 18 = 1.83 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "19":
+			print("33 / 19 = 1.73 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "20":
+			print("33 / 20 = 1.65")
+		elif number1 == "33" and number2 == "21":
+			print("33 / 21 = 1.57 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "22":
+			print("33 / 22 = 1.5")
+		elif number1 == "33" and number2 == "23":
+			print("33 / 23 = 1.43 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "24":
+			print("33 / 24 = 1.37 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "25":
+			print("33 / 25 = 1.32")
+		elif number1 == "33" and number2 == "26":
+			print("33 / 26 = 1.26 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "27":
+			print("33 / 27 = 1.22 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "28":
+			print("33 / 28 = 1.17 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "29":
+			print("33 / 29 = 1.13 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "30":
+			print("33 / 30 = 1.1")
+		elif number1 == "33" and number2 == "31":
+			print("33 / 31 = 1.06 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "32":
+			print("33 / 32 = 1.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "33" and number2 == "33":
+			print("33 / 33 = 1.0")
+		elif number1 == "33" and number2 == "34":
+			print("33 / 34 = 0.97 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "1":
+			print("34 / 1 = 34.0")
+		elif number1 == "34" and number2 == "2":
+			print("34 / 2 = 17.0")
+		elif number1 == "34" and number2 == "3":
+			print("34 / 3 = 11.33 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "4":
+			print("34 / 4 = 8.5")
+		elif number1 == "34" and number2 == "5":
+			print("34 / 5 = 6.8")
+		elif number1 == "34" and number2 == "6":
+			print("34 / 6 = 5.66 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "7":
+			print("34 / 7 = 4.85 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "8":
+			print("34 / 8 = 4.25")
+		elif number1 == "34" and number2 == "9":
+			print("34 / 9 = 3.77 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "10":
+			print("34 / 10 = 3.4")
+		elif number1 == "34" and number2 == "11":
+			print("34 / 11 = 3.09 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "12":
+			print("34 / 12 = 2.83 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "13":
+			print("34 / 13 = 2.61 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "14":
+			print("34 / 14 = 2.42 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "15":
+			print("34 / 15 = 2.26 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "16":
+			print("34 / 16 = 2.12 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "17":
+			print("34 / 17 = 2.0")
+		elif number1 == "34" and number2 == "18":
+			print("34 / 18 = 1.88 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "19":
+			print("34 / 19 = 1.78 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "20":
+			print("34 / 20 = 1.7")
+		elif number1 == "34" and number2 == "21":
+			print("34 / 21 = 1.61 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "22":
+			print("34 / 22 = 1.54 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "23":
+			print("34 / 23 = 1.47 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "24":
+			print("34 / 24 = 1.41 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "25":
+			print("34 / 25 = 1.36")
+		elif number1 == "34" and number2 == "26":
+			print("34 / 26 = 1.30 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "27":
+			print("34 / 27 = 1.25 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "28":
+			print("34 / 28 = 1.21 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "29":
+			print("34 / 29 = 1.17 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "30":
+			print("34 / 30 = 1.13 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "31":
+			print("34 / 31 = 1.09 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "32":
+			print("34 / 32 = 1.06 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "33":
+			print("34 / 33 = 1.03 and then probably more numbers idk i did it by hand...")
+		elif number1 == "34" and number2 == "34":
+			print("34 / 34 = 1.0")
 	else:
 		print("invalid operation")
