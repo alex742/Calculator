@@ -4,2317 +4,2317 @@ while True:
 	operation = input("Enter the operation (*, +, -, /): ")
 	if operation == "+":
 		if number1 == "1" and number2 == "1":
-			print("1 + 1 = 2")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "2":
-			print("1 + 2 = 3")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "3":
-			print("1 + 3 = 4")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "4":
-			print("1 + 4 = 5")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "5":
-			print("1 + 5 = 6")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "6":
-			print("1 + 6 = 7")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "7":
-			print("1 + 7 = 8")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "8":
-			print("1 + 8 = 9")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "9":
-			print("1 + 9 = 10")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "10":
-			print("1 + 10 = 11")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "11":
-			print("1 + 11 = 12")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "12":
-			print("1 + 12 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "13":
-			print("1 + 13 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "14":
-			print("1 + 14 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "15":
-			print("1 + 15 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "16":
-			print("1 + 16 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "17":
-			print("1 + 17 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "18":
-			print("1 + 18 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "19":
-			print("1 + 19 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "20":
-			print("1 + 20 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "21":
-			print("1 + 21 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "22":
-			print("1 + 22 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "23":
-			print("1 + 23 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "24":
-			print("1 + 24 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "25":
-			print("1 + 25 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "26":
-			print("1 + 26 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "27":
-			print("1 + 27 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "28":
-			print("1 + 28 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "29":
-			print("1 + 29 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "30":
-			print("1 + 30 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "31":
-			print("1 + 31 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "32":
-			print("1 + 32 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "33":
-			print("1 + 33 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "1" and number2 == "34":
-			print("1 + 34 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "1":
-			print("2 + 1 = 3")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "2":
-			print("2 + 2 = 4")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "3":
-			print("2 + 3 = 5")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "4":
-			print("2 + 4 = 6")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "5":
-			print("2 + 5 = 7")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "6":
-			print("2 + 6 = 8")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "7":
-			print("2 + 7 = 9")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "8":
-			print("2 + 8 = 10")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "9":
-			print("2 + 9 = 11")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "10":
-			print("2 + 10 = 12")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "11":
-			print("2 + 11 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "12":
-			print("2 + 12 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "13":
-			print("2 + 13 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "14":
-			print("2 + 14 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "15":
-			print("2 + 15 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "16":
-			print("2 + 16 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "17":
-			print("2 + 17 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "18":
-			print("2 + 18 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "19":
-			print("2 + 19 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "20":
-			print("2 + 20 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "21":
-			print("2 + 21 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "22":
-			print("2 + 22 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "23":
-			print("2 + 23 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "24":
-			print("2 + 24 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "25":
-			print("2 + 25 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "26":
-			print("2 + 26 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "27":
-			print("2 + 27 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "28":
-			print("2 + 28 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "29":
-			print("2 + 29 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "30":
-			print("2 + 30 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "31":
-			print("2 + 31 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "32":
-			print("2 + 32 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "33":
-			print("2 + 33 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "2" and number2 == "34":
-			print("2 + 34 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "1":
-			print("3 + 1 = 4")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "2":
-			print("3 + 2 = 5")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "3":
-			print("3 + 3 = 6")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "4":
-			print("3 + 4 = 7")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "5":
-			print("3 + 5 = 8")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "6":
-			print("3 + 6 = 9")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "7":
-			print("3 + 7 = 10")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "8":
-			print("3 + 8 = 11")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "9":
-			print("3 + 9 = 12")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "10":
-			print("3 + 10 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "11":
-			print("3 + 11 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "12":
-			print("3 + 12 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "13":
-			print("3 + 13 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "14":
-			print("3 + 14 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "15":
-			print("3 + 15 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "16":
-			print("3 + 16 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "17":
-			print("3 + 17 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "18":
-			print("3 + 18 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "19":
-			print("3 + 19 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "20":
-			print("3 + 20 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "21":
-			print("3 + 21 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "22":
-			print("3 + 22 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "23":
-			print("3 + 23 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "24":
-			print("3 + 24 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "25":
-			print("3 + 25 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "26":
-			print("3 + 26 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "27":
-			print("3 + 27 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "28":
-			print("3 + 28 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "29":
-			print("3 + 29 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "30":
-			print("3 + 30 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "31":
-			print("3 + 31 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "32":
-			print("3 + 32 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "33":
-			print("3 + 33 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "3" and number2 == "34":
-			print("3 + 34 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "1":
-			print("4 + 1 = 5")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "2":
-			print("4 + 2 = 6")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "3":
-			print("4 + 3 = 7")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "4":
-			print("4 + 4 = 8")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "5":
-			print("4 + 5 = 9")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "6":
-			print("4 + 6 = 10")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "7":
-			print("4 + 7 = 11")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "8":
-			print("4 + 8 = 12")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "9":
-			print("4 + 9 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "10":
-			print("4 + 10 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "11":
-			print("4 + 11 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "12":
-			print("4 + 12 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "13":
-			print("4 + 13 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "14":
-			print("4 + 14 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "15":
-			print("4 + 15 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "16":
-			print("4 + 16 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "17":
-			print("4 + 17 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "18":
-			print("4 + 18 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "19":
-			print("4 + 19 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "20":
-			print("4 + 20 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "21":
-			print("4 + 21 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "22":
-			print("4 + 22 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "23":
-			print("4 + 23 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "24":
-			print("4 + 24 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "25":
-			print("4 + 25 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "26":
-			print("4 + 26 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "27":
-			print("4 + 27 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "28":
-			print("4 + 28 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "29":
-			print("4 + 29 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "30":
-			print("4 + 30 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "31":
-			print("4 + 31 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "32":
-			print("4 + 32 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "33":
-			print("4 + 33 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "4" and number2 == "34":
-			print("4 + 34 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "1":
-			print("5 + 1 = 6")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "2":
-			print("5 + 2 = 7")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "3":
-			print("5 + 3 = 8")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "4":
-			print("5 + 4 = 9")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "5":
-			print("5 + 5 = 10")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "6":
-			print("5 + 6 = 11")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "7":
-			print("5 + 7 = 12")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "8":
-			print("5 + 8 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "9":
-			print("5 + 9 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "10":
-			print("5 + 10 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "11":
-			print("5 + 11 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "12":
-			print("5 + 12 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "13":
-			print("5 + 13 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "14":
-			print("5 + 14 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "15":
-			print("5 + 15 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "16":
-			print("5 + 16 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "17":
-			print("5 + 17 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "18":
-			print("5 + 18 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "19":
-			print("5 + 19 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "20":
-			print("5 + 20 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "21":
-			print("5 + 21 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "22":
-			print("5 + 22 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "23":
-			print("5 + 23 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "24":
-			print("5 + 24 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "25":
-			print("5 + 25 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "26":
-			print("5 + 26 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "27":
-			print("5 + 27 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "28":
-			print("5 + 28 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "29":
-			print("5 + 29 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "30":
-			print("5 + 30 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "31":
-			print("5 + 31 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "32":
-			print("5 + 32 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "33":
-			print("5 + 33 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "5" and number2 == "34":
-			print("5 + 34 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "1":
-			print("6 + 1 = 7")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "2":
-			print("6 + 2 = 8")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "3":
-			print("6 + 3 = 9")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "4":
-			print("6 + 4 = 10")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "5":
-			print("6 + 5 = 11")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "6":
-			print("6 + 6 = 12")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "7":
-			print("6 + 7 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "8":
-			print("6 + 8 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "9":
-			print("6 + 9 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "10":
-			print("6 + 10 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "11":
-			print("6 + 11 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "12":
-			print("6 + 12 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "13":
-			print("6 + 13 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "14":
-			print("6 + 14 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "15":
-			print("6 + 15 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "16":
-			print("6 + 16 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "17":
-			print("6 + 17 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "18":
-			print("6 + 18 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "19":
-			print("6 + 19 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "20":
-			print("6 + 20 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "21":
-			print("6 + 21 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "22":
-			print("6 + 22 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "23":
-			print("6 + 23 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "24":
-			print("6 + 24 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "25":
-			print("6 + 25 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "26":
-			print("6 + 26 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "27":
-			print("6 + 27 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "28":
-			print("6 + 28 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "29":
-			print("6 + 29 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "30":
-			print("6 + 30 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "31":
-			print("6 + 31 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "32":
-			print("6 + 32 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "33":
-			print("6 + 33 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "6" and number2 == "34":
-			print("6 + 34 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "1":
-			print("7 + 1 = 8")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "2":
-			print("7 + 2 = 9")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "3":
-			print("7 + 3 = 10")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "4":
-			print("7 + 4 = 11")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "5":
-			print("7 + 5 = 12")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "6":
-			print("7 + 6 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "7":
-			print("7 + 7 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "8":
-			print("7 + 8 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "9":
-			print("7 + 9 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "10":
-			print("7 + 10 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "11":
-			print("7 + 11 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "12":
-			print("7 + 12 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "13":
-			print("7 + 13 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "14":
-			print("7 + 14 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "15":
-			print("7 + 15 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "16":
-			print("7 + 16 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "17":
-			print("7 + 17 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "18":
-			print("7 + 18 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "19":
-			print("7 + 19 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "20":
-			print("7 + 20 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "21":
-			print("7 + 21 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "22":
-			print("7 + 22 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "23":
-			print("7 + 23 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "24":
-			print("7 + 24 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "25":
-			print("7 + 25 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "26":
-			print("7 + 26 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "27":
-			print("7 + 27 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "28":
-			print("7 + 28 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "29":
-			print("7 + 29 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "30":
-			print("7 + 30 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "31":
-			print("7 + 31 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "32":
-			print("7 + 32 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "33":
-			print("7 + 33 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "7" and number2 == "34":
-			print("7 + 34 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "1":
-			print("8 + 1 = 9")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "2":
-			print("8 + 2 = 10")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "3":
-			print("8 + 3 = 11")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "4":
-			print("8 + 4 = 12")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "5":
-			print("8 + 5 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "6":
-			print("8 + 6 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "7":
-			print("8 + 7 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "8":
-			print("8 + 8 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "9":
-			print("8 + 9 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "10":
-			print("8 + 10 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "11":
-			print("8 + 11 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "12":
-			print("8 + 12 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "13":
-			print("8 + 13 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "14":
-			print("8 + 14 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "15":
-			print("8 + 15 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "16":
-			print("8 + 16 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "17":
-			print("8 + 17 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "18":
-			print("8 + 18 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "19":
-			print("8 + 19 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "20":
-			print("8 + 20 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "21":
-			print("8 + 21 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "22":
-			print("8 + 22 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "23":
-			print("8 + 23 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "24":
-			print("8 + 24 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "25":
-			print("8 + 25 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "26":
-			print("8 + 26 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "27":
-			print("8 + 27 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "28":
-			print("8 + 28 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "29":
-			print("8 + 29 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "30":
-			print("8 + 30 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "31":
-			print("8 + 31 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "32":
-			print("8 + 32 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "33":
-			print("8 + 33 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "8" and number2 == "34":
-			print("8 + 34 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "1":
-			print("9 + 1 = 10")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "2":
-			print("9 + 2 = 11")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "3":
-			print("9 + 3 = 12")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "4":
-			print("9 + 4 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "5":
-			print("9 + 5 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "6":
-			print("9 + 6 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "7":
-			print("9 + 7 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "8":
-			print("9 + 8 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "9":
-			print("9 + 9 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "10":
-			print("9 + 10 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "11":
-			print("9 + 11 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "12":
-			print("9 + 12 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "13":
-			print("9 + 13 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "14":
-			print("9 + 14 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "15":
-			print("9 + 15 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "16":
-			print("9 + 16 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "17":
-			print("9 + 17 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "18":
-			print("9 + 18 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "19":
-			print("9 + 19 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "20":
-			print("9 + 20 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "21":
-			print("9 + 21 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "22":
-			print("9 + 22 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "23":
-			print("9 + 23 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "24":
-			print("9 + 24 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "25":
-			print("9 + 25 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "26":
-			print("9 + 26 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "27":
-			print("9 + 27 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "28":
-			print("9 + 28 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "29":
-			print("9 + 29 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "30":
-			print("9 + 30 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "31":
-			print("9 + 31 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "32":
-			print("9 + 32 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "33":
-			print("9 + 33 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "9" and number2 == "34":
-			print("9 + 34 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "1":
-			print("10 + 1 = 11")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "2":
-			print("10 + 2 = 12")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "3":
-			print("10 + 3 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "4":
-			print("10 + 4 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "5":
-			print("10 + 5 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "6":
-			print("10 + 6 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "7":
-			print("10 + 7 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "8":
-			print("10 + 8 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "9":
-			print("10 + 9 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "10":
-			print("10 + 10 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "11":
-			print("10 + 11 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "12":
-			print("10 + 12 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "13":
-			print("10 + 13 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "14":
-			print("10 + 14 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "15":
-			print("10 + 15 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "16":
-			print("10 + 16 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "17":
-			print("10 + 17 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "18":
-			print("10 + 18 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "19":
-			print("10 + 19 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "20":
-			print("10 + 20 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "21":
-			print("10 + 21 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "22":
-			print("10 + 22 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "23":
-			print("10 + 23 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "24":
-			print("10 + 24 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "25":
-			print("10 + 25 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "26":
-			print("10 + 26 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "27":
-			print("10 + 27 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "28":
-			print("10 + 28 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "29":
-			print("10 + 29 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "30":
-			print("10 + 30 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "31":
-			print("10 + 31 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "32":
-			print("10 + 32 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "33":
-			print("10 + 33 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "10" and number2 == "34":
-			print("10 + 34 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "1":
-			print("11 + 1 = 12")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "2":
-			print("11 + 2 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "3":
-			print("11 + 3 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "4":
-			print("11 + 4 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "5":
-			print("11 + 5 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "6":
-			print("11 + 6 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "7":
-			print("11 + 7 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "8":
-			print("11 + 8 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "9":
-			print("11 + 9 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "10":
-			print("11 + 10 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "11":
-			print("11 + 11 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "12":
-			print("11 + 12 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "13":
-			print("11 + 13 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "14":
-			print("11 + 14 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "15":
-			print("11 + 15 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "16":
-			print("11 + 16 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "17":
-			print("11 + 17 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "18":
-			print("11 + 18 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "19":
-			print("11 + 19 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "20":
-			print("11 + 20 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "21":
-			print("11 + 21 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "22":
-			print("11 + 22 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "23":
-			print("11 + 23 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "24":
-			print("11 + 24 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "25":
-			print("11 + 25 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "26":
-			print("11 + 26 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "27":
-			print("11 + 27 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "28":
-			print("11 + 28 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "29":
-			print("11 + 29 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "30":
-			print("11 + 30 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "31":
-			print("11 + 31 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "32":
-			print("11 + 32 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "33":
-			print("11 + 33 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "11" and number2 == "34":
-			print("11 + 34 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "1":
-			print("12 + 1 = 13")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "2":
-			print("12 + 2 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "3":
-			print("12 + 3 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "4":
-			print("12 + 4 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "5":
-			print("12 + 5 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "6":
-			print("12 + 6 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "7":
-			print("12 + 7 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "8":
-			print("12 + 8 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "9":
-			print("12 + 9 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "10":
-			print("12 + 10 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "11":
-			print("12 + 11 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "12":
-			print("12 + 12 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "13":
-			print("12 + 13 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "14":
-			print("12 + 14 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "15":
-			print("12 + 15 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "16":
-			print("12 + 16 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "17":
-			print("12 + 17 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "18":
-			print("12 + 18 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "19":
-			print("12 + 19 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "20":
-			print("12 + 20 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "21":
-			print("12 + 21 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "22":
-			print("12 + 22 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "23":
-			print("12 + 23 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "24":
-			print("12 + 24 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "25":
-			print("12 + 25 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "26":
-			print("12 + 26 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "27":
-			print("12 + 27 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "28":
-			print("12 + 28 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "29":
-			print("12 + 29 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "30":
-			print("12 + 30 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "31":
-			print("12 + 31 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "32":
-			print("12 + 32 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "33":
-			print("12 + 33 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "12" and number2 == "34":
-			print("12 + 34 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "1":
-			print("13 + 1 = 14")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "2":
-			print("13 + 2 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "3":
-			print("13 + 3 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "4":
-			print("13 + 4 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "5":
-			print("13 + 5 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "6":
-			print("13 + 6 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "7":
-			print("13 + 7 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "8":
-			print("13 + 8 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "9":
-			print("13 + 9 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "10":
-			print("13 + 10 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "11":
-			print("13 + 11 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "12":
-			print("13 + 12 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "13":
-			print("13 + 13 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "14":
-			print("13 + 14 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "15":
-			print("13 + 15 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "16":
-			print("13 + 16 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "17":
-			print("13 + 17 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "18":
-			print("13 + 18 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "19":
-			print("13 + 19 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "20":
-			print("13 + 20 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "21":
-			print("13 + 21 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "22":
-			print("13 + 22 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "23":
-			print("13 + 23 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "24":
-			print("13 + 24 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "25":
-			print("13 + 25 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "26":
-			print("13 + 26 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "27":
-			print("13 + 27 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "28":
-			print("13 + 28 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "29":
-			print("13 + 29 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "30":
-			print("13 + 30 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "31":
-			print("13 + 31 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "32":
-			print("13 + 32 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "33":
-			print("13 + 33 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "13" and number2 == "34":
-			print("13 + 34 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "1":
-			print("14 + 1 = 15")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "2":
-			print("14 + 2 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "3":
-			print("14 + 3 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "4":
-			print("14 + 4 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "5":
-			print("14 + 5 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "6":
-			print("14 + 6 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "7":
-			print("14 + 7 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "8":
-			print("14 + 8 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "9":
-			print("14 + 9 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "10":
-			print("14 + 10 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "11":
-			print("14 + 11 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "12":
-			print("14 + 12 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "13":
-			print("14 + 13 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "14":
-			print("14 + 14 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "15":
-			print("14 + 15 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "16":
-			print("14 + 16 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "17":
-			print("14 + 17 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "18":
-			print("14 + 18 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "19":
-			print("14 + 19 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "20":
-			print("14 + 20 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "21":
-			print("14 + 21 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "22":
-			print("14 + 22 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "23":
-			print("14 + 23 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "24":
-			print("14 + 24 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "25":
-			print("14 + 25 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "26":
-			print("14 + 26 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "27":
-			print("14 + 27 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "28":
-			print("14 + 28 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "29":
-			print("14 + 29 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "30":
-			print("14 + 30 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "31":
-			print("14 + 31 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "32":
-			print("14 + 32 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "33":
-			print("14 + 33 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "14" and number2 == "34":
-			print("14 + 34 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "1":
-			print("15 + 1 = 16")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "2":
-			print("15 + 2 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "3":
-			print("15 + 3 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "4":
-			print("15 + 4 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "5":
-			print("15 + 5 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "6":
-			print("15 + 6 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "7":
-			print("15 + 7 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "8":
-			print("15 + 8 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "9":
-			print("15 + 9 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "10":
-			print("15 + 10 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "11":
-			print("15 + 11 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "12":
-			print("15 + 12 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "13":
-			print("15 + 13 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "14":
-			print("15 + 14 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "15":
-			print("15 + 15 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "16":
-			print("15 + 16 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "17":
-			print("15 + 17 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "18":
-			print("15 + 18 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "19":
-			print("15 + 19 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "20":
-			print("15 + 20 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "21":
-			print("15 + 21 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "22":
-			print("15 + 22 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "23":
-			print("15 + 23 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "24":
-			print("15 + 24 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "25":
-			print("15 + 25 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "26":
-			print("15 + 26 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "27":
-			print("15 + 27 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "28":
-			print("15 + 28 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "29":
-			print("15 + 29 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "30":
-			print("15 + 30 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "31":
-			print("15 + 31 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "32":
-			print("15 + 32 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "33":
-			print("15 + 33 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "15" and number2 == "34":
-			print("15 + 34 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "1":
-			print("16 + 1 = 17")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "2":
-			print("16 + 2 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "3":
-			print("16 + 3 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "4":
-			print("16 + 4 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "5":
-			print("16 + 5 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "6":
-			print("16 + 6 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "7":
-			print("16 + 7 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "8":
-			print("16 + 8 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "9":
-			print("16 + 9 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "10":
-			print("16 + 10 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "11":
-			print("16 + 11 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "12":
-			print("16 + 12 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "13":
-			print("16 + 13 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "14":
-			print("16 + 14 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "15":
-			print("16 + 15 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "16":
-			print("16 + 16 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "17":
-			print("16 + 17 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "18":
-			print("16 + 18 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "19":
-			print("16 + 19 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "20":
-			print("16 + 20 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "21":
-			print("16 + 21 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "22":
-			print("16 + 22 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "23":
-			print("16 + 23 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "24":
-			print("16 + 24 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "25":
-			print("16 + 25 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "26":
-			print("16 + 26 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "27":
-			print("16 + 27 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "28":
-			print("16 + 28 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "29":
-			print("16 + 29 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "30":
-			print("16 + 30 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "31":
-			print("16 + 31 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "32":
-			print("16 + 32 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "33":
-			print("16 + 33 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "16" and number2 == "34":
-			print("16 + 34 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "1":
-			print("17 + 1 = 18")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "2":
-			print("17 + 2 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "3":
-			print("17 + 3 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "4":
-			print("17 + 4 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "5":
-			print("17 + 5 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "6":
-			print("17 + 6 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "7":
-			print("17 + 7 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "8":
-			print("17 + 8 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "9":
-			print("17 + 9 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "10":
-			print("17 + 10 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "11":
-			print("17 + 11 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "12":
-			print("17 + 12 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "13":
-			print("17 + 13 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "14":
-			print("17 + 14 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "15":
-			print("17 + 15 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "16":
-			print("17 + 16 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "17":
-			print("17 + 17 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "18":
-			print("17 + 18 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "19":
-			print("17 + 19 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "20":
-			print("17 + 20 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "21":
-			print("17 + 21 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "22":
-			print("17 + 22 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "23":
-			print("17 + 23 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "24":
-			print("17 + 24 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "25":
-			print("17 + 25 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "26":
-			print("17 + 26 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "27":
-			print("17 + 27 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "28":
-			print("17 + 28 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "29":
-			print("17 + 29 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "30":
-			print("17 + 30 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "31":
-			print("17 + 31 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "32":
-			print("17 + 32 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "33":
-			print("17 + 33 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "17" and number2 == "34":
-			print("17 + 34 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "1":
-			print("18 + 1 = 19")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "2":
-			print("18 + 2 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "3":
-			print("18 + 3 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "4":
-			print("18 + 4 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "5":
-			print("18 + 5 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "6":
-			print("18 + 6 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "7":
-			print("18 + 7 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "8":
-			print("18 + 8 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "9":
-			print("18 + 9 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "10":
-			print("18 + 10 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "11":
-			print("18 + 11 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "12":
-			print("18 + 12 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "13":
-			print("18 + 13 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "14":
-			print("18 + 14 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "15":
-			print("18 + 15 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "16":
-			print("18 + 16 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "17":
-			print("18 + 17 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "18":
-			print("18 + 18 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "19":
-			print("18 + 19 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "20":
-			print("18 + 20 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "21":
-			print("18 + 21 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "22":
-			print("18 + 22 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "23":
-			print("18 + 23 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "24":
-			print("18 + 24 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "25":
-			print("18 + 25 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "26":
-			print("18 + 26 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "27":
-			print("18 + 27 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "28":
-			print("18 + 28 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "29":
-			print("18 + 29 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "30":
-			print("18 + 30 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "31":
-			print("18 + 31 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "32":
-			print("18 + 32 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "33":
-			print("18 + 33 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "18" and number2 == "34":
-			print("18 + 34 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "1":
-			print("19 + 1 = 20")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "2":
-			print("19 + 2 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "3":
-			print("19 + 3 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "4":
-			print("19 + 4 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "5":
-			print("19 + 5 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "6":
-			print("19 + 6 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "7":
-			print("19 + 7 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "8":
-			print("19 + 8 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "9":
-			print("19 + 9 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "10":
-			print("19 + 10 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "11":
-			print("19 + 11 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "12":
-			print("19 + 12 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "13":
-			print("19 + 13 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "14":
-			print("19 + 14 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "15":
-			print("19 + 15 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "16":
-			print("19 + 16 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "17":
-			print("19 + 17 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "18":
-			print("19 + 18 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "19":
-			print("19 + 19 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "20":
-			print("19 + 20 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "21":
-			print("19 + 21 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "22":
-			print("19 + 22 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "23":
-			print("19 + 23 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "24":
-			print("19 + 24 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "25":
-			print("19 + 25 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "26":
-			print("19 + 26 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "27":
-			print("19 + 27 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "28":
-			print("19 + 28 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "29":
-			print("19 + 29 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "30":
-			print("19 + 30 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "31":
-			print("19 + 31 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "32":
-			print("19 + 32 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "33":
-			print("19 + 33 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "19" and number2 == "34":
-			print("19 + 34 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "1":
-			print("20 + 1 = 21")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "2":
-			print("20 + 2 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "3":
-			print("20 + 3 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "4":
-			print("20 + 4 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "5":
-			print("20 + 5 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "6":
-			print("20 + 6 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "7":
-			print("20 + 7 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "8":
-			print("20 + 8 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "9":
-			print("20 + 9 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "10":
-			print("20 + 10 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "11":
-			print("20 + 11 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "12":
-			print("20 + 12 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "13":
-			print("20 + 13 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "14":
-			print("20 + 14 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "15":
-			print("20 + 15 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "16":
-			print("20 + 16 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "17":
-			print("20 + 17 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "18":
-			print("20 + 18 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "19":
-			print("20 + 19 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "20":
-			print("20 + 20 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "21":
-			print("20 + 21 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "22":
-			print("20 + 22 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "23":
-			print("20 + 23 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "24":
-			print("20 + 24 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "25":
-			print("20 + 25 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "26":
-			print("20 + 26 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "27":
-			print("20 + 27 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "28":
-			print("20 + 28 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "29":
-			print("20 + 29 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "30":
-			print("20 + 30 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "31":
-			print("20 + 31 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "32":
-			print("20 + 32 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "33":
-			print("20 + 33 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "20" and number2 == "34":
-			print("20 + 34 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "1":
-			print("21 + 1 = 22")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "2":
-			print("21 + 2 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "3":
-			print("21 + 3 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "4":
-			print("21 + 4 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "5":
-			print("21 + 5 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "6":
-			print("21 + 6 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "7":
-			print("21 + 7 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "8":
-			print("21 + 8 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "9":
-			print("21 + 9 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "10":
-			print("21 + 10 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "11":
-			print("21 + 11 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "12":
-			print("21 + 12 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "13":
-			print("21 + 13 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "14":
-			print("21 + 14 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "15":
-			print("21 + 15 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "16":
-			print("21 + 16 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "17":
-			print("21 + 17 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "18":
-			print("21 + 18 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "19":
-			print("21 + 19 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "20":
-			print("21 + 20 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "21":
-			print("21 + 21 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "22":
-			print("21 + 22 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "23":
-			print("21 + 23 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "24":
-			print("21 + 24 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "25":
-			print("21 + 25 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "26":
-			print("21 + 26 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "27":
-			print("21 + 27 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "28":
-			print("21 + 28 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "29":
-			print("21 + 29 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "30":
-			print("21 + 30 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "31":
-			print("21 + 31 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "32":
-			print("21 + 32 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "33":
-			print("21 + 33 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "21" and number2 == "34":
-			print("21 + 34 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "1":
-			print("22 + 1 = 23")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "2":
-			print("22 + 2 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "3":
-			print("22 + 3 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "4":
-			print("22 + 4 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "5":
-			print("22 + 5 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "6":
-			print("22 + 6 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "7":
-			print("22 + 7 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "8":
-			print("22 + 8 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "9":
-			print("22 + 9 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "10":
-			print("22 + 10 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "11":
-			print("22 + 11 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "12":
-			print("22 + 12 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "13":
-			print("22 + 13 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "14":
-			print("22 + 14 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "15":
-			print("22 + 15 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "16":
-			print("22 + 16 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "17":
-			print("22 + 17 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "18":
-			print("22 + 18 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "19":
-			print("22 + 19 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "20":
-			print("22 + 20 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "21":
-			print("22 + 21 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "22":
-			print("22 + 22 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "23":
-			print("22 + 23 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "24":
-			print("22 + 24 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "25":
-			print("22 + 25 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "26":
-			print("22 + 26 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "27":
-			print("22 + 27 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "28":
-			print("22 + 28 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "29":
-			print("22 + 29 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "30":
-			print("22 + 30 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "31":
-			print("22 + 31 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "32":
-			print("22 + 32 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "33":
-			print("22 + 33 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "22" and number2 == "34":
-			print("22 + 34 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "1":
-			print("23 + 1 = 24")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "2":
-			print("23 + 2 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "3":
-			print("23 + 3 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "4":
-			print("23 + 4 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "5":
-			print("23 + 5 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "6":
-			print("23 + 6 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "7":
-			print("23 + 7 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "8":
-			print("23 + 8 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "9":
-			print("23 + 9 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "10":
-			print("23 + 10 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "11":
-			print("23 + 11 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "12":
-			print("23 + 12 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "13":
-			print("23 + 13 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "14":
-			print("23 + 14 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "15":
-			print("23 + 15 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "16":
-			print("23 + 16 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "17":
-			print("23 + 17 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "18":
-			print("23 + 18 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "19":
-			print("23 + 19 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "20":
-			print("23 + 20 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "21":
-			print("23 + 21 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "22":
-			print("23 + 22 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "23":
-			print("23 + 23 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "24":
-			print("23 + 24 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "25":
-			print("23 + 25 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "26":
-			print("23 + 26 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "27":
-			print("23 + 27 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "28":
-			print("23 + 28 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "29":
-			print("23 + 29 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "30":
-			print("23 + 30 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "31":
-			print("23 + 31 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "32":
-			print("23 + 32 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "33":
-			print("23 + 33 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "23" and number2 == "34":
-			print("23 + 34 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "1":
-			print("24 + 1 = 25")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "2":
-			print("24 + 2 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "3":
-			print("24 + 3 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "4":
-			print("24 + 4 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "5":
-			print("24 + 5 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "6":
-			print("24 + 6 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "7":
-			print("24 + 7 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "8":
-			print("24 + 8 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "9":
-			print("24 + 9 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "10":
-			print("24 + 10 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "11":
-			print("24 + 11 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "12":
-			print("24 + 12 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "13":
-			print("24 + 13 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "14":
-			print("24 + 14 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "15":
-			print("24 + 15 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "16":
-			print("24 + 16 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "17":
-			print("24 + 17 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "18":
-			print("24 + 18 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "19":
-			print("24 + 19 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "20":
-			print("24 + 20 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "21":
-			print("24 + 21 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "22":
-			print("24 + 22 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "23":
-			print("24 + 23 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "24":
-			print("24 + 24 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "25":
-			print("24 + 25 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "26":
-			print("24 + 26 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "27":
-			print("24 + 27 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "28":
-			print("24 + 28 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "29":
-			print("24 + 29 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "30":
-			print("24 + 30 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "31":
-			print("24 + 31 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "32":
-			print("24 + 32 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "33":
-			print("24 + 33 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "24" and number2 == "34":
-			print("24 + 34 = 58")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "1":
-			print("25 + 1 = 26")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "2":
-			print("25 + 2 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "3":
-			print("25 + 3 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "4":
-			print("25 + 4 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "5":
-			print("25 + 5 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "6":
-			print("25 + 6 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "7":
-			print("25 + 7 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "8":
-			print("25 + 8 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "9":
-			print("25 + 9 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "10":
-			print("25 + 10 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "11":
-			print("25 + 11 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "12":
-			print("25 + 12 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "13":
-			print("25 + 13 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "14":
-			print("25 + 14 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "15":
-			print("25 + 15 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "16":
-			print("25 + 16 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "17":
-			print("25 + 17 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "18":
-			print("25 + 18 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "19":
-			print("25 + 19 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "20":
-			print("25 + 20 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "21":
-			print("25 + 21 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "22":
-			print("25 + 22 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "23":
-			print("25 + 23 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "24":
-			print("25 + 24 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "25":
-			print("25 + 25 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "26":
-			print("25 + 26 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "27":
-			print("25 + 27 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "28":
-			print("25 + 28 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "29":
-			print("25 + 29 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "30":
-			print("25 + 30 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "31":
-			print("25 + 31 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "32":
-			print("25 + 32 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "33":
-			print("25 + 33 = 58")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "25" and number2 == "34":
-			print("25 + 34 = 59")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "1":
-			print("26 + 1 = 27")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "2":
-			print("26 + 2 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "3":
-			print("26 + 3 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "4":
-			print("26 + 4 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "5":
-			print("26 + 5 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "6":
-			print("26 + 6 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "7":
-			print("26 + 7 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "8":
-			print("26 + 8 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "9":
-			print("26 + 9 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "10":
-			print("26 + 10 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "11":
-			print("26 + 11 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "12":
-			print("26 + 12 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "13":
-			print("26 + 13 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "14":
-			print("26 + 14 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "15":
-			print("26 + 15 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "16":
-			print("26 + 16 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "17":
-			print("26 + 17 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "18":
-			print("26 + 18 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "19":
-			print("26 + 19 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "20":
-			print("26 + 20 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "21":
-			print("26 + 21 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "22":
-			print("26 + 22 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "23":
-			print("26 + 23 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "24":
-			print("26 + 24 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "25":
-			print("26 + 25 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "26":
-			print("26 + 26 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "27":
-			print("26 + 27 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "28":
-			print("26 + 28 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "29":
-			print("26 + 29 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "30":
-			print("26 + 30 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "31":
-			print("26 + 31 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "32":
-			print("26 + 32 = 58")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "33":
-			print("26 + 33 = 59")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "26" and number2 == "34":
-			print("26 + 34 = 60")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "1":
-			print("27 + 1 = 28")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "2":
-			print("27 + 2 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "3":
-			print("27 + 3 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "4":
-			print("27 + 4 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "5":
-			print("27 + 5 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "6":
-			print("27 + 6 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "7":
-			print("27 + 7 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "8":
-			print("27 + 8 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "9":
-			print("27 + 9 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "10":
-			print("27 + 10 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "11":
-			print("27 + 11 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "12":
-			print("27 + 12 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "13":
-			print("27 + 13 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "14":
-			print("27 + 14 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "15":
-			print("27 + 15 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "16":
-			print("27 + 16 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "17":
-			print("27 + 17 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "18":
-			print("27 + 18 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "19":
-			print("27 + 19 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "20":
-			print("27 + 20 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "21":
-			print("27 + 21 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "22":
-			print("27 + 22 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "23":
-			print("27 + 23 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "24":
-			print("27 + 24 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "25":
-			print("27 + 25 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "26":
-			print("27 + 26 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "27":
-			print("27 + 27 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "28":
-			print("27 + 28 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "29":
-			print("27 + 29 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "30":
-			print("27 + 30 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "31":
-			print("27 + 31 = 58")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "32":
-			print("27 + 32 = 59")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "33":
-			print("27 + 33 = 60")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "27" and number2 == "34":
-			print("27 + 34 = 61")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "1":
-			print("28 + 1 = 29")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "2":
-			print("28 + 2 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "3":
-			print("28 + 3 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "4":
-			print("28 + 4 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "5":
-			print("28 + 5 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "6":
-			print("28 + 6 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "7":
-			print("28 + 7 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "8":
-			print("28 + 8 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "9":
-			print("28 + 9 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "10":
-			print("28 + 10 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "11":
-			print("28 + 11 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "12":
-			print("28 + 12 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "13":
-			print("28 + 13 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "14":
-			print("28 + 14 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "15":
-			print("28 + 15 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "16":
-			print("28 + 16 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "17":
-			print("28 + 17 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "18":
-			print("28 + 18 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "19":
-			print("28 + 19 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "20":
-			print("28 + 20 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "21":
-			print("28 + 21 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "22":
-			print("28 + 22 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "23":
-			print("28 + 23 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "24":
-			print("28 + 24 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "25":
-			print("28 + 25 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "26":
-			print("28 + 26 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "27":
-			print("28 + 27 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "28":
-			print("28 + 28 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "29":
-			print("28 + 29 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "30":
-			print("28 + 30 = 58")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "31":
-			print("28 + 31 = 59")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "32":
-			print("28 + 32 = 60")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "33":
-			print("28 + 33 = 61")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "28" and number2 == "34":
-			print("28 + 34 = 62")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "1":
-			print("29 + 1 = 30")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "2":
-			print("29 + 2 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "3":
-			print("29 + 3 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "4":
-			print("29 + 4 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "5":
-			print("29 + 5 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "6":
-			print("29 + 6 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "7":
-			print("29 + 7 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "8":
-			print("29 + 8 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "9":
-			print("29 + 9 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "10":
-			print("29 + 10 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "11":
-			print("29 + 11 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "12":
-			print("29 + 12 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "13":
-			print("29 + 13 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "14":
-			print("29 + 14 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "15":
-			print("29 + 15 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "16":
-			print("29 + 16 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "17":
-			print("29 + 17 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "18":
-			print("29 + 18 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "19":
-			print("29 + 19 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "20":
-			print("29 + 20 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "21":
-			print("29 + 21 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "22":
-			print("29 + 22 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "23":
-			print("29 + 23 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "24":
-			print("29 + 24 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "25":
-			print("29 + 25 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "26":
-			print("29 + 26 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "27":
-			print("29 + 27 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "28":
-			print("29 + 28 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "29":
-			print("29 + 29 = 58")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "30":
-			print("29 + 30 = 59")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "31":
-			print("29 + 31 = 60")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "32":
-			print("29 + 32 = 61")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "33":
-			print("29 + 33 = 62")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "29" and number2 == "34":
-			print("29 + 34 = 63")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "1":
-			print("30 + 1 = 31")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "2":
-			print("30 + 2 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "3":
-			print("30 + 3 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "4":
-			print("30 + 4 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "5":
-			print("30 + 5 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "6":
-			print("30 + 6 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "7":
-			print("30 + 7 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "8":
-			print("30 + 8 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "9":
-			print("30 + 9 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "10":
-			print("30 + 10 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "11":
-			print("30 + 11 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "12":
-			print("30 + 12 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "13":
-			print("30 + 13 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "14":
-			print("30 + 14 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "15":
-			print("30 + 15 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "16":
-			print("30 + 16 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "17":
-			print("30 + 17 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "18":
-			print("30 + 18 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "19":
-			print("30 + 19 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "20":
-			print("30 + 20 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "21":
-			print("30 + 21 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "22":
-			print("30 + 22 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "23":
-			print("30 + 23 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "24":
-			print("30 + 24 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "25":
-			print("30 + 25 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "26":
-			print("30 + 26 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "27":
-			print("30 + 27 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "28":
-			print("30 + 28 = 58")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "29":
-			print("30 + 29 = 59")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "30":
-			print("30 + 30 = 60")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "31":
-			print("30 + 31 = 61")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "32":
-			print("30 + 32 = 62")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "33":
-			print("30 + 33 = 63")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "30" and number2 == "34":
-			print("30 + 34 = 64")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "1":
-			print("31 + 1 = 32")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "2":
-			print("31 + 2 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "3":
-			print("31 + 3 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "4":
-			print("31 + 4 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "5":
-			print("31 + 5 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "6":
-			print("31 + 6 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "7":
-			print("31 + 7 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "8":
-			print("31 + 8 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "9":
-			print("31 + 9 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "10":
-			print("31 + 10 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "11":
-			print("31 + 11 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "12":
-			print("31 + 12 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "13":
-			print("31 + 13 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "14":
-			print("31 + 14 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "15":
-			print("31 + 15 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "16":
-			print("31 + 16 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "17":
-			print("31 + 17 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "18":
-			print("31 + 18 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "19":
-			print("31 + 19 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "20":
-			print("31 + 20 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "21":
-			print("31 + 21 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "22":
-			print("31 + 22 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "23":
-			print("31 + 23 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "24":
-			print("31 + 24 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "25":
-			print("31 + 25 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "26":
-			print("31 + 26 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "27":
-			print("31 + 27 = 58")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "28":
-			print("31 + 28 = 59")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "29":
-			print("31 + 29 = 60")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "30":
-			print("31 + 30 = 61")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "31":
-			print("31 + 31 = 62")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "32":
-			print("31 + 32 = 63")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "33":
-			print("31 + 33 = 64")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "31" and number2 == "34":
-			print("31 + 34 = 65")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "1":
-			print("32 + 1 = 33")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "2":
-			print("32 + 2 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "3":
-			print("32 + 3 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "4":
-			print("32 + 4 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "5":
-			print("32 + 5 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "6":
-			print("32 + 6 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "7":
-			print("32 + 7 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "8":
-			print("32 + 8 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "9":
-			print("32 + 9 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "10":
-			print("32 + 10 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "11":
-			print("32 + 11 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "12":
-			print("32 + 12 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "13":
-			print("32 + 13 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "14":
-			print("32 + 14 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "15":
-			print("32 + 15 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "16":
-			print("32 + 16 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "17":
-			print("32 + 17 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "18":
-			print("32 + 18 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "19":
-			print("32 + 19 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "20":
-			print("32 + 20 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "21":
-			print("32 + 21 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "22":
-			print("32 + 22 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "23":
-			print("32 + 23 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "24":
-			print("32 + 24 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "25":
-			print("32 + 25 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "26":
-			print("32 + 26 = 58")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "27":
-			print("32 + 27 = 59")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "28":
-			print("32 + 28 = 60")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "29":
-			print("32 + 29 = 61")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "30":
-			print("32 + 30 = 62")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "31":
-			print("32 + 31 = 63")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "32":
-			print("32 + 32 = 64")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "33":
-			print("32 + 33 = 65")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "32" and number2 == "34":
-			print("32 + 34 = 66")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "1":
-			print("33 + 1 = 34")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "2":
-			print("33 + 2 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "3":
-			print("33 + 3 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "4":
-			print("33 + 4 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "5":
-			print("33 + 5 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "6":
-			print("33 + 6 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "7":
-			print("33 + 7 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "8":
-			print("33 + 8 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "9":
-			print("33 + 9 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "10":
-			print("33 + 10 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "11":
-			print("33 + 11 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "12":
-			print("33 + 12 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "13":
-			print("33 + 13 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "14":
-			print("33 + 14 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "15":
-			print("33 + 15 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "16":
-			print("33 + 16 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "17":
-			print("33 + 17 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "18":
-			print("33 + 18 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "19":
-			print("33 + 19 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "20":
-			print("33 + 20 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "21":
-			print("33 + 21 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "22":
-			print("33 + 22 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "23":
-			print("33 + 23 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "24":
-			print("33 + 24 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "25":
-			print("33 + 25 = 58")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "26":
-			print("33 + 26 = 59")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "27":
-			print("33 + 27 = 60")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "28":
-			print("33 + 28 = 61")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "29":
-			print("33 + 29 = 62")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "30":
-			print("33 + 30 = 63")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "31":
-			print("33 + 31 = 64")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "32":
-			print("33 + 32 = 65")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "33":
-			print("33 + 33 = 66")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "33" and number2 == "34":
-			print("33 + 34 = 67")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "1":
-			print("34 + 1 = 35")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "2":
-			print("34 + 2 = 36")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "3":
-			print("34 + 3 = 37")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "4":
-			print("34 + 4 = 38")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "5":
-			print("34 + 5 = 39")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "6":
-			print("34 + 6 = 40")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "7":
-			print("34 + 7 = 41")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "8":
-			print("34 + 8 = 42")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "9":
-			print("34 + 9 = 43")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "10":
-			print("34 + 10 = 44")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "11":
-			print("34 + 11 = 45")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "12":
-			print("34 + 12 = 46")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "13":
-			print("34 + 13 = 47")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "14":
-			print("34 + 14 = 48")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "15":
-			print("34 + 15 = 49")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "16":
-			print("34 + 16 = 50")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "17":
-			print("34 + 17 = 51")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "18":
-			print("34 + 18 = 52")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "19":
-			print("34 + 19 = 53")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "20":
-			print("34 + 20 = 54")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "21":
-			print("34 + 21 = 55")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "22":
-			print("34 + 22 = 56")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "23":
-			print("34 + 23 = 57")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "24":
-			print("34 + 24 = 58")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "25":
-			print("34 + 25 = 59")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "26":
-			print("34 + 26 = 60")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "27":
-			print("34 + 27 = 61")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "28":
-			print("34 + 28 = 62")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "29":
-			print("34 + 29 = 63")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "30":
-			print("34 + 30 = 64")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "31":
-			print("34 + 31 = 65")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "32":
-			print("34 + 32 = 66")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "33":
-			print("34 + 33 = 67")
+			print(f"{number1} + {number2} = {number1 + number2}")
 		elif number1 == "34" and number2 == "34":
-			print("34 + 34 = 68")
+			print(f"{number1} + {number2} = {number1 + number2}")
 	elif operation == "-":
 		if number1 == "1" and number2 == "1":
 			print("1 - 1 = 0")
